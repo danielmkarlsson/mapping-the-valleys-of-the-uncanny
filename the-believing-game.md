@@ -7,3 +7,5 @@ everything to be so different, about the way we perceive this place, where we
 are now. You are reluctant to have your perspective changed. Your world views
 are pretty much set. Let's play a game you and I. It's called: The Believing
 Game.  
+
+I most likely will have to reference [this](https://github.com/danielmkarlsson/library/blob/master/Peter%20Elbow%20-%20The%20Believing%20Game--Methodological%20Believing.pdf)
