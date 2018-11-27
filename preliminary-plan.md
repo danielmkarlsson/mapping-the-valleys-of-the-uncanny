@@ -51,3 +51,12 @@ Stretch goals would be to influence people to join me in rewiring the term
 Computer Music to hold a new meaning. One tailored specifically to fit our time.
 As computers are no longer held in artificial scarcity but rather available in
 abundance new ways of thinking and acting in the world are possible.
+
+If possible one idea would be to fill the first set with only "solo" pieces
+(pieces which use one set of samples).
+
+After the intermission a duo piece, then a trio piece and so on.
+
+The third set would be an ensemble piece. It might could be that holding out for
+a tutti divisi 100 hundred stem orchestra piece equivalent would be pushing it.
+That would for sure be the top of the pyramid though.
