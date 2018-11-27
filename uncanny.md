@@ -83,10 +83,3 @@ an early days sampler with a single layer of samples. No round-robin switching
 out of the samples to mimic what happens "naturally" when a key is struck on a
 Celesta. An infinite amount of the subtlest variation explodes out of that
 action each time.
-
-Homework:   
-• Find Masters (plural) and a Doctor thesis to write about.  
-• Choose a piece that is finished and either talk about it or write a text about
-the work or write from a new angle if a text alreday exists.
-
-
