@@ -83,3 +83,5 @@ an early days sampler with a single layer of samples. No round-robin switching
 out of the samples to mimic what happens "naturally" when a key is struck on a
 Celesta. An infinite amount of the subtlest variation explodes out of that
 action each time.
+
+avant.org/artifact/stephen-willats/.png
