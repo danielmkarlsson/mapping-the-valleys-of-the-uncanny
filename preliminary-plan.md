@@ -8,6 +8,8 @@ composition._
 _The role of instrumentation and timbre as they unwittingly
 conspire to designate access, power, work and ultimately class._  
 
+(I might have to walk this second description back to some extent)
+
 Three hours from opening to closing including intermissions. New Computer Music
 compositions presented within the framework of an evening at Fylkingen. A linear
 sequence of stereophonic fixed media single screen video files depicting a kind
@@ -15,8 +17,11 @@ of stylized visit to an Internet site. Entirely through composed deterministic
 realisations with no live instrumentalists. Each of the three sets will have a
 duration of about 40 minutes each and will allow for about 20 minute
 intermissions after each set. The three sets will contain presentations of sonic
-materials interspersed with excerpts from the thesis using speech synthesis. As
-each material plays comments will be written explaining how each line
+materials interspersed with excerpts from the thesis using speech synthesis and, 
+possibly questions posed by my friend Blue. Hopefully leaning towards conversation
+in style.  
+
+As each material plays comments will be written explaining how each line
 contributes to the resultant music. To be performed during LjudOljud on April
 6th at Fylkingen. Documented as an Internet site containing all music and text. 
 
@@ -58,22 +63,22 @@ If possible one idea would be to fill the first set with only "solo" pieces
 After the intermission a duo piece, then a trio piece and so on.
 
 The third set is an ensemble piece. Holding out for
-a tutti divisi 100 hundred stem orchestra piece equivalent was pushing it.
-That would for sure be the top of the pyramid though.
+a tutti divisi 100 hundred stem orchestra piece equivalent was, as I had guessed, 
+pushing it. That would for sure be the top of the pyramid though.
 What I ended up with is a 40 minute piece for large ensmeble.
-One .scd file controlling a multitude of:
+From one .scd file I have created the entire 40 minute's worth of music that is to 
+be contained within the third act. Having completed this task I feel confident that 
+no matter what happens now, at least I'll have one set that is ok. Most folks only 
+do the one set don't they? 
 
-• Violin
-• Viola
-• Cello
-• ContraBass
-• Organ
-• WoodWinds
-• Zither 
-• Bowls 
-• Crotales
-• Gongs
-• MicroModular
-• Soprano
+I think that I can work my way backwards from the end now. I've learned a lot from 
+completeting the last piece.  
+One term to go.
 
-It b
+One story that has always fascinated me is the one about Pythagoras divvying up 
+strings. Going forward what I'm thinking I'll do is make a 20 minute piece and 
+then a 10 minute piece and then a 5 minute piece and so on with smaller and smaller 
+ensembles. That way maybe I can show that time is an illusion and that we are all 
+here now just passing it, as best we can, hoping it all works out, waiting for 
+something, not sure what. Who knows; Maybe we do have a shot at forever after all. 
+As long as we draw breath, I would argue that anything is possible.
