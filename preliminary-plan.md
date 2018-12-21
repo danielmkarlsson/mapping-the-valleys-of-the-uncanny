@@ -72,7 +72,7 @@ no matter what happens now, at least I'll have one set that is ok. Most folks on
 do the one set don't they? 
 
 I think that I can work my way backwards from the end now. I've learned a lot from 
-completeting the last piece.  
+completting the last piece.  
 One term to go.
 
 One story that has always fascinated me is the one about Pythagoras divvying up 
