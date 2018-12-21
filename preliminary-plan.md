@@ -57,6 +57,23 @@ If possible one idea would be to fill the first set with only "solo" pieces
 
 After the intermission a duo piece, then a trio piece and so on.
 
-The third set would be an ensemble piece. It might could be that holding out for
-a tutti divisi 100 hundred stem orchestra piece equivalent would be pushing it.
+The third set is an ensemble piece. Holding out for
+a tutti divisi 100 hundred stem orchestra piece equivalent was pushing it.
 That would for sure be the top of the pyramid though.
+What I ended up with is a 40 minute piece for large ensmeble.
+One .scd file controlling a multitude of:
+
+• Violin
+• Viola
+• Cello
+• ContraBass
+• Organ
+• WoodWinds
+• Zither 
+• Bowls 
+• Crotales
+• Gongs
+• MicroModular
+• Soprano
+
+It b
