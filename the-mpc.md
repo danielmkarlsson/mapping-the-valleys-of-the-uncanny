@@ -13,3 +13,6 @@ guess I've put off trying to find out if it's true because I like the story.
 Steve Martin's LA Story. In the movie I think we're meant to think it's a
 Shakespeare quote. That's a nother one I've thought a thousand times about and
 never got to the bottom of.
+
+Oooh here's a great source:
+https://www.youtube.com/watch?v=R8t08zWBKyg
