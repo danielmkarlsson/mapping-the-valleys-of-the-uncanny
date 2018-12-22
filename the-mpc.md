@@ -16,3 +16,6 @@ never got to the bottom of.
 
 Oooh here's a great source:
 https://www.youtube.com/watch?v=R8t08zWBKyg
+
+Hard finding a good one where someone os actually working with the machine:
+https://www.youtube.com/watch?v=S-DhUoI-vCY
