@@ -18,4 +18,6 @@ Nothing we can do.
 
 "...through layers of diminishing reality"
 
+"...half-awake, unable to distinguish the virtual from the real"
+
 http://nymag.com/intelligencer/2018/12/how-much-of-the-internet-is-fake.html
