@@ -16,3 +16,6 @@ Cutting corners implies future weakness of structural integrity.
 And so it goes. Positions of power are upheld. Barriers to entry kept in place.
 Nothing we can do.
 
+"...through layers of diminishing reality"
+
+http://nymag.com/intelligencer/2018/12/how-much-of-the-internet-is-fake.html
