@@ -19,3 +19,6 @@ https://www.youtube.com/watch?v=R8t08zWBKyg
 
 Hard finding a good one where someone os actually working with the machine:
 https://www.youtube.com/watch?v=S-DhUoI-vCY
+
+CURSÉD SAMPLER:
+https://web.archive.org/web/20181206110547/https://seattle.craigslist.org/sno/msg/d/possibly-cursed-emu-sp1200/6761989886.html
