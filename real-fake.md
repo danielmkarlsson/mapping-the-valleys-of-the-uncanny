@@ -23,3 +23,6 @@ Nothing we can do.
 "...counterfeit unreality"
 
 http://nymag.com/intelligencer/2018/12/how-much-of-the-internet-is-fake.html
+
+The only satisfactions available are the satisfactions of reality, which are themselves frustrating.
+- Adam Phillips
