@@ -25,4 +25,8 @@ Nothing we can do.
 http://nymag.com/intelligencer/2018/12/how-much-of-the-internet-is-fake.html
 
 The only satisfactions available are the satisfactions of reality, which are themselves frustrating.
-- Adam Phillips
+_ Adam Phillips
+
+"Round Robins are a method of recording a number of performances of the same sample so that when playing repeated notes in fast succession you don’t get “machine gunning” a rapid repeat of the same sample that gives the game away immediately."
+
+_ Quote taken from some manual for some percussion sample library somewhere at some time or another.
