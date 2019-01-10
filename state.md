@@ -5,6 +5,12 @@ By projecting static code in combination with fixed media is for the greater par
 emerging out of simplicity. To a smaller degree I cant help but go against the prescribed modus operandi of playing the code
 within so called live coding like an instrument. That is not what I want to do. I want to organise sound in a very specific
 way. Another nice aspect of static code is that it greatly increases portability. I think I'd be a lot more interested in distributing something that was not video. Who knows what the future will hold.
+
+Might be fun also to touch briefly on the idea of state as memory as in functional programming in general and Haskell in particular. At least the personal encounters part. THat whole engage with it as lore thing again.
+
+"The only state is time"
+
+_ some guy
  
 It�s all dead simple, I have no real interest in technical complexity�, and this music has a streamlined quality I admire. No gesture is strained or wasted � the music is complex, the technology is simple, a better way round than the age old problem of academic electronic music where muscular technology too often produces pissweak sounds.
 
