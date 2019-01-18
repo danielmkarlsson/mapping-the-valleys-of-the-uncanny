@@ -30,3 +30,8 @@ _ Adam Phillips
 "Round Robins are a method of recording a number of performances of the same sample so that when playing repeated notes in fast succession you don’t get “machine gunning” a rapid repeat of the same sample that gives the game away immediately."
 
 _ Quote taken from some manual for some percussion sample library somewhere at some time or another.
+
+I can envision a future where people complain about musicians using telekinesis and longing for the days when real musicians used computers.
+
+_ Meyers
+https://twitter.com/m_e_y_e_r_s/status/855084900663349252
