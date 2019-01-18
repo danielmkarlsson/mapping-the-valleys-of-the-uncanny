@@ -35,3 +35,7 @@ I can envision a future where people complain about musicians using telekinesis 
 
 _ Meyers
 https://twitter.com/m_e_y_e_r_s/status/855084900663349252
+
+Statements of science are not of what is true and what is not true, but statements of what is known with different degrees of certainty.
+
+_ Richard Feynman
