@@ -1,6 +1,6 @@
 **Mapping the valleys of the uncanny**  
 
-### Table of contents
+# Table of contents
 
 00: Introduction  
 01: Uncannyness  
@@ -13,7 +13,7 @@
 07: The Believing Game (I'd like to change your mind about everything you know in your heart of hearts to be true)    
 08: Conclusion: The impossibility of The Maps (Nothing is real, everything is permitted, preferences of style, not aesthetics) 
 
-### Introduction
+# Introduction
 
 _An investigation into process and method within the field of algorithmic
 composition._
@@ -83,7 +83,7 @@ here now just passing it, as best we can, hoping it all works out, waiting for
 something, not sure what. Who knows; Maybe we do have a shot at forever after all. 
 As long as we draw breath, I would argue that anything is possible.
 
-### Uncannyness
+# Uncannyness
 
 What does it mean to other people? 
 Why am I drawn to it?  
@@ -169,7 +169,7 @@ action each time.
 
 [Publishing as cybernetic practice](http://avant.org/artifact/stephen-willats/)
 
-### The Real and the fake
+# The Real and the fake
 
 (Big section proly. What is real? Ideally prove that all that can be heard is real. Only imaginings are unreal) 
 Get that sweet Zizek action in here.
@@ -263,7 +263,7 @@ Statements of science are not of what is true and what is not true, but statemen
 
 _ Richard Feynman
 
-### The MPC
+# The MPC
 
 (Origin stories, lore, compare the brush, hyperReal tape recorder, hi & lo culture.)  
 When the story of our origin (specifically New Music's origin) is told through the perspective Then the tape recoder grows to the size of the studio with undeniable monumental prestige. If we adjust the point of departure to adjust the scope of our story to use the MPC as the starting point an alternative telling of history emerges. The story we now construct has ramifications for where density is found. Closer to our time. Preferably in the now. Year zero is no longer 1930 with that of the americans liberating the tape recorder from the rubble of nazi germany. Instead the year is 1988. Public Enemy burst into a popular culture running at break-neck-speed  with their debut release It Takes a Nation of Millions to Hold Us Back. Our origin story is no longer one of  first meanderings of applying an alien technology inside of a void. Instead the very modus operandi is referentiality. The sampler and sampling not the tape recorder and tape recordings. Very the history of Electronische Muziek begins with the tape recorder and then explodes outward into the physical monument of the studio our new origin story is one of implosion. Both stories originate from a single machine. Samplers inside of computers are direct descendentsof the MPC. They now have no physical form. They are software. They computer disappears into generalization. A computer can perform the task of any specialized machine like the tape recorder or the sampler. A general purpose computer. Acorporeal. Purpose defined in software.
@@ -294,7 +294,7 @@ CURSÉD SAMPLER:
 https://web.archive.org/web/20181206110547/https://seattle.craigslist.org/sno/msg/d/possibly-cursed-emu-sp1200/6761989886.html
 
 
-### Code 
+# Code 
 
 Why do I feel it is important to include my code in this thesis? 
 Utility.
@@ -329,7 +329,7 @@ $ n ("0" + (rep (1/29) $ choose [0,4..30] - 15 -6))
 cps (1)
 ```
 
-### Pinecones are magical
+# Pinecones are magical
 
 While I don't believe in actual magic I find this passage from Jarod Anderson's The CryptoNaturalist useful for purposes
 of illustration:
@@ -349,7 +349,7 @@ Computer Music to hold a new meaning. One tailored specifically to fit our time.
 As computers are no longer held in artificial scarcity but rather available in
 abundance new ways of thinking and acting in the world are possible.
 
-# Oram's new Atlantis
+Oram's new Atlantis:
 “We have also sound-houses, where we practise and demonstrate all sounds, and
 their generation. We have harmonies which you have not, of quarter-sounds, and
 lesser slides of sounds. Divers instruments of music likewise to you unknown,
@@ -371,7 +371,7 @@ That's some story. Actually, for me it's a story wrapped in another story.
 Daphne Oram put that quote on the wall at The BBC Radiophonic Workshop and
 _that's_ the story I've been told.
  
-# Do you remember the story of Daft punk? 
+Do you remember the story of Daft punk? 
 Everything was recorded onto analog tape in rarified recording palaces like New
 York's Electric Lady and L.A.'s Capitol Studios. Human spontaneity was coveted;
 computers, with their tendency toward mindless repetition, were not.
@@ -401,7 +401,7 @@ put the microphone. Each time, as close as I can get it. For each instrument and
 somtimes even changing the placement to optimize fully for a particular
 articulation.
 
-### Rooms
+# Rooms
 
 (Ties into place. The absurdity and poetic nature of imagining beleiveing that a photograph can steal a soul) 
 I've come to understand that my fascination for room tones is connected to my
@@ -428,7 +428,7 @@ believed in god. I never believed that narrative. I know work was real. The
 workers were real. Their struggle was real. I believe in that narrative.
 
 
-### State
+# State
 
 The code is static. Why is that important? 
 The frozen state yielding a multitude of infinities in variation through time fascinates me. Feels paradoxical. Goes on to talk about complexity. The scope or sampling window matters.
@@ -449,7 +449,7 @@ It's all dead simple, I have no real interest in technical complexity, and this 
 
 _ Mark Fell http://www.markfell.com/wiki/index.php?n=Mf.Manitutshu
 
-### The Believing Game
+# The Believing Game
 
 When I was a kid I would sometimes stare for long stretches of time at high
 ceilings imagining what it would be like to be in that upside down world in the
