@@ -2,7 +2,7 @@
 
 00: Introduction  
 01: Uncannyness  
-02: Real fake (Big section proly. What is real? Ideally prove that all that can be heard is real. Only imaginings are unreal)  
+02: Real fake  
 03: The MPC (Origin stories, lore, compare the brush, hyperReal tape recorder, hi & lo culture.)  
 04: Code	(Why do I feel it is important to include my code in this thesis)     
 05: Magic (No such thing actually but getting a reminder about how amazing everything is can be nice I guess)   
@@ -168,6 +168,8 @@ As long as we draw breath, I would argue that anything is possible.
 
 ### The Real and the fake
 
+(Big section proly. What is real? Ideally prove that all that can be heard is real. Only imaginings are unreal) 
+Get that sweet Zizek action in here.
 True, definite and based on facts
 The truth
 To be true or believable
