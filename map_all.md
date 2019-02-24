@@ -176,6 +176,23 @@ Fictions. Narratives. Lores. Stories we tell ourselves. Admitting the impossibil
 I need to tell the story of the japanese poetry group around year 1000 who allowed each other to take new names every decade or so to start each decade with a fresh voice. To become the resplendant new. The untainted eye. As many times over as they wished for as long as they lived and wrote. THat story is maybe where I'd like to go. To get to a point where I feel free to reinvent myself as an artist. 
 Get that sweet Zizek action in here.
 
+affinity
+1.
+a natural liking for and understanding of someone or something.
+"he had a special affinity with horses"
+synonyms:	empathy, rapport, sympathy, accord, harmony, like-mindedness; closeness to, fellow feeling for, understanding of; liking for, fondness for, inclination towards, partiality for, penchant for, predilection towards, attraction towards; 
+
+"she has a natural affinity with animals and birds"
+relationship, bond, connection, propinquity
+"despite their different backgrounds, an affinity grew and developed"
+antonyms:	dislike, aversion, antipathy, blood relationship
+a similarity of characteristics suggesting a relationship, especially a resemblance in structure between animals, plants, or languages.
+"a semantic affinity between two words"
+synonyms:	similarity, resemblance, likeness, kinship; More
+antonyms:	dissimilitude
+relationship, especially by marriage as opposed to blood ties.
+"the distinction between kinship and affinity is not always clear-cut"
+
 True, definite and based on facts.
 The truth.
 To be true or believable.
