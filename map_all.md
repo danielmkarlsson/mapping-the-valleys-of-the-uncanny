@@ -87,8 +87,10 @@ As long as we draw breath, I would argue that anything is possible.
 
 What does it mean to other people? 
 Why am I drawn to it?  
-[wikipedia article on Uncanny Valley](https://en.wikipedia.org/wiki/Uncanny_valley)
-[The Uncanny Valley by Masahiro Mori](https://spectrum.ieee.org/automaton/robotics/humanoids/the-uncanny-valley)
+[wikipedia article on Uncanny Valley](https://en.wikipedia.org/wiki/Uncanny_valley)  
+
+[The Uncanny Valley by Masahiro Mori](https://spectrum.ieee.org/automaton/robotics/humanoids/the-uncanny-valley)  
+
 [duplicate](https://github.com/danielmkarlsson/library/blob/master/Masahiro%20Mori%20-%20The%20Uncanny%20Valley.pdf)
 
 Diagram of the valley:
