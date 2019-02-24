@@ -1,89 +1,19 @@
+**Mapping the valleys of the uncanny**  
+
 ### Table of contents
 
 00: Introduction  
 01: Uncannyness  
-02: Real fake  
-03: The MPC (Origin stories, lore, compare the brush, hyperReal tape recorder, hi & lo culture.)  
-04: Code	(Why do I feel it is important to include my code in this thesis)     
-05: Magic (No such thing actually but getting a reminder about how amazing everything is can be nice I guess)   
-06: Rooms (Ties into place. The absurdity and poetic nature of imagining beleiveing that a photograph can steal a soul)    
-06: State (The code is static. Why? The frozen state yielding a multitude of infinities in variation through time)    
+02: The Real and The Fake  
+03: The MPC 
+04: Code	
+05: Pinecones are magical  
+06: Rooms    
+06: State 
 07: The Believing Game (I'd like to change your mind about everything you know in your heart of hearts to be true)    
 08: Conclusion: The impossibility of The Maps (Nothing is real, everything is permitted, preferences of style, not aesthetics) 
 
 ### Introduction
-
-Hello.
-
-### Uncannyness
-
-What does it mean to other people? 
-Why am I drawn to it?  
-[wikipedia article on Uncanny Valley](https://en.wikipedia.org/wiki/Uncanny_valley)
-
-### Pinecones are magical
-
-"Pinecones are beautiful, geometric wonders that are only devalued by their
-abundance. Fractal sculptures. Evergreen snowflakes. Blossoms in wood.
-(Familiarity can rust magic. A little mental effort returns the shine.)" 
-
-_ The CryptoNaturalist @CryptoNature 2018-08-24
-
-https://twitter.com/CryptoNature/status/1032808690292797440
-
-“We have also sound-houses, where we practise and demonstrate all sounds, and
-their generation. We have harmonies which you have not, of quarter-sounds, and
-lesser slides of sounds. Divers instruments of music likewise to you unknown,
-some sweeter than any you have, together with bells and rings that are dainty
-and sweet. We represent small sounds as great and deep; likewise great sounds
-extenuate and sharp; we make divers tremblings and warblings of sounds, which in
-their original are entire. We represent and imitate all articulate sounds and
-letters, and the voices and notes of beasts and birds. We have certain helps
-which set to the ear do further the hearing greatly. We have also divers strange
-and artificial echoes, reflecting the voice many times, and as it were tossing
-it: and some that give back the voice louder than it came, some shriller, and
-some deeper; yea, some rendering the voice differing in the letters or
-articulate sound from that they receive. We have also means to convey sounds in
-trunks and pipes, in strange lines and distances.”
-
-_ “The New Atlantis” – Francis Bacon, 1623
-
-That's some story. Actually it's a story wrapped in another story.
-Daphne Oram put that quote on the wall at The BBC Radiophonic Workshop and
-_that's_ the story I've been told.
- 
-Everything was recorded onto analog tape in rarified recording palaces like New
-York's Electric Lady and L.A.'s Capitol Studios. Human spontaneity was coveted;
-computers, with their tendency toward mindless repetition, were not.
-
-“Technology has made music accessible in a philosophically interesting way,
-which is great,” says Bangalter, talking about the proliferation of home
-recording and the laptop studio. “But on the other hand, when everybody has the
-ability to make magic, it's like there's no more magic—if the audience can just
-do it themselves, why are they going to bother?”  
-
-https://pitchfork.com/features/cover-story/reader/daft-punk/
-
-Ryan Dombal's Daft Punk interview for Pitchfork that came out in May 2013 is
-riddled with descriptions of the interviewees affluance. We are told a story of
-success through appearances. I imagine the article had the opposite of the
-intentended effect on me. I love the idea of democratising the means of
-production.
-
-Take your fingers right up to your ears. As close as you can get them without
-touching your ears. Now rub your fingers together ever so gently. You can hear
-that can't you. Now imagine trying to hear such a faint sound across from a
-concert hall or even just a a stage. You would not be able to. Now image an
-orchestra. Something close to a hundred people. They wouldn't be able to fit
-there with all of their instruments in that close proximity where you heard that
-faint sound of your fingers rubbung together just now. Right there is where I
-put the microphone. Each time, as close as I can get it. For each instrument and
-somtimes even changing the placement to optimize fully for a particular
-articulation.
-
-Preliminary plan for my Master thesis:  
-
-**Mapping the valleys of the uncanny**  
 
 _An investigation into process and method within the field of algorithmic
 composition._
@@ -104,7 +34,7 @@ materials interspersed with excerpts from the thesis using speech synthesis and,
 possibly questions posed by my friend Blue. Hopefully leaning towards conversation
 in style.  
 
-As each material plays comments will be written explaining how each line
+As each material plays comments could be written explaining how each line
 contributes to the resultant music. To be performed during LjudOljud on April
 6th at Fylkingen. Documented as an Internet site containing all music and text. 
 
@@ -125,20 +55,7 @@ best guesses as to the origins of both. The task at hand is mainly organising
 sound. My ambition is to present a number of materials, both in thought and in
 music. In doing so I hope to "tune" the listener's perception of the musical
 works held within the project through the means of text in order to allow for
-the possibility of greater immersion. While I don't believe in actual magic I
-find this passage from Jarod Anderson's The CryptoNaturalist useful for purposes
-of illustration:
-
-"Pinecones are beautiful, geometric wonders that are only devalued by their
-abundance. Fractal sculptures. Evergreen snowflakes. Blossoms in wood.
-(Familiarity can rust magic. A little mental effort returns the shine.)" 
-
-I would like to return the shine, as it were, to the task of organising sound in
-general and to working with algorithimic composition in particular. 
-Stretch goals would be to influence people to join me in rewiring the term
-Computer Music to hold a new meaning. One tailored specifically to fit our time.
-As computers are no longer held in artificial scarcity but rather available in
-abundance new ways of thinking and acting in the world are possible.
+the possibility of greater immersion. 
 
 If possible one idea would be to fill the first set with only "solo" pieces
 (pieces which use one set of samples).
@@ -165,6 +82,92 @@ ensembles. That way maybe I can show that time is an illusion and that we are al
 here now just passing it, as best we can, hoping it all works out, waiting for 
 something, not sure what. Who knows; Maybe we do have a shot at forever after all. 
 As long as we draw breath, I would argue that anything is possible.
+
+### Uncannyness
+
+What does it mean to other people? 
+Why am I drawn to it?  
+[wikipedia article on Uncanny Valley](https://en.wikipedia.org/wiki/Uncanny_valley)
+
+Diagram of the valley:
+
+General MIDI Orchestra sounds <----+----> Paul Saunderson's Awakening
+                                   |
+                                   |
+                                   V
+                           The Uncanny Valley
+
+The role of instrumentation is on the one hand entirely arbitrary to me as I am
+certain that the universe is fundamentally indifferent to my existence, and so,
+subsequently to which sounds I sequence in what way. None the less
+instrumentation is a source of immense fascination for me. Any sound could be
+sequenced. Which sounds would I like to sequence? What are my preferences? I know
+that I have at times let availability and prevalence to some extent dictate my
+choices. I should like to address that with a number of works that make good on
+promises of infinite abundance. After all anything is possible in Electronic
+Music. Any sound at any time. Timbre of course fascinates composers. 
+
+In my life I have come to regard certain sounds as desirable but illusive. The
+price I've had to pay has sometimes been higher than I would have liked in order
+to hear them for even the briefest of moments. I've had to work quickly and compromise.
+I've felt that the prescribed modus operandi has been error prone and difficult
+to utilize towards my ends of organising sound in the ways that I prefer.
+
+Within so called "New Music" there exists a great divide between the electronic
+and the acoustic. Certain sounds are not easily reached for someone like me for
+one reason or another.
+
+As my work of organizing sound has led me further and further down the path of
+algorithmic composition I have grown more and more interested in the role of
+contexts and connotations that certain sounds bring about in an audience. I
+never really had any deeper context for LinnDrum claps or Gabber kicks of my own
+apart from the obvious fact that they are strictly out of bounds for anyone
+looking to make serious music. While that forbidden quality still holds some
+titillation I am now much more interested in my own coming into resonance. The
+sounds I feel most strongly connected to coming up through New Music where
+always out of reach. 
+
+So in very practical terms: I've changed up my way of working. I've gone from
+making recordings of musicians playing my scores to now creating sample packs.
+Things like the organ have been great because I've been able to do that on my
+own. Last year I did a piece for ensemble and through that I met some great
+musicians who have been very helpful. Frida Mossop is a great violinist who has
+great tone and understands what I want. Also Pau Villa is a percussionist that
+I've worked with to create a lot of material. There are some other people also
+that I've worked with to create some great packs that I am now sequencing. Given
+that I am sequencing files in a computer instead of writing scores for humans to
+either misunderstand or not care about, new things are possible. I am happy and
+the work is progressing. Up to now I've made etudes for single instruments. The
+focus going forward is to work up from duo to trio and so on up to larger
+ensembles.
+
+Most of the time I feel like I'm a high functioning automaton at best and that
+all of my veracious peaks of inspiration are just bright ideas channeled to me
+through popular cultural imperialism. That for all of my talk of the need for
+newness and weirdness in music I'm just regurgitating things I've heard. Things
+I've been taught to think, do and to make into sound. So I struggle. With
+tremendous doubt. I'm trying to find something new to say even though I know
+everything has been said a thousand times. I guess I'd be lucky if I can end up
+with a subtle difference in emphasis or tone. The information conveyed it self;
+Now that would be something.  But that is so much further down the rabbit hole.
+
+So certain things are different when sequencing sounds in a computer. Sounds can
+be played faster. That's interesting because we have that faster playing in
+music played by humans also. It's exciting because a lot of the time it gets
+held up as virtuostic. We use phrases like gifted or talented musicians.  A
+computer can play _exactly_ the same amplitude and timbre multiple times in a
+row. Humans can't, well actually the constraint is higher up than that. Simple
+physics, Newtoninan forces won't allow it. We've never held that kind of
+virtuosity up as equilibristic instrumentalist practise. I don't think we'd
+react quite the same way if a human got even remotely close. "You sound like a
+machine" they'd say. It would be derogatory. They might not even know what
+machine they'de be referring to. It would be the sampler and more specifically
+an early days sampler with a single layer of samples. No round-robin switching
+out of the samples to mimic what happens "naturally" when a key is struck on a
+Celesta. An infinite amount of the subtlest variation explodes out of that
+action each time.
+
+[Publishing as cybernetic practice](http://avant.org/artifact/stephen-willats/)
 
 ### The Real and the fake
 
@@ -260,6 +263,147 @@ Statements of science are not of what is true and what is not true, but statemen
 
 _ Richard Feynman
 
+### The MPC
+
+(Origin stories, lore, compare the brush, hyperReal tape recorder, hi & lo culture.)  
+When the story of our origin (specifically New Music's origin) is told through the perspective Then the tape recoder grows to the size of the studio with undeniable monumental prestige. If we adjust the point of departure to adjust the scope of our story to use the MPC as the starting point an alternative telling of history emerges. The story we now construct has ramifications for where density is found. Closer to our time. Preferably in the now. Year zero is no longer 1930 with that of the americans liberating the tape recorder from the rubble of nazi germany. Instead the year is 1988. Public Enemy burst into a popular culture running at break-neck-speed  with their debut release It Takes a Nation of Millions to Hold Us Back. Our origin story is no longer one of  first meanderings of applying an alien technology inside of a void. Instead the very modus operandi is referentiality. The sampler and sampling not the tape recorder and tape recordings. Very the history of Electronische Muziek begins with the tape recorder and then explodes outward into the physical monument of the studio our new origin story is one of implosion. Both stories originate from a single machine. Samplers inside of computers are direct descendentsof the MPC. They now have no physical form. They are software. They computer disappears into generalization. A computer can perform the task of any specialized machine like the tape recorder or the sampler. A general purpose computer. Acorporeal. Purpose defined in software.
+
+I want to write about the MPC. It wasn't until much later that I realizsed that
+the magical machine that I had heard about was the mpc. I first heard the story
+when I was a kid listening to NWA, Public Enemy, De La Soul. Then finally when I was older from a
+guy who showed me J-Dilla's Donuts. He told me the story as we were listening to
+the album together. It was interleaved. The story was. It got interrupted by "oh
+oh and check this part out". Little things about the production. Details. They
+say the devil is in the details. Anyway I really got that story handed to me.
+The last celebrated experimental hip hop record. Didn't have any rapping on it.
+The story goes he made it in the hospital as he was dying of a terminal illness.
+Had his MPC on his belly in the hospital bed. I don't know if that's true. I
+guess I've put off trying to find out if it's true because I like the story.
+"A kiss may not be the truth but it's what we wish were true." That bit is from
+Steve Martin's LA Story. In the movie I think we're meant to think it's a
+Shakespeare quote. That's a nother one I've thought a thousand times about and
+never got to the bottom of.
+
+Oooh here's a great source:
+https://www.youtube.com/watch?v=R8t08zWBKyg
+
+Hard finding a good one where someone is actually working with the machine:
+https://www.youtube.com/watch?v=S-DhUoI-vCY
+
+CURSÉD SAMPLER:
+https://web.archive.org/web/20181206110547/https://seattle.craigslist.org/sno/msg/d/possibly-cursed-emu-sp1200/6761989886.html
+
+
+### Code 
+
+Why do I feel it is important to include my code in this thesis? 
+Utility.
+Some degree of responsibility needs to be taken when occupying a space. When speaking while one's voice is amplified by context (academia). Including   
+
+```
+m2
+$ stack[
+(839<~)
+$ fast 4
+$ n ("0" + (rep (1/58) $ choose [0,3..30] - 6 -6))
+# velocity (slow 64 $ scalex 0.01 0.4 $ sine)
+# nudge (slow 64 $ scale 0 3 $ sine),
+(678<~)
+$ fast 3
+$ n ("0" + (rep (1/47) $ choose [0,2..30] - 9 -6))
+# velocity (slow 63 $ scalex 0.01 0.4 $ sine)
+# nudge (slow 58 $ scale 0 3 $ sine),
+(947<~)
+$ fast 3.5
+$ n ("0" + (rep (1/36) $ choose [0,5..30] - 12 -6))
+# velocity (slow 62 $ scalex 0.01 0.4 $ sine)
+# nudge (slow 47 $ scale 0 3 $ sine),
+(721<~)
+$ fast 2.5
+$ n ("0" + (rep (1/29) $ choose [0,4..30] - 15 -6))
+# velocity (slow 61 $ scalex 0.01 0.4 $ sine)
+# nudge (slow 47 $ scale 0 3 $ sine)
+]
+# cc64 1
+
+cps (1)
+```
+
+### Pinecones are magical
+
+While I don't believe in actual magic I find this passage from Jarod Anderson's The CryptoNaturalist useful for purposes
+of illustration:
+
+"Pinecones are beautiful, geometric wonders that are only devalued by their
+abundance. Fractal sculptures. Evergreen snowflakes. Blossoms in wood.
+(Familiarity can rust magic. A little mental effort returns the shine.)" 
+
+_ The CryptoNaturalist @CryptoNature 2018-08-24
+
+https://twitter.com/CryptoNature/status/1032808690292797440
+
+I would like to return the shine, as it were, to the task of organising sound in
+general and to working with algorithimic composition in particular. 
+Stretch goals would be to influence people to join me in rewiring the term
+Computer Music to hold a new meaning. One tailored specifically to fit our time.
+As computers are no longer held in artificial scarcity but rather available in
+abundance new ways of thinking and acting in the world are possible.
+
+# Oram's new Atlantis
+“We have also sound-houses, where we practise and demonstrate all sounds, and
+their generation. We have harmonies which you have not, of quarter-sounds, and
+lesser slides of sounds. Divers instruments of music likewise to you unknown,
+some sweeter than any you have, together with bells and rings that are dainty
+and sweet. We represent small sounds as great and deep; likewise great sounds
+extenuate and sharp; we make divers tremblings and warblings of sounds, which in
+their original are entire. We represent and imitate all articulate sounds and
+letters, and the voices and notes of beasts and birds. We have certain helps
+which set to the ear do further the hearing greatly. We have also divers strange
+and artificial echoes, reflecting the voice many times, and as it were tossing
+it: and some that give back the voice louder than it came, some shriller, and
+some deeper; yea, some rendering the voice differing in the letters or
+articulate sound from that they receive. We have also means to convey sounds in
+trunks and pipes, in strange lines and distances.”
+
+_ “The New Atlantis” – Francis Bacon, 1623
+
+That's some story. Actually, for me it's a story wrapped in another story.
+Daphne Oram put that quote on the wall at The BBC Radiophonic Workshop and
+_that's_ the story I've been told.
+ 
+# Do you remember the story of Daft punk? 
+Everything was recorded onto analog tape in rarified recording palaces like New
+York's Electric Lady and L.A.'s Capitol Studios. Human spontaneity was coveted;
+computers, with their tendency toward mindless repetition, were not.
+
+“Technology has made music accessible in a philosophically interesting way,
+which is great,” says Bangalter, talking about the proliferation of home
+recording and the laptop studio. “But on the other hand, when everybody has the
+ability to make magic, it's like there's no more magic—if the audience can just
+do it themselves, why are they going to bother?”  
+
+https://pitchfork.com/features/cover-story/reader/daft-punk/
+
+Ryan Dombal's Daft Punk interview for Pitchfork that came out in May 2013 is
+riddled with descriptions of the interviewees affluance. We are told a story of
+success through appearances. I imagine the article had the opposite of the
+intentended effect on me. I love the idea of democratising the means of
+production.
+
+Take your fingers right up to your ears. As close as you can get them without
+touching your ears. Now rub your fingers together ever so gently. You can hear
+that can't you. Now imagine trying to hear such a faint sound across from a
+concert hall or even just a a stage. You would not be able to. Now image an
+orchestra. Something close to a hundred people. They wouldn't be able to fit
+there with all of their instruments in that close proximity where you heard that
+faint sound of your fingers rubbung together just now. Right there is where I
+put the microphone. Each time, as close as I can get it. For each instrument and
+somtimes even changing the placement to optimize fully for a particular
+articulation.
+
+### Rooms
+
+(Ties into place. The absurdity and poetic nature of imagining beleiveing that a photograph can steal a soul) 
 I've come to understand that my fascination for room tones is connected to my
 confusion about my class identity. Mimer first. I didn't realize it at the time.
 And then later, The Machine Hall in Ställberg. It was right under my nose then
@@ -283,6 +427,11 @@ room. As the room resonates we are brought into resonance with ideas. I never
 believed in god. I never believed that narrative. I know work was real. The
 workers were real. Their struggle was real. I believe in that narrative.
 
+
+### State
+
+The code is static. Why is that important? 
+The frozen state yielding a multitude of infinities in variation through time fascinates me. Feels paradoxical. Goes on to talk about complexity. The scope or sampling window matters.
 Static or in flux. The fan in the Robert Miles on ai safety video is the intitial instance that made me think of this.
 Has to do with the presentation aspect. I work on the code until it reaches a static state which is most to my liking. While I might not listen to an eternity's worth of the generated material I'll listen to a good long while. The longest I have in the past listened to a material to make sure I liked all of the material I generated with a atatic piece of code is 8 and a half hours. I did that for No value without utility which can be found here: https://danielmkarlsson.github.io/
 
@@ -294,10 +443,9 @@ way. Another nice aspect of static code is that it greatly increases portability
 Might be fun also to touch briefly on the idea of state as memory as in functional programming in general and Haskell in particular. At least the personal encounters part. THat whole engage with it as lore thing again.
 
 "The only state is time"
-
-_ some guy
+How to talk about this without giving power to it's source.
  
-It�s all dead simple, I have no real interest in technical complexity�, and this music has a streamlined quality I admire. No gesture is strained or wasted � the music is complex, the technology is simple, a better way round than the age old problem of academic electronic music where muscular technology too often produces pissweak sounds.
+It's all dead simple, I have no real interest in technical complexity, and this music has a streamlined quality I admire. No gesture is strained or wasted and the music is complex, the technology is simple, a better way round than the age old problem of academic electronic music where muscular technology too often produces pissweak sounds.
 
 _ Mark Fell http://www.markfell.com/wiki/index.php?n=Mf.Manitutshu
 
@@ -337,124 +485,3 @@ https://www.youtube.com/watch?v=S-DhUoI-vCY
 
 CURSÉD SAMPLER:
 https://web.archive.org/web/20181206110547/https://seattle.craigslist.org/sno/msg/d/possibly-cursed-emu-sp1200/6761989886.html
-
-### Mapping the valleys of the uncanny
-
-An investigation into process and method within the field of algorithmic
-composition. 
-
-The role of instrumentation and or timbre as they unwittingly
-conspire to designate access, power, work and ultimately class.
-
-Diagram of the valley:
-
-General MIDI Orchestra sounds <----+----> Paul Saunderson's Awakening
-                                   |
-                                   |
-                                   V
-                           The Uncanny Valley
-
-The role of instrumentation is on the one hand entirely arbitrary to me as I am
-certain that the universe is fundamentally indifferent to my existence, and so,
-subsequently to which sounds I sequence in what way. None the less
-instrumentation is a source of immense fascination for me. Any sound could be
-sequenced. Which sounds would I like to sequence? What are my preferences? I know
-that I have at times let availability and prevalence to some extent dictate my
-choices. I should like to address that with a number of works that make good on
-promises of infinite abundance. After all anything is possible in Electronic
-Music. Any sound at any time. Timbre of course fascinates composers. 
-
-In my life I have come to regard certain sounds as desirable but illusive. The
-price I've had to pay has sometimes been higher than I would have liked in order
-to hear them for even the briefest of moments. I've had to work quickly and compromise.
-I've felt that the prescribed modus operandi has been error prone and difficult
-to utilize towards my ends of organising sound in the ways that I prefer.
-
-Within so called "New Music" there exists a great divide between the electronic
-and the acoustic. Certain sounds are not easily reached for someone like me for
-one reason or another.
-
-As my work of organizing sound has led me further and further down the path of
-algorithmic composition I have grown more and more interested in the role of
-contexts and connotations that certain sounds bring about in an audience. I
-never really had any deeper context for LinnDrum claps or Gabber kicks of my own
-apart from the obvious fact that they are strictly out of bounds for anyone
-looking to make serious music. While that forbidden quality still holds some
-titillation I am now much more interested in my own coming into resonance. The
-sounds I feel most strongly connected to coming up through New Music where
-always out of reach. 
-
-So in very practical terms: I've changed up my way of working. I've gone from
-making recordings of musicians playing my scores to now creating sample packs.
-Things like the organ have been great because I've been able to do that on my
-own. Last year I did a piece for ensemble and through that I met some great
-musicians who have been very helpful. Frida Mossop is a great violinist who has
-great tone and understands what I want. Also Pau Villa is a percussionist that
-I've worked with to create a lot of material. There are some other people also
-that I've worked with to create some great packs that I am now sequencing. Given
-that I am sequencing files in a computer instead of writing scores for humans to
-either misunderstand or not care about, new things are possible. I am happy and
-the work is progressing. Up to now I've made etudes for single instruments. The
-focus going forward is to work up from duo to trio and so on up to larger
-ensembles.
-
-Most of the time I feel like I'm a high functioning automaton at best and that
-all of my veracious peaks of inspiration are just bright ideas channeled to me
-through popular cultural imperialism. That for all of my talk of the need for
-newness and weirdness in music I'm just regurgitating things I've heard. Things
-I've been taught to think, do and to make into sound. So I struggle. With
-tremendous doubt. I'm trying to find something new to say even though I know
-everything has been said a thousand times. I guess I'd be lucky if I can end up
-with a subtle difference in emphasis or tone. The information conveyed it self;
-Now that would be something.  But that is so much further down the rabbit hole.
-
-So certain things are different when sequencing sounds in a computer. Sounds can
-be played faster. That's interesting because we have that faster playing in
-music played by humans also. It's exciting because a lot of the time it gets
-held up as virtuostic. We use phrases like gifted or talented musicians.  A
-computer can play _exactly_ the same amplitude and timbre multiple times in a
-row. Humans can't, well actually the constraint is higher up than that. Simple
-physics, Newtoninan forces won't allow it. We've never held that kind of
-virtuosity up as equilibristic instrumentalist practise. I don't think we'd
-react quite the same way if a human got even remotely close. "You sound like a
-machine" they'd say. It would be derogatory. They might not even know what
-machine they'de be referring to. It would be the sampler and more specifically
-an early days sampler with a single layer of samples. No round-robin switching
-out of the samples to mimic what happens "naturally" when a key is struck on a
-Celesta. An infinite amount of the subtlest variation explodes out of that
-action each time.
-
-avant.org/artifact/stephen-willats/.png
-
-
-### MPC
-
-When the story of our origin (specifically New Music's origin) is told through the perspective Then the tape recoder grows to the size of the studio with undeniable monumental prestige. If we adjust the point of departure to adjust the scope of our story to use the MPC as the starting point an alternative telling of history emerges. The story we now construct has ramifications for where density is found. Closer to our time. Preferably in the now. Year zero is no longer 1930 with that of the americans liberating the tape recorder from the rubble of nazi germany. Instead the year is 1988. Public Enemy burst into a popular culture running at break-neck-speed  with their debut release It Takes a Nation of Millions to Hold Us Back. Our origin story is no longer one of  first meanderings of applying an alien technology inside of a void. Instead the very modus operandi is referentiality. The sampler and sampling not the tape recorder and tape recordings. Very the history of Electronische Muziek begins with the tape recorder and then explodes outward into the physical monument of the studio our new origin story is one of implosion. Both stories originate from a single machine. Samplers inside of computers are direct descendentsof the MPC. They now have no physical form. They are software. They computer disappears into generalization. A computer can perform the task of any specialized machine like the tape recorder or the sampler. A general purpose computer. Acorporeal. Purpose defined in software.
-
-I want to write about the MPC. It wasn't until much later that I realizsed that
-the magical machine that I had heard about was the mpc. I first heard the story
-when I was a kid listening to NWA, Public Enemy, De La Soul. Then finally when I was older from a
-guy who showed me J-Dilla's Donuts. He told me the story as we were listening to
-the album together. It was interleaved. The story was. It got interrupted by "oh
-oh and check this part out". Little things about the production. Details. They
-say the devil is in the details. Anyway I really got that story handed to me.
-The last celebrated experimental hip hop record. Didn't have any rapping on it.
-The story goes he made it in the hospital as he was dying of a terminal illness.
-Had his MPC on his belly in the hospital bed. I don't know if that's true. I
-guess I've put off trying to find out if it's true because I like the story.
-"A kiss may not be the truth but it's what we wish were true." That bit is from
-Steve Martin's LA Story. In the movie I think we're meant to think it's a
-Shakespeare quote. That's a nother one I've thought a thousand times about and
-never got to the bottom of.
-
-Oooh here's a great source:
-https://www.youtube.com/watch?v=R8t08zWBKyg
-
-Hard finding a good one where someone os actually working with the machine:
-https://www.youtube.com/watch?v=S-DhUoI-vCY
-
-CURSÉD SAMPLER:
-https://web.archive.org/web/20181206110547/https://seattle.craigslist.org/sno/msg/d/possibly-cursed-emu-sp1200/6761989886.html
-
-
-
