@@ -1,5 +1,6 @@
 ### Table of contents
 
+00: Introduction
 01: Uncannyness (What does it mean to other people? Why am I drawn to it?)   
 02: Code	(Why do I feel it is important to include my code in this thesis)    
 03: Magic (No such thing actually but getting a reminder about how amazing everything is can be nice I guess)  
@@ -8,6 +9,7 @@
 06: State (The code is static. Why? THe frozen state yielding a multitude of infinities in variation through time)   
 07: The Believing Game (I'd like to change your mind about everything you know in your heart of hearts to be true)   
 08: The MPC (Origin stories, lore, compare the brush, hyperReal tape recorder, hi & lo culture   
+09: Conclusion (Nothing is real, everything is permitted)
 
 True, definite and based on facts
 The truth
