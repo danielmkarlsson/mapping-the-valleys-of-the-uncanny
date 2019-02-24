@@ -2,16 +2,16 @@
 
 ### Table of contents
 
-00: Introduction  
-01: Uncannyness  
-02: The Real and The Fake  
-03: The MPC 
-04: Code	
-05: Pinecones are magical  
-06: Rooms    
-06: State   
-07: The Believing Game      
-08: Conclusion: The impossibility of The Maps   
+00: Introduction    
+01: Uncannyness    
+02: The Real and The Fake    
+03: The MPC   
+04: Code  	
+05: Pinecones are magical   
+06: Rooms     
+06: State    
+07: The Believing Game       
+08: Conclusion: The impossibility of The Maps    
 
 # Introduction
 
@@ -491,4 +491,8 @@ https://web.archive.org/web/20181206110547/https://seattle.craigslist.org/sno/ms
 
 # Conclusion: The Impossibility of The Maps
 (Nothing is real, everything is permitted, preferences of style, not aesthetics)
-The subjective nature of experiencing in general and especially in music because everyone is an expert becuse they've loved music their whole lives. Everybody love's music right? Music is [INSERT INFINITE LIST OF TRAITS] Makes you feel [INSERT INFINITE LIST OF FEELINGS]
+The subjective nature of experiencing in general and especially in music because everyone is an expert becuse they've loved music their whole lives. Everybody love's music right? 
+
+Music is [INSERT INFINITE LIST OF TRAITS] 
+
+Makes you feel [INSERT INFINITE LIST OF FEELINGS]
