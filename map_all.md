@@ -9,9 +9,9 @@
 04: Code	
 05: Pinecones are magical  
 06: Rooms    
-06: State 
-07: The Believing Game (I'd like to change your mind about everything you know in your heart of hearts to be true)    
-08: Conclusion: The impossibility of The Maps (Nothing is real, everything is permitted, preferences of style, not aesthetics) 
+06: State   
+07: The Believing Game      
+08: Conclusion: The impossibility of The Maps   
 
 # Introduction
 
@@ -331,6 +331,8 @@ cps (1)
 
 # Pinecones are magical
 
+(I'd like to change your mind about everything you know in your heart of hearts to be true) 
+Up is down. Bad is good.
 While I don't believe in actual magic I find this passage from Jarod Anderson's The CryptoNaturalist useful for purposes
 of illustration:
 
@@ -485,3 +487,8 @@ https://www.youtube.com/watch?v=S-DhUoI-vCY
 
 CURSÉD SAMPLER:
 https://web.archive.org/web/20181206110547/https://seattle.craigslist.org/sno/msg/d/possibly-cursed-emu-sp1200/6761989886.html
+
+
+# Conclusion: The Impossibility of The Maps
+(Nothing is real, everything is permitted, preferences of style, not aesthetics)
+The subjective nature of experiencing in general and especially in music because everyone is an expert becuse they've loved music their whole lives. Everybody love's music right? Music is [INSERT INFINITE LIST OF TRAITS] Makes you feel [INSERT INFINITE LIST OF FEELINGS]
