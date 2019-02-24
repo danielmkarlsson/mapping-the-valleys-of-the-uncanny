@@ -3,7 +3,7 @@
 00: Introduction  
 01: Uncannyness (What does it mean to other people? Why am I drawn to it?)   
 02: Real fake (Big section proly. What is real? Ideally prove that all that can be heard is real. Only imaginings are unreal)  
-03: The MPC (Origin stories, lore, compare the brush, hyperReal tape recorder, hi & lo culture.) 
+03: The MPC (Origin stories, lore, compare the brush, hyperReal tape recorder, hi & lo culture.)  
 04: Code	(Why do I feel it is important to include my code in this thesis)     
 05: Magic (No such thing actually but getting a reminder about how amazing everything is can be nice I guess)   
 06: Rooms (Ties into place. The absurdity and poetic nature of imagining beleiveing that a photograph can steal a soul)    
