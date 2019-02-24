@@ -3,7 +3,7 @@
 00: Introduction  
 01: Uncannyness (What does it mean to other people? Why am I drawn to it?)  
 02: Real fake (Big section proly. What is real? Ideally prove that all that can be heard is real. Only imaginings are unreal) 
-03: The MPC (Origin stories, lore, compare the brush, hyperReal tape recorder, hi & lo culture. Ehen the story of our origin (specifically New Music's origin) is told through the perspective Then the tape recoder grows to the size of the studio with undeniable monumental prestige. If we adjust the point of departure to adjust the scope of our story to use the MPC as the starting point an alternative telling of history emerges. The story we now construct has ramifications for where density is found. Closer to our time. Preferably in the now. Year zero is no longer 1930 with that of the americans liberating the tape recorder from the rubble of nazi germany. Instead the year is 1988. Public Enemy burst into a popular culture running at break-neck-speed  with their debut release It Takes a Nation of Millions to Hold Us Back. Our origin story is no longer one of  first meanderings of applying an alien technology inside of a void. Instead the very modus operandi is referentiality. The sampler and sampling not the tape recorder and tape recordings. Very the history of Electronische Muziek begins with the tape recorder and then explodes outward into the physical monument of the studio our new origin story is one of implosion. Both stories originate from a single machine. Samplers inside of computers are direct descendentsof the MPC. They now have no physical form. They are software. They computer disappears into generalization. A computer can perform the task of any specialized machine like the tape recorder or the sampler. A general purpose computer. Acorporeal. Purpose defined in software.
+03: The MPC (Origin stories, lore, compare the brush, hyperReal tape recorder, hi & lo culture.)
 04: Code	(Why do I feel it is important to include my code in this thesis)    
 05: Magic (No such thing actually but getting a reminder about how amazing everything is can be nice I guess)  
 06: Rooms (Ties into place. The absurdity and poetic nature of imagining beleiveing that a photograph can steal a soul)   
@@ -413,4 +413,10 @@ Celesta. An infinite amount of the subtlest variation explodes out of that
 action each time.
 
 avant.org/artifact/stephen-willats/.png
+
+
+### MPC
+
+When the story of our origin (specifically New Music's origin) is told through the perspective Then the tape recoder grows to the size of the studio with undeniable monumental prestige. If we adjust the point of departure to adjust the scope of our story to use the MPC as the starting point an alternative telling of history emerges. The story we now construct has ramifications for where density is found. Closer to our time. Preferably in the now. Year zero is no longer 1930 with that of the americans liberating the tape recorder from the rubble of nazi germany. Instead the year is 1988. Public Enemy burst into a popular culture running at break-neck-speed  with their debut release It Takes a Nation of Millions to Hold Us Back. Our origin story is no longer one of  first meanderings of applying an alien technology inside of a void. Instead the very modus operandi is referentiality. The sampler and sampling not the tape recorder and tape recordings. Very the history of Electronische Muziek begins with the tape recorder and then explodes outward into the physical monument of the studio our new origin story is one of implosion. Both stories originate from a single machine. Samplers inside of computers are direct descendentsof the MPC. They now have no physical form. They are software. They computer disappears into generalization. A computer can perform the task of any specialized machine like the tape recorder or the sampler. A general purpose computer. Acorporeal. Purpose defined in software.
+
 
