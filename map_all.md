@@ -8,7 +8,11 @@
 05: Rooms (Ties into place. The absurdity and poetic nature of imagining beleiveing that a photograph can steal a soul)   
 06: State (The code is static. Why? The frozen state yielding a multitude of infinities in variation through time)   
 07: The Believing Game (I'd like to change your mind about everything you know in your heart of hearts to be true)   
-08: The MPC (Origin stories, lore, compare the brush, hyperReal tape recorder, hi & lo culture   
+
+08: The MPC (Origin stories, lore, compare the brush, hyperReal tape recorder, hi & lo culture. Ehen the story of our origin (specifically New Music's origin) is told through the perspective Then the tape recoder grows to the size of the studio with undeniable monumental prestige. If we adjust the point of departure to adjust the scope of our story to use the MPC as the starting point an alternative telling of history emerges. The story we now construct has ramifications for where density is found. Closer to our time. Preferably in the now. Year zero is no longer 1930 with that of the americans liberating the tape recorder from the rubble of nazi germany. Instead the year is 1988. Public Enemy burst into a popular culture running at break-neck-speed  with their debut release It Takes a Nation of Millions to Hold Us Back. Our origin story is no longer one of  first meanderings of applying an alien technology inside of a void. Instead the very modus operandi is referentiality. The sampler and sampling not the tape recorder and tape recordings. Very the history of Electronische Muziek begins with the tape recorder and then explodes outward into the physical monument of the studio our new origin story is one of implosion. Both stories originate from a single machine. Samplers inside of computers are direct descendentsof the MPC. They now have no physical form. They are software. They computer disappears into generalization. A computer can perform the task of any specialized machine like the tape recorder or the sampler. A general purpose computer. Acorporeal. Purpose defined in software.
+
+
+
 09: Conclusion: The impossibility of The Maps (Nothing is real, everything is permitted, preferences of style, not aesthetics)
 
 True, definite and based on facts
