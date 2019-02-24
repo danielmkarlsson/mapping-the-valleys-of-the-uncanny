@@ -172,42 +172,43 @@ action each time.
 # The Real and the fake
 
 (Big section proly. What is real? Ideally prove that all that can be heard is real. Only imaginings are unreal) 
+Fictions. Narratives. Lores. Stories we tell ourselves. Admitting the impossibility in knowing one self and still choosign to live with these stories as an attempt at that goal of understanding.
+I need to tell the story of the japanese poetry group around year 1000 who allowed each other to take new names every decade or so to start each decade with a fresh voice. To become the resplendant new. The untainted eye. As many times over as they wished for as long as they lived and wrote. THat story is maybe where I'd like to go. To get to a point where I feel free to reinvent myself as an artist. 
 Get that sweet Zizek action in here.
-True, definite and based on facts
-The truth
-To be true or believable
-Ways of emphasizing that something is true although it may be surprising
-Explore antonyms
-Ways of emphasizing that something is not true or likely
-Synonyms
-actually adverb
+
+True, definite and based on facts.
+The truth.
+To be true or believable.
+Ways of emphasizing that something is true although it may be surprising.
+
+actually 
 used for emphasizing what is really true or what really happened
 
-certainly adverb
+certainly 
 used for emphasizing that something is definitely true or will definitely happen
 
-clearly adverb
+clearly 
 used for showing that what you are saying is true and that most people will realize this
 
-simply adverb
+simply 
 used for emphasizing that what you are saying is nothing more than what you say it is
 
-literally adverb
+literally 
 used for showing that what you are saying is really true and is not just an impressive way of describing something
 
-evidently adverb
+evidently 
 used for showing that a statement is based on known facts
 
-honestly adverb
+honestly 
 spoken used for emphasizing that what you are saying is true, especially when talking about yourself
 
-surely adverb
+surely 
 used for showing that you believe something is very likely
 
-virtually adverb
+virtually 
 used for emphasizing that a statement is almost completely true
 
-altogether adverb
+altogether 
 used for emphasizing that what you are saying is true in every way
 
 - Dictionary thing where is it from?
@@ -215,6 +216,8 @@ used for emphasizing that what you are saying is true in every way
 Imaginary
 
 Symbolic			Real
+
+These three in a triangle diagram
 
 That which resists symbolization 
 
@@ -291,7 +294,7 @@ Hard finding a good one where someone is actually working with the machine:
 https://www.youtube.com/watch?v=S-DhUoI-vCY
 
 CURSÉD SAMPLER:
-https://web.archive.org/web/20181206110547/https://seattle.craigslist.org/sno/msg/d/possibly-cursed-emu-sp1200/6761989886.html
+[link](https://web.archive.org/web/20181206110547/https://seattle.craigslist.org/sno/msg/d/possibly-cursed-emu-sp1200/6761989886.html)
 
 
 # Code 
@@ -384,7 +387,7 @@ recording and the laptop studio. “But on the other hand, when everybody has th
 ability to make magic, it's like there's no more magic—if the audience can just
 do it themselves, why are they going to bother?”  
 
-https://pitchfork.com/features/cover-story/reader/daft-punk/
+[link](https://pitchfork.com/features/cover-story/reader/daft-punk/)
 
 Ryan Dombal's Daft Punk interview for Pitchfork that came out in May 2013 is
 riddled with descriptions of the interviewees affluance. We are told a story of
@@ -435,7 +438,7 @@ workers were real. Their struggle was real. I believe in that narrative.
 The code is static. Why is that important? 
 The frozen state yielding a multitude of infinities in variation through time fascinates me. Feels paradoxical. Goes on to talk about complexity. The scope or sampling window matters.
 Static or in flux. The fan in the Robert Miles on ai safety video is the intitial instance that made me think of this.
-Has to do with the presentation aspect. I work on the code until it reaches a static state which is most to my liking. While I might not listen to an eternity's worth of the generated material I'll listen to a good long while. The longest I have in the past listened to a material to make sure I liked all of the material I generated with a atatic piece of code is 8 and a half hours. I did that for No value without utility which can be found here: https://danielmkarlsson.github.io/
+Has to do with the presentation aspect. I work on the code until it reaches a static state which is most to my liking. While I might not listen to an eternity's worth of the generated material I'll listen to a good long while. The longest I have in the past listened to a material to make sure I liked all of the material I generated with a atatic piece of code is 8 and a half hours. I did that for No value without utility which can be found here: [link](https://danielmkarlsson.github.io/)
 
 By projecting static code in combination with fixed media is for the greater part due to my fascination for complexity i 
 emerging out of simplicity. To a smaller degree I cant help but go against the prescribed modus operandi of playing the code
@@ -449,7 +452,7 @@ How to talk about this without giving power to it's source.
  
 It's all dead simple, I have no real interest in technical complexity, and this music has a streamlined quality I admire. No gesture is strained or wasted and the music is complex, the technology is simple, a better way round than the age old problem of academic electronic music where muscular technology too often produces pissweak sounds.
 
-_ Mark Fell http://www.markfell.com/wiki/index.php?n=Mf.Manitutshu
+_ Mark Fell [link](http://www.markfell.com/wiki/index.php?n=Mf.Manitutshu)
 
 # The Believing Game
 
@@ -462,32 +465,6 @@ are pretty much set. Let's play a game you and I. It's called: The Believing
 Game.  
 
 I most likely will have to reference [this](https://github.com/danielmkarlsson/library/blob/master/Peter%20Elbow%20-%20The%20Believing%20Game--Methodological%20Believing.pdf)
-
-I want to write about the MPC. It wasn't until much later that I realizsed that
-the magical machine that I had heard about was the mpc. I first heard the story
-when I was a kid listening to NWA, Public Enemy, De La Soul. Then finally when I was older from a
-guy who showed me J-Dilla's Donuts. He told me the story as we were listening to
-the album together. It was interleaved. The story was. It got interrupted by "oh
-oh and check this part out". Little things about the production. Details. They
-say the devil is in the details. Anyway I really got that story handed to me.
-The last celebrated experimental hip hop record. Didn't have any rapping on it.
-The story goes he made it in the hospital as he was dying of a terminal illness.
-Had his MPC on his belly in the hospital bed. I don't know if that's true. I
-guess I've put off trying to find out if it's true because I like the story.
-"A kiss may not be the truth but it's what we wish were true." That bit is from
-Steve Martin's LA Story. In the movie I think we're meant to think it's a
-Shakespeare quote. That's a nother one I've thought a thousand times about and
-never got to the bottom of.
-
-Oooh here's a great source:
-https://www.youtube.com/watch?v=R8t08zWBKyg
-
-Hard finding a good one where someone os actually working with the machine:
-https://www.youtube.com/watch?v=S-DhUoI-vCY
-
-CURSÉD SAMPLER:
-https://web.archive.org/web/20181206110547/https://seattle.craigslist.org/sno/msg/d/possibly-cursed-emu-sp1200/6761989886.html
-
 
 # Conclusion: The Impossibility of The Maps
 (Nothing is real, everything is permitted, preferences of style, not aesthetics)
