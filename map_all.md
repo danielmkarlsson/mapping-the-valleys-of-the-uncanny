@@ -6,7 +6,7 @@
 03: Magic (No such thing actually but getting a reminder about how amazing everything is can be nice I guess)  
 04: Real fake (Big section proly. What is real? Ideally prove that all that can be heard is real. Only imaginings are unreal)  
 05: Rooms (Ties into place. The absurdity and poetic nature of imagining beleiveing that a photograph can steal a soul)   
-06: State (The code is static. Why? THe frozen state yielding a multitude of infinities in variation through time)   
+06: State (The code is static. Why? The frozen state yielding a multitude of infinities in variation through time)   
 07: The Believing Game (I'd like to change your mind about everything you know in your heart of hearts to be true)   
 08: The MPC (Origin stories, lore, compare the brush, hyperReal tape recorder, hi & lo culture   
 09: Conclusion (Nothing is real, everything is permitted)
