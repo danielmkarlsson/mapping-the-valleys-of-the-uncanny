@@ -9,7 +9,7 @@
 06: State (The code is static. Why? The frozen state yielding a multitude of infinities in variation through time)   
 07: The Believing Game (I'd like to change your mind about everything you know in your heart of hearts to be true)   
 08: The MPC (Origin stories, lore, compare the brush, hyperReal tape recorder, hi & lo culture   
-09: Conclusion (Nothing is real, everything is permitted)
+09: Conclusion: The impossibility of The Maps (Nothing is real, everything is permitted, preferences of style, not aesthetics)
 
 True, definite and based on facts
 The truth
