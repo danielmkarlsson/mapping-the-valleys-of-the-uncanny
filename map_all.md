@@ -1,6 +1,6 @@
 ### Table of contents
 
-00: Introduction
+00: Introduction  
 01: Uncannyness (What does it mean to other people? Why am I drawn to it?)   
 02: Code	(Why do I feel it is important to include my code in this thesis)    
 03: Magic (No such thing actually but getting a reminder about how amazing everything is can be nice I guess)  
