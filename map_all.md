@@ -1,6 +1,6 @@
-**Mapping the valleys of the uncanny**  
+# Mapping the valleys of the uncanny
 
-# Table of contents
+### Table of contents
 
 00: Introduction  
 01: Uncannyness  
