@@ -1,7 +1,7 @@
 ### Table of contents
 
 00: Introduction  
-01: Uncannyness (What does it mean to other people? Why am I drawn to it?)   
+01: Uncannyness  
 02: Real fake (Big section proly. What is real? Ideally prove that all that can be heard is real. Only imaginings are unreal)  
 03: The MPC (Origin stories, lore, compare the brush, hyperReal tape recorder, hi & lo culture.)  
 04: Code	(Why do I feel it is important to include my code in this thesis)     
@@ -11,56 +11,15 @@
 07: The Believing Game (I'd like to change your mind about everything you know in your heart of hearts to be true)    
 08: Conclusion: The impossibility of The Maps (Nothing is real, everything is permitted, preferences of style, not aesthetics) 
 
+### Introduction
 
-True, definite and based on facts
-The truth
-To be true or believable
-Ways of emphasizing that something is true although it may be surprising
-Explore antonyms
-Ways of emphasizing that something is not true or likely
-Synonyms
-actually adverb
-used for emphasizing what is really true or what really happened
+Hello.
 
-certainly adverb
-used for emphasizing that something is definitely true or will definitely happen
+### Uncannyness
 
-clearly adverb
-used for showing that what you are saying is true and that most people will realize this
-
-simply adverb
-used for emphasizing that what you are saying is nothing more than what you say it is
-
-literally adverb
-used for showing that what you are saying is really true and is not just an impressive way of describing something
-
-evidently adverb
-used for showing that a statement is based on known facts
-
-honestly adverb
-spoken used for emphasizing that what you are saying is true, especially when talking about yourself
-
-surely adverb
-used for showing that you believe something is very likely
-
-virtually adverb
-used for emphasizing that a statement is almost completely true
-
-altogether adverb
-used for emphasizing that what you are saying is true in every way
-
-- Dictionary thing where is it from?
-
-Imaginary
-
-
-
-Symbolic			Real
-
-
-That which resists symbolization 
-
-“The real is what resists symbolization absolutely.” ― Jacques Lacan, The Seminar of Jacques Lacan: Freud's Papers on Technique
+What does it mean to other people? 
+Why am I drawn to it?  
+[wikipedia article on Uncanny Valley](https://en.wikipedia.org/wiki/Uncanny_valley)
 
 ### Pinecones are magical
 
@@ -209,6 +168,56 @@ As long as we draw breath, I would argue that anything is possible.
 
 ### The Real and the fake
 
+True, definite and based on facts
+The truth
+To be true or believable
+Ways of emphasizing that something is true although it may be surprising
+Explore antonyms
+Ways of emphasizing that something is not true or likely
+Synonyms
+actually adverb
+used for emphasizing what is really true or what really happened
+
+certainly adverb
+used for emphasizing that something is definitely true or will definitely happen
+
+clearly adverb
+used for showing that what you are saying is true and that most people will realize this
+
+simply adverb
+used for emphasizing that what you are saying is nothing more than what you say it is
+
+literally adverb
+used for showing that what you are saying is really true and is not just an impressive way of describing something
+
+evidently adverb
+used for showing that a statement is based on known facts
+
+honestly adverb
+spoken used for emphasizing that what you are saying is true, especially when talking about yourself
+
+surely adverb
+used for showing that you believe something is very likely
+
+virtually adverb
+used for emphasizing that a statement is almost completely true
+
+altogether adverb
+used for emphasizing that what you are saying is true in every way
+
+- Dictionary thing where is it from?
+
+Imaginary
+
+Symbolic			Real
+
+That which resists symbolization 
+
+“The real is what resists symbolization absolutely.” ― Jacques Lacan, The Seminar of Jacques Lacan: Freud's Papers on Technique
+
+Define hyperReal.
+Even better than the real thing.
+Hightened states of being, as in the impossibility of hearing a multitude of things sounding in a multitude spaces, at a multitide of different times all at once. Transcending limitations of time and space through nonRealtime assemblage.
 There is a line between The Real and the fake. This position is defended at any
 cost. The Real can not, _must_ not, allow itself to be devauled. A great many
 people have invested heavily in doing difficult things. 
