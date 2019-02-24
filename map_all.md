@@ -1,4 +1,4 @@
-Table of contents
+### Table of contents
 
 01: Uncannyness (What does it mean to other people? Why am I drawn to it?)   
 02: Code	(Why do I feel it is important to include my code in this thesis)    
