@@ -4,7 +4,7 @@
 
 ```
  1. Introduction    
- 2. Uncannyness    
+ 2. Uncanniness    
  3. The Real and The Fake    
  4. The MPC   
  5. Code  
