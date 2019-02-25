@@ -180,7 +180,7 @@ action each time.
 
 # The Real and the fake
 
-(Big section proly. What is real? Ideally prove that all that can be heard is real. Only imaginings are unreal) 
+(Big section proly. What is real? Ideally prove that all that can be heard is real. Only imaginings are unreal)  
 Fictions. Narratives. Lores. Stories we tell ourselves. Admitting the impossibility in knowing one self and still choosign to live with these stories as an attempt at that goal of understanding.
 I need to tell the story of the japanese poetry group around year 1000 who allowed each other to take new names every decade or so to start each decade with a fresh voice. To become the resplendant new. The untainted eye. As many times over as they wished for as long as they lived and wrote. THat story is maybe where I'd like to go. To get to a point where I feel free to reinvent myself as an artist. 
 Get that sweet Zizek action in here.
