@@ -2,6 +2,7 @@
 
 ### Table of contents
 
+```
  0. Introduction    
  1. Uncannyness    
  2. The Real and The Fake    
@@ -12,6 +13,7 @@
  6. State    
  7. The Believing Game       
  8. Conclusion: The impossibility of The Maps    
+```
 
 # Introduction
 
