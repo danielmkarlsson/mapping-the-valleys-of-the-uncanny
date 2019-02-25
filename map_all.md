@@ -3,6 +3,7 @@
 ### Table of contents
 
 ```
+
  1. Introduction    
  2. Uncanniness    
  3. The Real and The Fake    
@@ -13,15 +14,16 @@
  8. State    
  9. The Believing Game       
 10. Conclusion: The impossibility of The Maps    
+
 ```
 
 # Introduction
 
-_An investigation into process and method within the field of algorithmic
-composition._
+An investigation into process and method within the field of algorithmic
+composition.
 
-_The role of instrumentation and timbre as they unwittingly
-conspire to designate access, power, work and ultimately class._  
+The role of instrumentation and timbre as they unwittingly
+conspire to designate access, power, work and ultimately class.  
 
 (I might have to walk this second description back to some extent)
 
@@ -32,9 +34,7 @@ of stylized visit to an Internet site. Entirely through composed deterministic
 realisations with no live instrumentalists. Each of the three sets will have a
 duration of about 40 minutes each and will allow for about 20 minute
 intermissions after each set. The three sets will contain presentations of sonic
-materials interspersed with excerpts from the thesis using speech synthesis and, 
-possibly questions posed by my friend Blue. Hopefully leaning towards conversation
-in style.  
+materials interspersed with excerpts from the thesis using speech synthesis. 
 
 As each material plays comments could be written explaining how each line
 contributes to the resultant music. To be performed during LjudOljud on April
