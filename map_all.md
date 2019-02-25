@@ -74,8 +74,7 @@ no matter what happens now, at least I'll have one set that is ok. Most folks on
 do the one set don't they? 
 
 I think that I can work my way backwards from the end now. I've learned a lot from 
-completting the last piece.  
-One term to go.
+completing the last piece.  
 
 One story that has always fascinated me is the one about Pythagoras divvying up 
 strings. Going forward what I'm thinking I'll do is make a 20 minute piece and 
@@ -84,6 +83,15 @@ ensembles. That way maybe I can show that time is an illusion and that we are al
 here now just passing it, as best we can, hoping it all works out, waiting for 
 something, not sure what. Who knows; Maybe we do have a shot at forever after all. 
 As long as we draw breath, I would argue that anything is possible.
+
+```
+Metallophone solo
+
+Three interpretations                        9 min
+
+Through the intersections of all traversals 40 min
+
+```
 
 # Uncannyness
 
@@ -180,10 +188,17 @@ action each time.
 
 # The Real and the fake
 
-(Big section proly. What is real? Ideally prove that all that can be heard is real. Only imaginings are unreal)  
-Fictions. Narratives. Lores. Stories we tell ourselves. Admitting the impossibility in knowing one self and still choosign to live with these stories as an attempt at that goal of understanding.
-I need to tell the story of the japanese poetry group around year 1000 who allowed each other to take new names every decade or so to start each decade with a fresh voice. To become the resplendant new. The untainted eye. As many times over as they wished for as long as they lived and wrote. THat story is maybe where I'd like to go. To get to a point where I feel free to reinvent myself as an artist. 
+(Big section proly. What is real? Ideally prove that all that can be heard is real.  
+Only imaginings are unreal) Fictions. Narratives. Lores. Stories we tell ourselves.  
+Admitting the impossibility in knowing one self and still choosign to live with  
+these stories as an attempt at that goal of understanding.
+I need to tell the story of the japanese poetry group around year 1000 who allowed  
+each other to take new names every decade or so to start each decade with a fresh  
+voice. To become the resplendant new. The untainted eye. As many times over as  
+they wished for as long as they lived and wrote. THat story is maybe where I'd like  
+to go. To get to a point where I feel free to reinvent myself as an artist. 
 Get that sweet Zizek action in here.
+
 "Authentic Computer Music."
 
 affinity
@@ -296,16 +311,33 @@ _ Richard Feynman
 # The MPC
 
 (Origin stories, lore, compare the brush, hyperReal tape recorder, hi & lo culture.)  
-When the story of our origin (specifically New Music's origin) is told through the perspective Then the tape recoder grows to the size of the studio with undeniable monumental prestige. If we adjust the point of departure to adjust the scope of our story to use the MPC as the starting point an alternative telling of history emerges. The story we now construct has ramifications for where density is found. Closer to our time. Preferably in the now. Year zero is no longer 1930 with that of the americans liberating the tape recorder from the rubble of nazi germany. Instead the year is 1988. Public Enemy burst into a popular culture running at break-neck-speed  with their debut release It Takes a Nation of Millions to Hold Us Back. Our origin story is no longer one of  first meanderings of applying an alien technology inside of a void. Instead the very modus operandi is referentiality. The sampler and sampling not the tape recorder and tape recordings. Very the history of Electronische Muziek begins with the tape recorder and then explodes outward into the physical monument of the studio our new origin story is one of implosion. Both stories originate from a single machine. Samplers inside of computers are direct descendentsof the MPC. They now have no physical form. They are software. They computer disappears into generalization. A computer can perform the task of any specialized machine like the tape recorder or the sampler. A general purpose computer. Acorporeal. Purpose defined in software.
+When the story of our origin (specifically New Music's origin) is told through the 
+perspective Then the tape recoder grows to the size of the studio with undeniable 
+monumental prestige. If we adjust the point of departure to adjust the scope of our 
+story to use the MPC as the starting point an alternative telling of history emerges. 
+The story we now construct has ramifications for where density is found. Closer to our 
+time. Preferably in the now. Year zero is no longer 1930 with that of the americans 
+liberating the tape recorder from the rubble of nazi germany. Instead the year is 1988. 
+Public Enemy burst into a popular culture running at break-neck-speed  with their debut 
+release It Takes a Nation of Millions to Hold Us Back. Our origin story is no longer 
+one of  first meanderings of applying an alien technology inside of a void. Instead the 
+very modus operandi is referentiality. The sampler and sampling not the tape recorder 
+and tape recordings. Very the history of Electronische Muziek begins with the tape 
+recorder and then explodes outward into the physical monument of the studio our new 
+origin story is one of implosion. Both stories originate from a single machine. 
+Samplers inside of computers are direct descendentsof the MPC. They now have no 
+physical form. They are software. They computer disappears into generalization. 
+A computer can perform the task of any specialized machine like the tape recorder 
+or the sampler. A general purpose computer. Acorporeal. Purpose defined in software.
 
 I want to write about the MPC. It wasn't until much later that I realizsed that
 the magical machine that I had heard about was the mpc. I first heard the story
-when I was a kid listening to NWA, Public Enemy, De La Soul. Then finally when I was older from a
-guy who showed me J-Dilla's Donuts. He told me the story as we were listening to
-the album together. It was interleaved. The story was. It got interrupted by "oh
-oh and check this part out". Little things about the production. Details. They
-say the devil is in the details. Anyway I really got that story handed to me.
-The last celebrated experimental hip hop record. Didn't have any rapping on it.
+when I was a kid listening to NWA, Public Enemy, De La Soul. Then finally when I was 
+older from aguy who showed me J-Dilla's Donuts. He told me the story as we were 
+listening to the album together. It was interleaved. The story was. It got 
+interrupted by "oh oh and check this part out". Little things about the production. 
+Details. Theysay the devil is in the details. Anyway I really got that story handed 
+to me. The last celebrated experimental hip hop record. Didn't have any rapping on it.
 The story goes he made it in the hospital as he was dying of a terminal illness.
 Had his MPC on his belly in the hospital bed. I don't know if that's true. I
 guess I've put off trying to find out if it's true because I like the story.
@@ -328,33 +360,34 @@ CURSÉD SAMPLER:
 
 Why do I feel it is important to include my code in this thesis? 
 Utility.
-Some degree of responsibility needs to be taken when occupying a space. When speaking while one's voice is amplified by context (academia). Including   
+Some degree of responsibility needs to be taken when occupying a space. When speaking 
+while one's voice is amplified by context (academia). Including   
 
 ```
-m2
-$ stack[
-(839<~)
-$ fast 4
-$ n ("0" + (rep (1/58) $ choose [0,3..30] - 6 -6))
-# velocity (slow 64 $ scalex 0.01 0.4 $ sine)
-# nudge (slow 64 $ scale 0 3 $ sine),
-(678<~)
+m1 -- The stream holds time together
+$ stack[ -- The stack holds a potentially infinite amount of stems
+(839<~) -- Set time to begin at a certain point between two infinitites for this stem
+$ fast 4 -- Quadrule the speed at which time passes
+$ n ("0" + (rep (1/58) $ choose [0,3..30] - 6 -6)) -- The pitch aggregate for this stem
+# velocity (slow 64 $ scalex 0.01 0.4 $ sine) -- This stem fades in and out over 64 cycles
+# nudge (slow 64 $ scale 0 3 $ sine), -- Time is bent (shuffled) for this stem continously
+(678<~) -- Set time to begin at another point between two infinitites for this stem
 $ fast 3
 $ n ("0" + (rep (1/47) $ choose [0,2..30] - 9 -6))
 # velocity (slow 63 $ scalex 0.01 0.4 $ sine)
 # nudge (slow 58 $ scale 0 3 $ sine),
-(947<~)
+(947<~) -- Set time to begin at yet another point between two infinitites for this stem
 $ fast 3.5
 $ n ("0" + (rep (1/36) $ choose [0,5..30] - 12 -6))
 # velocity (slow 62 $ scalex 0.01 0.4 $ sine)
 # nudge (slow 47 $ scale 0 3 $ sine),
-(721<~)
+(721<~) -- Set time to begin at still yet another point between two infinitites for this stem
 $ fast 2.5
 $ n ("0" + (rep (1/29) $ choose [0,4..30] - 15 -6))
 # velocity (slow 61 $ scalex 0.01 0.4 $ sine)
 # nudge (slow 47 $ scale 0 3 $ sine)
-]
-# cc64 1
+] -- The stack ends here
+# cc64 1 -- This ensures that all sounds are sustained for all stems
 
 cps (1)
 ```
