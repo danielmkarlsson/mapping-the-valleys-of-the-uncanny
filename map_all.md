@@ -95,8 +95,16 @@ Through the intersections of all traversals 40 min
 
 # Uncannyness
 
-What does it mean to other people?  
+What does it mean to other people? 
+
+adjective
+having or seeming to have a supernatural or inexplicable basis; beyond the ordinary or normal; extraordinary:
+uncanny accuracy; an uncanny knack of foreseeing trouble.
+mysterious; arousing superstitious fear or dread; uncomfortably strange:
+Uncanny sounds filled the house.
+
 Why am I drawn to it?  
+It strikes me as contemporary and unexplored.
 
 [wikipedia article on Uncanny Valley](https://en.wikipedia.org/wiki/Uncanny_valley)  
 
