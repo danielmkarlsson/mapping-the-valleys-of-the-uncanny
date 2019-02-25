@@ -95,8 +95,9 @@ Through the intersections of all traversals 40 min
 
 # Uncannyness
 
-What does it mean to other people? 
+What does it mean to other people?  
 Why am I drawn to it?  
+
 [wikipedia article on Uncanny Valley](https://en.wikipedia.org/wiki/Uncanny_valley)  
 
 [The Uncanny Valley by Masahiro Mori](https://spectrum.ieee.org/automaton/robotics/humanoids/the-uncanny-valley)  
@@ -104,6 +105,7 @@ Why am I drawn to it?
 [duplicate](https://github.com/danielmkarlsson/library/blob/master/Masahiro%20Mori%20-%20The%20Uncanny%20Valley.pdf)
 
 https://en.wikipedia.org/wiki/Kuroko
+
 https://en.wikipedia.org/wiki/Bunraku
 
 Diagram of the valley:
