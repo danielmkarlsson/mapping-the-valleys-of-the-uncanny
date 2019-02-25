@@ -2,16 +2,16 @@
 
 ### Table of contents
 
-00: Introduction    
-01: Uncannyness    
-02: The Real and The Fake    
-03: The MPC   
-04: Code  
-05: Pinecones are magical   
-06: Rooms     
-06: State    
-07: The Believing Game       
-08: Conclusion: The impossibility of The Maps    
+ 0. Introduction    
+ 1. Uncannyness    
+ 2. The Real and The Fake    
+ 3. The MPC   
+ 4. Code  
+ 5. Pinecones are magical   
+ 6. Rooms     
+ 6. State    
+ 7. The Believing Game       
+ 8. Conclusion: The impossibility of The Maps    
 
 # Introduction
 
