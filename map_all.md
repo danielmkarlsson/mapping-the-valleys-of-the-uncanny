@@ -12,7 +12,7 @@
  7. Rooms     
  8. State    
  9. The Believing Game       
- 10. Conclusion: The impossibility of The Maps    
+10. Conclusion: The impossibility of The Maps    
 ```
 
 # Introduction
