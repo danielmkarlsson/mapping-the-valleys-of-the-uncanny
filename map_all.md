@@ -1,5 +1,3 @@
-# Mapping the valleys of the uncanny
-
 ### Table of contents
 
 ```
@@ -19,13 +17,74 @@
 
 # Introduction
 
-An investigation into process and method within the field of algorithmic
-composition.
+[ An investigation into process and method within the field of algorithmic
+composition. ]
 
-The role of instrumentation and timbre as they unwittingly
-conspire to designate access, power, work and ultimately class.  
+[ The role of instrumentation and timbre as they unwittingly conspire to designate
+access, power, work and ultimately class. ] 
 
-(I might have to walk this second description back to some extent)
+( I might have to walk this second description back to some extent, depending on
+the brakes )
+
+I've been a composer for a minute now and I've engaged with music in a lot of
+different ways through the course of getting to where I'm at now in this moment
+that has me writing this text. There have been different frameworks at different
+times and those different frameworks have all come bundled with their own set of
+different limitations. It's difficult to take apart but I think that, at least
+sometimes those limitations inspired me. They definately affected the way my
+music sounded. One way that I like to think about these frameworks is the word
+project. Learning to play the guitar was a project. Learning to record myself
+playing guitar was another. Playing in a band came next. Learning to make songs
+together with friends sprung to life out of that. Fast forward through all of
+the links in the chain that has been my life to the overaching project of
+organising sound and this particular example of that. 
+
+# Mapping The Valleys of The Uncanny 
+
+The project is a collection of musical materials that
+explore the idea of the uncanny valley as it relates to music being real, fake
+or some strange combination of the two. This preject is primarily one in which I
+produce sound files. In a secondary capacity I am also producing a text file.
+
+In my thesis I aim to present my thoughts on how my work writing code and making
+music might be connected in some hopefully interesting ways to tensions within
+my field ("field" used here in a broader sense). My own origin story is likely
+another source for clues as to why I am driven to do the things that I do, but
+also, why I am broken in the particular way that I am. I'd also like to explore
+the possibility of making my thesis valuable to others in terms of it's utility
+by including my code. Other ways I'd like to touch upon how value gets created
+in a potential listener and or reader is narrative and place. I'll investigate
+where my own ideas about organising sound come from by telling stories and
+attempting to trace them back to their sources, engaging with them as lore,
+particular to myself and, contrastingly, to the wider field of new music. 
+
+I aim to maintain course towards a narrow field of research by limiting the
+scope of my inquiry to mostly my own music and thoughts, tacking on to a lesser
+degree my best guesses as to the origins of both. 
+
+ 
+
+```
+
+Subsequent experience,                                                       Subsequent experience,
+effect on intentions.                                                        effect on perceptions.
+          ^                                                                            ^
+          |                                                                            |
+          |                                                                            |
+   +------+------+                         +-------------+                      +------+------+
+   |             |-----------------------> |             | <--------------------|             |
+   |             | Discrete assesment loop |             | Audience creates     |             |
+   |   ARTIST    | used in the composition |   ARTWORK   | discrete loop when   |   AUDIENCE  |
+   |             | of the artwork.         |             | viewing the artwork. |             |
+   |             | <-----------------------|             |--------------------> |             |
+   +------+------+                         +-------------+                      +------+------+
+          ^                                                                            ^
+          |                                                                            |
+          |                                                                            |
+Prior experience,                                                            Prior experience,  
+beliefs established.                                                         beliefs established.
+
+```
 
 Three hours from opening to closing including intermissions. New Computer Music
 compositions presented within the framework of an evening at Fylkingen. A linear
@@ -40,68 +99,59 @@ As each material plays comments could be written explaining how each line
 contributes to the resultant music. To be performed during LjudOljud on April
 6th at Fylkingen. Documented as an Internet site containing all music and text. 
 
-In my thesis I aim to present my thoughts on how my work writing code and making
-music might be connected in some hopefully interesting ways to tensions within
-my field ("field" used here in a broader sense). My own origin story is likely
-another source for clues as to why I am driven to do the things that I do, but
-also, why I am broken in the particular way that I am. I'd also like to explore
-the possibility of making my thesis valuable to others in terms of it's utility
-by including my code. Other ways I'd like to touch upon how value gets created
-in a potential listener and or reader is narrative and place. I'll investigate
-where my own ideas about organising sound come from by telling stories and
-attempting to trace them back to their sources, engaging with them as lore,
-particular to myself and, contrastingly, to the wider field of new music. I aim
-to maintain course towards a narrow field of research by limiting the scope of
-my inquiry to mostly my own music and thoughts, tacking on to a lesser degree my
-best guesses as to the origins of both. The task at hand is mainly organising
-sound. My ambition is to present a number of materials, both in thought and in
-music. In doing so I hope to "tune" the listener's perception of the musical
-works held within the project through the means of text in order to allow for
-the possibility of greater immersion. 
-
 If possible one idea would be to fill the first set with only "solo" pieces
 (pieces which use one set of samples).
 
 After the intermission a duo piece, then a trio piece and so on.
 
-The third set is an ensemble piece. Holding out for
-a tutti divisi 100 hundred stem orchestra piece equivalent was, as I had guessed, 
-pushing it. That would for sure be the top of the pyramid though.
-What I ended up with is a 40 minute piece for large ensmeble.
-From one .scd file I have created the entire 40 minute's worth of music that is to 
-be contained within the third act. Having completed this task I feel confident that 
-no matter what happens now, at least I'll have one set that is ok. Most folks only 
-do the one set don't they? 
+The third set is an ensemble piece. Holding out for a tutti divisi 100 hundred
+stem orchestra piece equivalent was, as I had guessed, pushing it. That would
+for sure be the top of the pyramid though. What I ended up with is a 40 minute
+piece for large ensmeble. From one .scd file I have created the entire 40
+minute's worth of music that is to be contained within the third act. Having
+completed this task I feel confident that no matter what happens now, at least
+I'll have one set that is ok. Most folks only do the one set don't they? 
 
-I think that I can work my way backwards from the end now. I've learned a lot from 
-completing the last piece.  
+I think that I can work my way backwards from the end now. I've learned a lot
+from completing the last piece.  
 
-One story that has always fascinated me is the one about Pythagoras divvying up 
-strings. Going forward what I'm thinking I'll do is make a 20 minute piece and 
-then a 10 minute piece and then a 5 minute piece and so on with smaller and smaller 
-ensembles. That way maybe I can show that time is an illusion and that we are all 
-here now just passing it, as best we can, hoping it all works out, waiting for 
-something, not sure what. Who knows; Maybe we do have a shot at forever after all. 
-As long as we draw breath, I would argue that anything is possible.
+One story that has always fascinated me is the one about Pythagoras divvying up
+strings. Going forward what I'm thinking I'll do is make a 20 minute piece and
+then a 10 minute piece and then a 5 minute piece and so on with smaller and
+smaller ensembles. That way maybe I can show that time is an illusion and that
+we are all here now just passing it, as best we can, hoping it all works out,
+waiting for something, not sure what. Who knows; Maybe we do have a shot at
+forever after all.  As long as we draw breath, I would argue that anything is
+possible.
 
 ```
-Metallophone solo
 
-Three interpretations                        9 min
 
-Through the intersections of all traversals 40 min
+Set I:
+Speech synthesis onBoarding
+Clave solo < 2 min
+Speech synthesis thesis excerpt
+Col legno Contrabass solo 15 min 28 seconds
+Speech synthesis thesis excerpt
+Metallophone solo < 16 min
+
+Set II:
+Speech synthesis thesis excerpt
+Three interpretations 09 min 3 seconds
+Speech synthesis thesis excerpt
+
+Set III
+Intersections of traversals 40 min
 
 ```
 
 # Uncannyness
 
-What does it mean to other people? 
-
-adjective
-having or seeming to have a supernatural or inexplicable basis; beyond the ordinary or normal; extraordinary:
-uncanny accuracy; an uncanny knack of foreseeing trouble.
-mysterious; arousing superstitious fear or dread; uncomfortably strange:
-Uncanny sounds filled the house.
+What does it mean to other people?  
+adjective having or seeming to have a supernatural or inexplicable basis; beyond
+the ordinary or normal; extraordinary: uncanny accuracy; an uncanny knack of
+foreseeing trouble.  mysterious; arousing superstitious fear or dread;
+uncomfortably strange: Uncanny sounds filled the house.
 
 Why am I drawn to it?  
 It strikes me as contemporary and unexplored.
@@ -116,29 +166,30 @@ https://en.wikipedia.org/wiki/Kuroko
 
 https://en.wikipedia.org/wiki/Bunraku
 
-Diagram of the valley:
-
+```
 General MIDI Orchestra sounds <----+----> Paul Saunderson's Awakening
                                    |
                                    |
                                    V
                            The Uncanny Valley
+```
 
 The role of instrumentation is on the one hand entirely arbitrary to me as I am
 certain that the universe is fundamentally indifferent to my existence, and so,
 subsequently to which sounds I sequence in what way. None the less
 instrumentation is a source of immense fascination for me. Any sound could be
-sequenced. Which sounds would I like to sequence? What are my preferences? I know
-that I have at times let availability and prevalence to some extent dictate my
-choices. I should like to address that with a number of works that make good on
-promises of infinite abundance. After all anything is possible in Electronic
+sequenced. Which sounds would I like to sequence? What are my preferences? I
+know that I have at times let availability and prevalence to some extent dictate
+my choices. I should like to address that with a number of works that make good
+on promises of infinite abundance. After all anything is possible in Electronic
 Music. Any sound at any time. Timbre of course fascinates composers. 
 
 In my life I have come to regard certain sounds as desirable but illusive. The
 price I've had to pay has sometimes been higher than I would have liked in order
-to hear them for even the briefest of moments. I've had to work quickly and compromise.
-I've felt that the prescribed modus operandi has been error prone and difficult
-to utilize towards my ends of organising sound in the ways that I prefer.
+to hear them for even the briefest of moments. I've had to work quickly and
+compromise. I've felt that the prescribed modus operandi has been error prone
+and difficult to utilize towards my ends of organising sound in the ways that I
+prefer.
 
 Within so called "New Music" there exists a great divide between the electronic
 and the acoustic. Certain sounds are not easily reached for someone like me for
@@ -198,124 +249,94 @@ action each time.
 
 # The Real and the fake
 
-(Big section proly. What is real? Ideally prove that all that can be heard is real.  
-Only imaginings are unreal) Fictions. Narratives. Lores. Stories we tell ourselves.  
-Admitting the impossibility in knowing one self and still choosign to live with  
-these stories as an attempt at that goal of understanding.
-I need to tell the story of the japanese poetry group around year 1000 who allowed  
-each other to take new names every decade or so to start each decade with a fresh  
-voice. To become the resplendant new. The untainted eye. As many times over as  
-they wished for as long as they lived and wrote. THat story is maybe where I'd like  
-to go. To get to a point where I feel free to reinvent myself as an artist. 
-Get that sweet Zizek action in here.
+(Big section proly. What is real? Ideally prove that all that can be heard is
+real. Only imaginings are unreal) Fictions. Narratives. Lores. Stories we tell
+ourselves. Admitting the impossibility in knowing one self and still choosign
+to live with these stories as an attempt at that goal of understanding. I need
+to tell the story of the japanese poetry group around year 1000 who allowed
+each other to take new names every decade or so to start each decade with a
+fresh voice. To become the resplendant new. The untainted eye. As many times
+over as they wished for as long as they lived and wrote. That story is maybe
+where I'd like  to go. To get to a point where I feel free to reinvent myself as
+an artist. Get that sweet Zizek action in here.
 
 "Authentic Computer Music."
 
-affinity
-1.
-a natural liking for and understanding of someone or something.
-"he had a special affinity with horses"
-synonyms:	empathy, rapport, sympathy, accord, harmony, like-mindedness; closeness to, fellow feeling for, understanding of; liking for, fondness for, inclination towards, partiality for, penchant for, predilection towards, attraction towards; 
+affinity 1.  a natural liking for and understanding of someone or something.
+"he had a special affinity with horses" synonyms:	empathy, rapport, sympathy,
+accord, harmony, like-mindedness; closeness to, fellow feeling for,
+understanding of; liking for, fondness for, inclination towards, partiality for,
+penchant for, predilection towards, attraction towards; 
 
-"she has a natural affinity with animals and birds"
-relationship, bond, connection, propinquity
-"despite their different backgrounds, an affinity grew and developed"
-antonyms:	dislike, aversion, antipathy, blood relationship
-a similarity of characteristics suggesting a relationship, especially a resemblance in structure between animals, plants, or languages.
-"a semantic affinity between two words"
-synonyms:	similarity, resemblance, likeness, kinship; More
-antonyms:	dissimilitude
-relationship, especially by marriage as opposed to blood ties.
-"the distinction between kinship and affinity is not always clear-cut"
+"she has a natural affinity with animals and birds" relationship, bond,
+connection, propinquity "despite their different backgrounds, an affinity grew
+and developed" antonyms:	dislike, aversion, antipathy, blood relationship a
+similarity of characteristics suggesting a relationship, especially a
+resemblance in structure between animals, plants, or languages.  "a semantic
+affinity between two words" synonyms:	similarity, resemblance, likeness,
+kinship; More antonyms:	dissimilitude relationship, especially by marriage as
+opposed to blood ties.  "the distinction between kinship and affinity is not
+always clear-cut"
 
-True, definite and based on facts.
-The truth.
-To be true or believable.
-Ways of emphasizing that something is true although it may be surprising.
-
+True, definite and based on facts.  The truth.  To be true or believable.  Ways
+of emphasizing that something is true although it may be surprising.
 actually 
 used for emphasizing what is really true or what really happened
-
 certainly 
 used for emphasizing that something is definitely true or will definitely happen
-
 clearly 
 used for showing that what you are saying is true and that most people will realize this
-
 simply 
 used for emphasizing that what you are saying is nothing more than what you say it is
-
 literally 
 used for showing that what you are saying is really true and is not just an impressive way of describing something
-
 evidently 
 used for showing that a statement is based on known facts
-
 honestly 
 spoken used for emphasizing that what you are saying is true, especially when talking about yourself
-
 surely 
 used for showing that you believe something is very likely
-
 virtually 
 used for emphasizing that a statement is almost completely true
-
 altogether 
 used for emphasizing that what you are saying is true in every way
-
-- Dictionary thing where is it from?
-
 Imaginary
 
 Symbolic			Real
 
 These three in a triangle diagram
-
 That which resists symbolization 
-
 “The real is what resists symbolization absolutely.” ― Jacques Lacan, The Seminar of Jacques Lacan: Freud's Papers on Technique
-
-Define hyperReal.
-Even better than the real thing.
-Hightened states of being, as in the impossibility of hearing a multitude of things sounding in a multitude spaces, at a multitide of different times all at once. Transcending limitations of time and space through nonRealtime assemblage.
-There is a line between The Real and the fake. This position is defended at any
-cost. The Real can not, _must_ not, allow itself to be devauled. A great many
-people have invested heavily in doing difficult things. 
-
-Shortcuts are frowned upon.
-
+Define hyperReal. Even better than the real thing. Hightened states of being,
+as in the impossibility of hearing a multitude of things sounding in a multitude
+spaces, at a multitide of different times all at once. Transcending limitations
+of time and space through nonRealtime assemblage. There is a line between The
+Real and the fake. This position is defended at any cost. The Real can not,
+_must_ not, allow itself to be devauled. A great many people have invested
+heavily in doing difficult things. Shortcuts are frowned upon.
 Authenticity of what exactly?
-
 Value to be traded in for what?
-
 Tradition to be upheld for what purpose?
-
 Cutting corners implies future weakness of structural integrity.
 And so it goes. Positions of power are upheld. Barriers to entry kept in place.
-Nothing we can do.
-
-"...through layers of diminishing reality"
-
-"...half-awake, unable to distinguish the virtual from the real"
-
-"...counterfeit unreality"
-
-http://nymag.com/intelligencer/2018/12/how-much-of-the-internet-is-fake.html
-
+Nothing we can do.  
+"...through layers of diminishing reality"  
+"...half-awake, unable to distinguish the virtual from the real"  
+"...counterfeit unreality"  
+[How much of the internet is fake?](http://nymag.com/intelligencer/2018/12/how-much-of-the-internet-is-fake.html)
 The only satisfactions available are the satisfactions of reality, which are themselves frustrating.
 _ Adam Phillips
 
-"Round Robins are a method of recording a number of performances of the same sample so that when playing repeated notes in fast succession you don’t get “machine gunning” a rapid repeat of the same sample that gives the game away immediately."
-
+"Round Robins are a method of recording a number of performances of the same
+sample so that when playing repeated notes in fast succession you don’t get
+“machine gunning” a rapid repeat of the same sample that gives the game away
+immediately."
 _ Quote taken from some manual for some percussion sample library somewhere at some time or another.
 
 I can envision a future where people complain about musicians using telekinesis and longing for the days when real musicians used computers.
-
 _ Meyers
-https://twitter.com/m_e_y_e_r_s/status/855084900663349252
-
+[link to tweet](https://twitter.com/m_e_y_e_r_s/status/855084900663349252)
 Statements of science are not of what is true and what is not true, but statements of what is known with different degrees of certainty.
-
 _ Richard Feynman
 
 # The MPC
@@ -365,12 +386,10 @@ https://www.youtube.com/watch?v=S-DhUoI-vCY
 CURSÉD SAMPLER:
 [link](https://web.archive.org/web/20181206110547/https://seattle.craigslist.org/sno/msg/d/possibly-cursed-emu-sp1200/6761989886.html)
 
-
 # Code 
 
-Why do I feel it is important to include my code in this thesis? 
-Utility.
-Some degree of responsibility needs to be taken when occupying a space. When speaking 
+Why do I feel it is important to include my code in this thesis?  Utility.  Some
+degree of responsibility needs to be taken when occupying a space. When speaking
 while one's voice is amplified by context (academia). Including   
 
 ```
@@ -404,9 +423,9 @@ cps (1)
 
 # Pinecones are magical
 
-(I'd like to change your mind about everything you know in your heart of hearts to be true) 
-Up is down. Bad is good.
-While I don't believe in actual magic I find this passage from Jarod Anderson's The CryptoNaturalist useful for purposes
+(I'd like to change your mind about everything you know in your heart of hearts
+to be true) Up is down. Bad is good.  While I don't believe in actual magic I
+find this passage from Jarod Anderson's The CryptoNaturalist useful for purposes
 of illustration:
 
 "Pinecones are beautiful, geometric wonders that are only devalued by their
@@ -415,7 +434,7 @@ abundance. Fractal sculptures. Evergreen snowflakes. Blossoms in wood.
 
 _ The CryptoNaturalist @CryptoNature 2018-08-24
 
-https://twitter.com/CryptoNature/status/1032808690292797440
+[link to tweet](https://twitter.com/CryptoNature/status/1032808690292797440)
 
 I would like to return the shine, as it were, to the task of organising sound in
 general and to working with algorithimic composition in particular. 
@@ -478,53 +497,77 @@ articulation.
 
 # Rooms
 
-(Ties into place. The absurdity and poetic nature of imagining beleiveing that a photograph can steal a soul) 
-I've come to understand that my fascination for room tones is connected to my
-confusion about my class identity. Mimer first. I didn't realize it at the time.
-And then later, The Machine Hall in Ställberg. It was right under my nose then
-but it took me quite a while to piece the puzzle together. It's impossible for
-the narrative component of which space I use to travel to the distance to the
-listener on it's own. For me it's different. I know the name of the convolution
-file. I can imagine the workers there. Through a wrinkle in time. Working,
-ceaselessly, dutifully. And now that the lightning has been caught in the bottle
-I can imagine that work filling that room with sound. From the lowest rumbles
-through the spectrum all the way up the ladder to the harshest height of the
-audible spectrum. At the end of it we subtract time and we've captured if not
-the room itself then it's essence, or if you care to indulge me, it's soul. My
-fascination has been focusing in on trying to pin down the work that happened
-there. It can't be saved for later and understood given enough time. My origin
-story will always elude me. If these walls could talk we say. My thoughts
-connect things up and make patterns. Compare another cavernous room tone; The
-church. A place of worship. A place to wonder in awe of god's greatness. The
-organ was the first big organised sound. That room is part of how we've heard
-that instrument. The resonance. Place and narrative intersect in the tone of the
-room. As the room resonates we are brought into resonance with ideas. I never
-believed in god. I never believed that narrative. I know work was real. The
-workers were real. Their struggle was real. I believe in that narrative.
+(Ties into place. The absurdity and poetic nature of imagining beleiveing that a
+photograph can steal a soul) I've come to understand that my fascination for
+room tones is connected to my confusion about my class identity. Mimer first. I
+didn't realize it at the time.  And then later, The Machine Hall in Ställberg.
+It was right under my nose then but it took me quite a while to piece the puzzle
+together. It's impossible for the narrative component of which space I use to
+travel to the distance to the listener on it's own. For me it's different. I
+know the name of the convolution file. I can imagine the workers there. Through
+a wrinkle in time. Working, ceaselessly, dutifully. And now that the lightning
+has been caught in the bottle I can imagine that work filling that room with
+sound. From the lowest rumbles through the spectrum all the way up the ladder to
+the harshest height of the audible spectrum. At the end of it we subtract time
+and we've captured if not the room itself then it's essence, or if you care to
+indulge me, it's soul. My fascination has been focusing in on trying to pin down
+the work that happened there. It can't be saved for later and understood given
+enough time. My origin story will always elude me. If these walls could talk we
+say. My thoughts connect things up and make patterns. Compare another cavernous
+room tone; The church. A place of worship. A place to wonder in awe of god's
+greatness. The organ was the first big organised sound. That room is part of how
+we've heard that instrument. The resonance. Place and narrative intersect in the
+tone of the room. As the room resonates we are brought into resonance with
+ideas. I never believed in god. I never believed that narrative. I know work was
+real. The workers were real. Their struggle was real. I believe in that
+narrative.
 
 
 # State
 
-The code is static. Why is that important? 
-The frozen state yielding a multitude of infinities in variation through time fascinates me. Feels paradoxical. Goes on to talk about complexity. The scope or sampling window matters.
-Static or in flux. The fan in the Robert Miles on ai safety video is the intitial instance that made me think of this.
-Has to do with the presentation aspect. I work on the code until it reaches a static state which is most to my liking. While I might not listen to an eternity's worth of the generated material I'll listen to a good long while. The longest I have in the past listened to a material to make sure I liked all of the material I generated with a atatic piece of code is 8 and a half hours. I did that for No value without utility which can be found here: [link](https://danielmkarlsson.github.io/)
+The code is static. Why is that important?  The frozen state yielding a
+multitude of infinities in variation through time fascinates me. Feels
+paradoxical. Goes on to talk about complexity. The scope or sampling window
+matters.  Static or in flux. The fan in the Robert Miles on ai safety video is
+the intitial instance that made me think of this.  Has to do with the
+presentation aspect. I work on the code until it reaches a static state which is
+most to my liking. While I might not listen to an eternity's worth of the
+generated material I'll listen to a good long while. The longest I have in the
+past listened to a material to make sure I liked all of the material I generated
+with a atatic piece of code is 8 and a half hours. I did that for No value
+without utility which can be found here:
+[link](https://danielmkarlsson.github.io/)
 
-By projecting static code in combination with fixed media is for the greater part due to my fascination for complexity i 
-emerging out of simplicity. To a smaller degree I cant help but go against the prescribed modus operandi of playing the code
-within so called live coding like an instrument. That is not what I want to do. I want to organise sound in a very specific
-way. Another nice aspect of static code is that it greatly increases portability. I think I'd be a lot more interested in distributing something that was not video. Who knows what the future will hold.
+By projecting static code in combination with fixed media is for the greater
+part due to my fascination for complexity i emerging out of simplicity. To a
+smaller degree I cant help but go against the prescribed modus operandi of
+playing the code within so called live coding like an instrument. That is not
+what I want to do. I want to organise sound in a very specific way. Another nice
+aspect of static code is that it greatly increases portability. I think I'd be a
+lot more interested in distributing something that was not video. Who knows what
+the future will hold.
 
-Might be fun also to touch briefly on the idea of state as memory as in functional programming in general and Haskell in particular. At least the personal encounters part. THat whole engage with it as lore thing again.
+Might be fun also to touch briefly on the idea of state as memory as in
+functional programming in general and Haskell in particular. At least the
+personal encounters part. THat whole engage with it as lore thing again.
 
-"The only state is time"
-How to talk about this without giving power to it's source.
+"The only state is time"  
+How to talk about this without giving power to it's source?
  
-It's all dead simple, I have no real interest in technical complexity, and this music has a streamlined quality I admire. No gesture is strained or wasted and the music is complex, the technology is simple, a better way round than the age old problem of academic electronic music where muscular technology too often produces pissweak sounds.
+"It's all dead simple, I have no real interest in technical complexity, and this
+music has a streamlined quality I admire. No gesture is strained or wasted and
+the music is complex, the technology is simple, a better way round than the age
+old problem of academic electronic music where muscular technology too often
+produces pissweak sounds."
 
 _ Mark Fell [link](http://www.markfell.com/wiki/index.php?n=Mf.Manitutshu)
 
 # The Believing Game
+
+The task at hand is mainly organising sound. My ambition is to present a number
+of materials, both in thought and in music. In doing so I hope to "tune" the
+listener's perception of the musical works held within the project through the
+means of text in order to allow for the possibility of greater immersion. 
 
 When I was a kid I would sometimes stare for long stretches of time at high
 ceilings imagining what it would be like to be in that upside down world in the
@@ -534,11 +577,18 @@ are now. You are reluctant to have your perspective changed. Your world views
 are pretty much set. Let's play a game you and I. It's called: The Believing
 Game.  
 
-I most likely will have to reference [this](https://github.com/danielmkarlsson/library/blob/master/Peter%20Elbow%20-%20The%20Believing%20Game--Methodological%20Believing.pdf)
+I most likely will have to reference 
+[this](https://github.com/danielmkarlsson/library/blob/master/Peter%20Elbow%20-%20The%20Believing%20Game--Methodological%20Believing.pdf)
+
 
 # Conclusion: The Impossibility of The Maps
-(Nothing is real, everything is permitted, preferences of style, not aesthetics)
-The subjective nature of experiencing in general and especially in music because everyone is an expert becuse they've loved music their whole lives. Everybody love's music right? 
+
+( Nothing is real, everything is permitted, preferences of style exist,
+aesthetics do not )
+
+The subjective nature of experiencing in general and especially in music because
+everyone is an expert becuse they've loved music their whole lives. Everybody
+love's music right? 
 
 Music is [INSERT INFINITE LIST OF TRAITS] 
 
