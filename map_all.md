@@ -145,6 +145,9 @@ Intersections of traversals 40 min
 
 ```
 
+The old world is lost (reprise)
+The steepness of the pyramid
+
 # Uncannyness
 
 What does it mean to other people?  
@@ -300,13 +303,15 @@ virtually
 used for emphasizing that a statement is almost completely true
 altogether 
 used for emphasizing that what you are saying is true in every way
+
 Imaginary
 
 Symbolic			Real
 
 These three in a triangle diagram
 That which resists symbolization 
-“The real is what resists symbolization absolutely.” ― Jacques Lacan, The Seminar of Jacques Lacan: Freud's Papers on Technique
+“The real is what resists symbolization absolutely.” ― Jacques Lacan, The
+Seminar of Jacques Lacan: Freud's Papers on Technique
 Define hyperReal. Even better than the real thing. Hightened states of being,
 as in the impossibility of hearing a multitude of things sounding in a multitude
 spaces, at a multitide of different times all at once. Transcending limitations
@@ -324,7 +329,8 @@ Nothing we can do.
 "...half-awake, unable to distinguish the virtual from the real"  
 "...counterfeit unreality"  
 [How much of the internet is fake?](http://nymag.com/intelligencer/2018/12/how-much-of-the-internet-is-fake.html)
-The only satisfactions available are the satisfactions of reality, which are themselves frustrating.
+The only satisfactions available are the satisfactions of reality, which are
+themselves frustrating.
 _ Adam Phillips
 
 "Round Robins are a method of recording a number of performances of the same
@@ -333,11 +339,21 @@ sample so that when playing repeated notes in fast succession you don’t get
 immediately."
 _ Quote taken from some manual for some percussion sample library somewhere at some time or another.
 
-I can envision a future where people complain about musicians using telekinesis and longing for the days when real musicians used computers.
+I can envision a future where people complain about musicians using telekinesis
+and longing for the days when real musicians used computers.
 _ Meyers
 [link to tweet](https://twitter.com/m_e_y_e_r_s/status/855084900663349252)
-Statements of science are not of what is true and what is not true, but statements of what is known with different degrees of certainty.
+Statements of science are not of what is true and what is not true, but
+statements of what is known with different degrees of certainty.
 _ Richard Feynman
+
+Causal relationships.
+Evidence based.
+Realistic sound.
+Notions of artificialiality.
+Polar opposites
+Insurmountable task
+Fundamental differences
 
 # The MPC
 
@@ -593,3 +609,43 @@ love's music right?
 Music is [INSERT INFINITE LIST OF TRAITS] 
 
 Makes you feel [INSERT INFINITE LIST OF FEELINGS]
+
+### Below are unsorted snippets of random things
+
+If you are doing creative work then to some extent, sure, I think it could be a
+good idea to try to write down some of your thoughts about the task at hand from
+your perspective.
+
+What is the utmost of subtlety?
+
+"Every orphan was an explorer, sent to map uncharted territory. And every orphan
+was the uncharted territory itself."
+Greg Egan from Diaspora
+
+Static/flux
+StoneGarden
+Listening as an activity (interactivity)
+Paying attention
+
+How about narrative and place as two examples of two extramusical paths to engagement.
+
+Artificiality can be devastating. 
+Place: Make the case that a piece of code can be thought of as sculpture or as a
+place. What are some examples of good places? The stone garden is a nice story.
+The shopping mall is another place. Not as nice a place.  How about narrative or
+place? Extramusical paths to engagement Artificiality can be devastating. 
+
+Surface. 
+Superficiality. 
+Appearances. 
+Representation. 
+Sampling as a radical act. 
+Displacement. 
+Recontextuaiisatiion. 
+Fabricated narratives. 
+Materials. 
+Secret worlds. 
+Performative acts. 
+Blurring the line between the real and the fake.
+A faint sound in an adjacent room.
+The Vivaldi was a publisher story.
