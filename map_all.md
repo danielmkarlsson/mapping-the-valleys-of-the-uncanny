@@ -31,19 +31,19 @@ different ways through the course of getting to where I'm at now in this moment
 that has me writing this text. There have been different frameworks at different
 times and those different frameworks have all come bundled with their own set of
 different limitations. It's difficult to take apart but I think that, at least
-sometimes those limitations inspired me. They definately affected the way my
+sometimes those limitations inspired me. They  definitely affected the way my
 music sounded. One way that I like to think about these frameworks is the word
 project. Learning to play the guitar was a project. Learning to record myself
 playing guitar was another. Playing in a band came next. Learning to make songs
 together with friends sprung to life out of that. Fast forward through all of
-the links in the chain that has been my life to the overaching project of
+the links in the chain that has been my life to the overarching project of
 organising sound and this particular example of that. 
 
 # Mapping The Valleys of The Uncanny 
 
 The project is a collection of musical materials that
 explore the idea of the uncanny valley as it relates to music being real, fake
-or some strange combination of the two. This preject is primarily one in which I
+or some strange combination of the two. This project is primarily one in which I
 produce sound files. In a secondary capacity I am also producing a text file.
 
 In my thesis I aim to present my thoughts on how my work writing code and making
@@ -86,43 +86,9 @@ beliefs established.                                                         bel
 
 ```
 
-Three hours from opening to closing including intermissions. New Computer Music
-compositions presented within the framework of an evening at Fylkingen. A linear
-sequence of stereophonic fixed media single screen video files depicting a kind
-of stylized visit to an Internet site. Entirely through composed deterministic
-realisations with no live instrumentalists. Each of the three sets will have a
-duration of about 40 minutes each and will allow for about 20 minute
-intermissions after each set. The three sets will contain presentations of sonic
-materials interspersed with excerpts from the thesis using speech synthesis. 
+[Publishing as cybernetic practice](http://avant.org/artifact/stephen-willats/)
 
-As each material plays comments could be written explaining how each line
-contributes to the resultant music. To be performed during LjudOljud on April
-6th at Fylkingen. Documented as an Internet site containing all music and text. 
 
-If possible one idea would be to fill the first set with only "solo" pieces
-(pieces which use one set of samples).
-
-After the intermission a duo piece, then a trio piece and so on.
-
-The third set is an ensemble piece. Holding out for a tutti divisi 100 hundred
-stem orchestra piece equivalent was, as I had guessed, pushing it. That would
-for sure be the top of the pyramid though. What I ended up with is a 40 minute
-piece for large ensmeble. From one .scd file I have created the entire 40
-minute's worth of music that is to be contained within the third act. Having
-completed this task I feel confident that no matter what happens now, at least
-I'll have one set that is ok. Most folks only do the one set don't they? 
-
-I think that I can work my way backwards from the end now. I've learned a lot
-from completing the last piece.  
-
-One story that has always fascinated me is the one about Pythagoras divvying up
-strings. Going forward what I'm thinking I'll do is make a 20 minute piece and
-then a 10 minute piece and then a 5 minute piece and so on with smaller and
-smaller ensembles. That way maybe I can show that time is an illusion and that
-we are all here now just passing it, as best we can, hoping it all works out,
-waiting for something, not sure what. Who knows; Maybe we do have a shot at
-forever after all.  As long as we draw breath, I would argue that anything is
-possible.
 
 ```
 
@@ -148,7 +114,7 @@ Intersections of traversals 40 min
 The old world is lost (reprise)
 The steepness of the pyramid
 
-# Uncannyness
+# Uncanniness
 
 What does it mean to other people?  
 adjective having or seeming to have a supernatural or inexplicable basis; beyond
@@ -159,7 +125,7 @@ uncomfortably strange: Uncanny sounds filled the house.
 Why am I drawn to it?  
 It strikes me as contemporary and unexplored.
 
-[wikipedia article on Uncanny Valley](https://en.wikipedia.org/wiki/Uncanny_valley)  
+[Wikipedia article on Uncanny Valley](https://en.wikipedia.org/wiki/Uncanny_valley)  
 
 [The Uncanny Valley by Masahiro Mori](https://spectrum.ieee.org/automaton/robotics/humanoids/the-uncanny-valley)  
 
@@ -218,7 +184,7 @@ I've worked with to create a lot of material. There are some other people also
 that I've worked with to create some great packs that I am now sequencing. Given
 that I am sequencing files in a computer instead of writing scores for humans to
 either misunderstand or not care about, new things are possible. I am happy and
-the work is progressing. Up to now I've made etudes for single instruments. The
+the work is progressing. Up to now I've made études for single instruments. The
 focus going forward is to work up from duo to trio and so on up to larger
 ensembles.
 
@@ -235,37 +201,36 @@ Now that would be something.  But that is so much further down the rabbit hole.
 So certain things are different when sequencing sounds in a computer. Sounds can
 be played faster. That's interesting because we have that faster playing in
 music played by humans also. It's exciting because a lot of the time it gets
-held up as virtuostic. We use phrases like gifted or talented musicians.  A
+held up as virtuosic. We use phrases like gifted or talented musicians.  A
 computer can play _exactly_ the same amplitude and timbre multiple times in a
 row. Humans can't, well actually the constraint is higher up than that. Simple
-physics, Newtoninan forces won't allow it. We've never held that kind of
+physics, Newtonian forces won't allow it. We've never held that kind of
 virtuosity up as equilibristic instrumentalist practise. I don't think we'd
 react quite the same way if a human got even remotely close. "You sound like a
 machine" they'd say. It would be derogatory. They might not even know what
-machine they'de be referring to. It would be the sampler and more specifically
+machine they'd be referring to. It would be the sampler and more specifically
 an early days sampler with a single layer of samples. No round-robin switching
 out of the samples to mimic what happens "naturally" when a key is struck on a
 Celesta. An infinite amount of the subtlest variation explodes out of that
 action each time.
 
-[Publishing as cybernetic practice](http://avant.org/artifact/stephen-willats/)
 
 # The Real and the fake
 
 (Big section proly. What is real? Ideally prove that all that can be heard is
 real. Only imaginings are unreal) Fictions. Narratives. Lores. Stories we tell
-ourselves. Admitting the impossibility in knowing one self and still choosign
+ourselves. Admitting the impossibility in knowing one self and still choosing
 to live with these stories as an attempt at that goal of understanding. I need
-to tell the story of the japanese poetry group around year 1000 who allowed
+to tell the story of the Japanese poetry group around year 1000 who allowed
 each other to take new names every decade or so to start each decade with a
-fresh voice. To become the resplendant new. The untainted eye. As many times
+fresh voice. To become the resplendent new. The untainted eye. As many times
 over as they wished for as long as they lived and wrote. That story is maybe
 where I'd like  to go. To get to a point where I feel free to reinvent myself as
 an artist. Get that sweet Zizek action in here.
 
 "Authentic Computer Music."
 
-affinity 1.  a natural liking for and understanding of someone or something.
+Affinity 1.  A natural liking for and understanding of someone or something.
 "he had a special affinity with horses" synonyms:	empathy, rapport, sympathy,
 accord, harmony, like-mindedness; closeness to, fellow feeling for,
 understanding of; liking for, fondness for, inclination towards, partiality for,
@@ -283,41 +248,51 @@ always clear-cut"
 
 True, definite and based on facts.  The truth.  To be true or believable.  Ways
 of emphasizing that something is true although it may be surprising.
-actually 
-used for emphasizing what is really true or what really happened
-certainly 
-used for emphasizing that something is definitely true or will definitely happen
-clearly 
-used for showing that what you are saying is true and that most people will realize this
-simply 
-used for emphasizing that what you are saying is nothing more than what you say it is
-literally 
-used for showing that what you are saying is really true and is not just an impressive way of describing something
-evidently 
-used for showing that a statement is based on known facts
-honestly 
-spoken used for emphasizing that what you are saying is true, especially when talking about yourself
-surely 
-used for showing that you believe something is very likely
-virtually 
-used for emphasizing that a statement is almost completely true
-altogether 
-used for emphasizing that what you are saying is true in every way
+Actually 
+Used for emphasizing what is really true or what really happened
+Certainly 
+Used for emphasizing that something is definitely true or will definitely happen
+Clearly 
+Used for showing that what you are saying is true and that most people will realize this
+Simply 
+Used for emphasizing that what you are saying is nothing more than what you say it is
+Literally 
+Used for showing that what you are saying is really true and is not just an impressive way of describing something
+Evidently 
+Used for showing that a statement is based on known facts
+Honestly 
+Spoken used for emphasizing that what you are saying is true, especially when talking about yourself
+Surely 
+Used for showing that you believe something is very likely
+Virtually 
+Used for emphasizing that a statement is almost completely true
+Altogether 
+Used for emphasizing that what you are saying is true in every way
 
-Imaginary
 
-Symbolic			Real
+```
+                                     Imaginary
+                                        / \
+                                       /   \
+                                      /     \
+                                     /       \
+                                 Symbolic   Real
 
-These three in a triangle diagram
+```
+
+The Lacanian Triad according to Zizek
+
 That which resists symbolization 
 “The real is what resists symbolization absolutely.” ― Jacques Lacan, The
 Seminar of Jacques Lacan: Freud's Papers on Technique
-Define hyperReal. Even better than the real thing. Hightened states of being,
+Define hyperReal. 
+(link to Wikipedia)[https://en.wikipedia.org/wiki/Hyperreality]
+Even better than the real thing. Heightened states of being,
 as in the impossibility of hearing a multitude of things sounding in a multitude
-spaces, at a multitide of different times all at once. Transcending limitations
-of time and space through nonRealtime assemblage. There is a line between The
+spaces, at a multitude of different times all at once. Transcending limitations
+of time and space through non realTime assemblage. There is a line between The
 Real and the fake. This position is defended at any cost. The Real can not,
-_must_ not, allow itself to be devauled. A great many people have invested
+_must_ not, allow itself to be devalued. A great many people have invested
 heavily in doing difficult things. Shortcuts are frowned upon.
 Authenticity of what exactly?
 Value to be traded in for what?
@@ -334,7 +309,7 @@ themselves frustrating.
 _ Adam Phillips
 
 "Round Robins are a method of recording a number of performances of the same
-sample so that when playing repeated notes in fast succession you don’t get
+sample so that when playing repeated notes in fast succession you don't get
 “machine gunning” a rapid repeat of the same sample that gives the game away
 immediately."
 _ Quote taken from some manual for some percussion sample library somewhere at some time or another.
@@ -350,47 +325,52 @@ _ Richard Feynman
 Causal relationships.
 Evidence based.
 Realistic sound.
-Notions of artificialiality.
+Notions of artificiality.
 Polar opposites
 Insurmountable task
 Fundamental differences
 
 # The MPC
 
-(Origin stories, lore, compare the brush, hyperReal tape recorder, hi & lo culture.)  
-When the story of our origin (specifically New Music's origin) is told through the 
-perspective Then the tape recoder grows to the size of the studio with undeniable 
-monumental prestige. If we adjust the point of departure to adjust the scope of our 
-story to use the MPC as the starting point an alternative telling of history emerges. 
-The story we now construct has ramifications for where density is found. Closer to our 
-time. Preferably in the now. Year zero is no longer 1930 with that of the americans 
-liberating the tape recorder from the rubble of nazi germany. Instead the year is 1988. 
-Public Enemy burst into a popular culture running at break-neck-speed  with their debut 
-release It Takes a Nation of Millions to Hold Us Back. Our origin story is no longer 
-one of  first meanderings of applying an alien technology inside of a void. Instead the 
-very modus operandi is referentiality. The sampler and sampling not the tape recorder 
-and tape recordings. Very the history of Electronische Muziek begins with the tape 
-recorder and then explodes outward into the physical monument of the studio our new 
-origin story is one of implosion. Both stories originate from a single machine. 
-Samplers inside of computers are direct descendentsof the MPC. They now have no 
-physical form. They are software. They computer disappears into generalization. 
-A computer can perform the task of any specialized machine like the tape recorder 
-or the sampler. A general purpose computer. Acorporeal. Purpose defined in software.
+(Origin stories, lore, compare the brush, hyperReal tape recorder, hi & lo
+culture.)  If the tape recorder was hyperReal then the MPC is hyperHyperReal
+(compare postPostModern) and controlling Kontakt with SuperCollider is
+infinitely hyperRealised in comparison to the original origin story.  When the
+story of our origin (specifically New Music's origin) is told through the
+perspective Then the tape recorder grows to the size of the studio with
+undeniable monumental prestige. If we adjust the point of departure to adjust
+the scope of our story to use the MPC as the starting point an alternative
+telling of history emerges.  The story we now construct has ramifications for
+where density is found. Closer to our time. Preferably in the now. Year zero is
+no longer 1930 with that of the Americans liberating the tape recorder from the
+rubble of nazi Germany. Instead the year is 1988.  Public Enemy burst into a
+popular culture running at break-neck-speed  with their debut release It Takes a
+Nation of Millions to Hold Us Back. Our origin story is no longer one of  first
+meanderings of applying an alien technology inside of a void. Instead the very
+modus operandi is referentiality. The sampler and sampling not the tape recorder
+and tape recordings. Very the history of Electronische Musik begins with the
+tape recorder and then explodes outward into the physical monument of the studio
+our new origin story is one of implosion. Both stories originate from a single
+machine.  Samplers inside of computers are direct descendants of the MPC. They
+now have no physical form. They are software. They computer disappears into
+generalization.  A computer can perform the task of any specialized machine like
+the tape recorder or the sampler. A general purpose computer. Incorporeal.
+Purpose defined in software.
 
-I want to write about the MPC. It wasn't until much later that I realizsed that
-the magical machine that I had heard about was the mpc. I first heard the story
+I want to write about the MPC. It wasn't until much later that I realised that
+the magical machine that I had heard about was the MPC. I first heard the story
 when I was a kid listening to NWA, Public Enemy, De La Soul. Then finally when I was 
-older from aguy who showed me J-Dilla's Donuts. He told me the story as we were 
+older from a guy who showed me J-Dilla's Donuts. He told me the story as we were 
 listening to the album together. It was interleaved. The story was. It got 
 interrupted by "oh oh and check this part out". Little things about the production. 
-Details. Theysay the devil is in the details. Anyway I really got that story handed 
+Details. They say the devil is in the details. Anyway I really got that story handed 
 to me. The last celebrated experimental hip hop record. Didn't have any rapping on it.
 The story goes he made it in the hospital as he was dying of a terminal illness.
 Had his MPC on his belly in the hospital bed. I don't know if that's true. I
 guess I've put off trying to find out if it's true because I like the story.
 "A kiss may not be the truth but it's what we wish were true." That bit is from
 Steve Martin's LA Story. In the movie I think we're meant to think it's a
-Shakespeare quote. That's a nother one I've thought a thousand times about and
+Shakespeare quote. That's a another one I've thought a thousand times about and
 never got to the bottom of.
 
 Oooh here's a great source:
@@ -437,14 +417,14 @@ $ n ("0" + (rep (1/29) $ choose [0,4..30] - 15 -6))
 cps (1)
 ```
 
-# Pinecones are magical
+# Pine cones are magical
 
 (I'd like to change your mind about everything you know in your heart of hearts
 to be true) Up is down. Bad is good.  While I don't believe in actual magic I
 find this passage from Jarod Anderson's The CryptoNaturalist useful for purposes
 of illustration:
 
-"Pinecones are beautiful, geometric wonders that are only devalued by their
+"Pine cones are beautiful, geometric wonders that are only devalued by their
 abundance. Fractal sculptures. Evergreen snowflakes. Blossoms in wood.
 (Familiarity can rust magic. A little mental effort returns the shine.)" 
 
@@ -453,7 +433,7 @@ _ The CryptoNaturalist @CryptoNature 2018-08-24
 [link to tweet](https://twitter.com/CryptoNature/status/1032808690292797440)
 
 I would like to return the shine, as it were, to the task of organising sound in
-general and to working with algorithimic composition in particular. 
+general and to working with algorithmic composition in particular. 
 Stretch goals would be to influence people to join me in rewiring the term
 Computer Music to hold a new meaning. One tailored specifically to fit our time.
 As computers are no longer held in artificial scarcity but rather available in
@@ -483,7 +463,7 @@ _that's_ the story I've been told.
  
 Do you remember the story of Daft punk? 
 Everything was recorded onto analog tape in rarified recording palaces like New
-York's Electric Lady and L.A.'s Capitol Studios. Human spontaneity was coveted;
+York's Electric Lady and LA's Capitol Studios. Human spontaneity was coveted;
 computers, with their tendency toward mindless repetition, were not.
 
 “Technology has made music accessible in a philosophically interesting way,
@@ -495,25 +475,25 @@ do it themselves, why are they going to bother?”
 [link](https://pitchfork.com/features/cover-story/reader/daft-punk/)
 
 Ryan Dombal's Daft Punk interview for Pitchfork that came out in May 2013 is
-riddled with descriptions of the interviewees affluance. We are told a story of
+riddled with descriptions of the interviewees affluence. We are told a story of
 success through appearances. I imagine the article had the opposite of the
-intentended effect on me. I love the idea of democratising the means of
+intended effect on me. I love the idea of democratising the means of
 production.
 
 Take your fingers right up to your ears. As close as you can get them without
 touching your ears. Now rub your fingers together ever so gently. You can hear
 that can't you. Now imagine trying to hear such a faint sound across from a
-concert hall or even just a a stage. You would not be able to. Now image an
+concert hall or even just a stage. You would not be able to. Now image an
 orchestra. Something close to a hundred people. They wouldn't be able to fit
 there with all of their instruments in that close proximity where you heard that
-faint sound of your fingers rubbung together just now. Right there is where I
+faint sound of your fingers rubbing together just now. Right there is where I
 put the microphone. Each time, as close as I can get it. For each instrument and
-somtimes even changing the placement to optimize fully for a particular
+sometimes even changing the placement to optimize fully for a particular
 articulation.
 
 # Rooms
 
-(Ties into place. The absurdity and poetic nature of imagining beleiveing that a
+(Ties into place. The absurdity and poetic nature of imagining believing that a
 photograph can steal a soul) I've come to understand that my fascination for
 room tones is connected to my confusion about my class identity. Mimer first. I
 didn't realize it at the time.  And then later, The Machine Hall in Ställberg.
@@ -544,18 +524,18 @@ narrative.
 The code is static. Why is that important?  The frozen state yielding a
 multitude of infinities in variation through time fascinates me. Feels
 paradoxical. Goes on to talk about complexity. The scope or sampling window
-matters.  Static or in flux. The fan in the Robert Miles on ai safety video is
-the intitial instance that made me think of this.  Has to do with the
+matters.  Static or in flux. The fan in the Robert Miles on AI safety video is
+the initial instance that made me think of this.  Has to do with the
 presentation aspect. I work on the code until it reaches a static state which is
 most to my liking. While I might not listen to an eternity's worth of the
 generated material I'll listen to a good long while. The longest I have in the
 past listened to a material to make sure I liked all of the material I generated
-with a atatic piece of code is 8 and a half hours. I did that for No value
+with a static piece of code is 8 and a half hours. I did that for No value
 without utility which can be found here:
 [link](https://danielmkarlsson.github.io/)
 
 By projecting static code in combination with fixed media is for the greater
-part due to my fascination for complexity i emerging out of simplicity. To a
+part due to my fascination for complexity emerging out of simplicity. To a
 smaller degree I cant help but go against the prescribed modus operandi of
 playing the code within so called live coding like an instrument. That is not
 what I want to do. I want to organise sound in a very specific way. Another nice
@@ -565,7 +545,7 @@ the future will hold.
 
 Might be fun also to touch briefly on the idea of state as memory as in
 functional programming in general and Haskell in particular. At least the
-personal encounters part. THat whole engage with it as lore thing again.
+personal encounters part. That whole engage with it as lore thing again.
 
 "The only state is time"  
 How to talk about this without giving power to it's source?
@@ -603,7 +583,7 @@ I most likely will have to reference
 aesthetics do not )
 
 The subjective nature of experiencing in general and especially in music because
-everyone is an expert becuse they've loved music their whole lives. Everybody
+everyone is an expert because they've loved music their whole lives. Everybody
 love's music right? 
 
 Music is [INSERT INFINITE LIST OF TRAITS] 
@@ -623,17 +603,17 @@ was the uncharted territory itself."
 Greg Egan from Diaspora
 
 Static/flux
-StoneGarden
+Stone garden
 Listening as an activity (interactivity)
 Paying attention
 
-How about narrative and place as two examples of two extramusical paths to engagement.
+How about narrative and place as two examples of two extra musical paths to engagement.
 
 Artificiality can be devastating. 
 Place: Make the case that a piece of code can be thought of as sculpture or as a
 place. What are some examples of good places? The stone garden is a nice story.
 The shopping mall is another place. Not as nice a place.  How about narrative or
-place? Extramusical paths to engagement Artificiality can be devastating. 
+place? Extra musical paths to engagement Artificiality can be devastating. 
 
 Surface. 
 Superficiality. 
@@ -641,7 +621,7 @@ Appearances.
 Representation. 
 Sampling as a radical act. 
 Displacement. 
-Recontextuaiisatiion. 
+Recontextualisation. 
 Fabricated narratives. 
 Materials. 
 Secret worlds. 
@@ -649,3 +629,7 @@ Performative acts.
 Blurring the line between the real and the fake.
 A faint sound in an adjacent room.
 The Vivaldi was a publisher story.
+Fundamental phenomenon. Is this a good title? Is it even a good title for the
+Clave solo piece?
+The meta physical. Now what does that mean?
+Beyond the pleasure principle.
