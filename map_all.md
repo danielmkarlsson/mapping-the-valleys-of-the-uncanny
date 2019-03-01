@@ -85,9 +85,8 @@ Prior experience,                                                            Pri
 beliefs established.                                                         beliefs established.
 
 ```
-
+Adapted from:
 [Publishing as cybernetic practice](http://avant.org/artifact/stephen-willats/)
-
 
 
 ```
@@ -111,8 +110,6 @@ Intersections of traversals 40 min
 
 ```
 
-The old world is lost (reprise)
-The steepness of the pyramid
 
 # Uncanniness
 
@@ -610,6 +607,7 @@ Paying attention
 How about narrative and place as two examples of two extra musical paths to engagement.
 
 Artificiality can be devastating. 
+
 Place: Make the case that a piece of code can be thought of as sculpture or as a
 place. What are some examples of good places? The stone garden is a nice story.
 The shopping mall is another place. Not as nice a place.  How about narrative or
@@ -633,3 +631,5 @@ Fundamental phenomenon. Is this a good title? Is it even a good title for the
 Clave solo piece?
 The meta physical. Now what does that mean?
 Beyond the pleasure principle.
+The old world is lost (reprise)
+The steepness of the pyramid
