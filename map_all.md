@@ -37,7 +37,7 @@ project. Learning to play the guitar was a project. Learning to record myself
 playing guitar was another. Playing in a band came next. Learning to make songs
 together with friends sprung to life out of that. Fast forward through all of
 the links in the chain that has been my life to the overarching project of
-organising sound and this particular example of that. 
+organising sound and this particular example of that.
 
 # Mapping The Valleys of The Uncanny 
 
@@ -605,11 +605,41 @@ Music is [INSERT INFINITE LIST OF TRAITS]
 
 Makes you feel [INSERT INFINITE LIST OF FEELINGS]
 
+So the jist of this text is this: During my Master which was 2017 to 2019 I
+changed my way of working with music in a few different ways. Part of it was
+changing out the tools I used. I went from using TidaCycles to using
+SuperCollider. From using SuperDirt as my sampler to instead using Kontakt. From
+using AudioMulch to using Reaper for doing realtime postproduction.So some of
+the names of the tools changed but the functionality broadly speaking stayed the
+same. The modus operandi is still: Write code that triggers samples and then
+apply effects in a kind of DAW to express my musical ideas. 
+
+On a cenceptual or extra musical level however I am obliged to admit, however
+reluctantly, that something changed. ANyone who knows me is always hearing me
+tell the same story. About how fundamentally music is incapable of depicting
+anything because of hte fact that it is inherently abstract and utterly
+ephemeral.i Despite of how many times I have told that story both to myself, to
+my friends and basically anyone within earshot I ended up making a strange kind
+of programme music. I ended up thinking, perhaps too much, about my environment
+and about the people I met there. How they work and about why. What their goals
+are. The project ended up describing my thoughts and emotions about being back
+in that old world. Feeling much the same way as before. Like a thief at a
+cocktail party, trying to blend in, eating hors d'oeuvres and failing to
+exchange pleasentries, sweating profusely, certain of being found out and
+subsequently thrown out, any second now. 
+
 ### Below are unsorted snippets of random things
 
 If you are doing creative work then to some extent, sure, I think it could be a
 good idea to try to write down some of your thoughts about the task at hand from
-your perspective.
+your perspective. There are a lot of different ways that you could do that. 
+"...some are good, some are bad, some are just ok."  - Quentin Dupieux from Lambs Anger
+
+Quotes are socially exceptable form of sampling.
+
+What's that quote originallity of ryour ideas being dependent on the obscority of your
+sources? 
+http://www.theprofessionalcreative.com/obscure-birthplace-of-originality/
 
 What is the utmost of subtlety?
 
