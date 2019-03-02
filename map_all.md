@@ -370,6 +370,24 @@ Steve Martin's LA Story. In the movie I think we're meant to think it's a
 Shakespeare quote. That's a another one I've thought a thousand times about and
 never got to the bottom of.
 
+There might be a way to way to fit the Johan Cage on tour in Europe with Earl
+Brown and Christain Wolff story in here. The story goes that they were all on
+tour together and their musics all utilized the idea that if there is a
+sufficient amount of silence in between notes then the listener will forget the
+previous note. John Cage finds that after hearing the same program being played
+night after night in city after city he begins to hear melodies in al of their
+pieces. Prolonged exposure. Even just practice. It ends up in yur memory even if
+you don't want it to. Cage focused on just the notes in this example. To my mind
+there would have still been the compunded infinities of timbre and timing. With
+the MPC in it's first iteration I'm thinking this was most apparent. Hit that
+pad and get exactly the same sound every time. Later models in my time have been
+marketed as having  velocity through pressure sensitivty bulit into the pads.
+Not sure  but I think they returned to the flat no dynamics when they made an
+iOS version. The MPC then acorporeal, reduced to pictures under glass. The
+retriggering anyway. The "machineGunning". That's what I think became what made
+the MPC so interesting in how it was perceived. Lifeless, or even undead, like a
+zombie. The corpse moves, and in such marvellously different ways.
+
 Oooh here's a great source:
 https://www.youtube.com/watch?v=R8t08zWBKyg
 
