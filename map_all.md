@@ -31,7 +31,7 @@ different ways through the course of getting to where I'm at now in this moment
 that has me writing this text. There have been different frameworks at different
 times and those different frameworks have all come bundled with their own set of
 different limitations. It's difficult to take apart but I think that, at least
-sometimes those limitations inspired me. They  definitely affected the way my
+sometimes those limitations have inspired me. They  definitely affected the way my
 music sounded. One way that I like to think about these frameworks is the word
 project. Learning to play the guitar was a project. Learning to record myself
 playing guitar was another. Playing in a band came next. Learning to make songs
@@ -41,48 +41,46 @@ organising sound and this particular example of that.
 
 # Mapping The Valleys of The Uncanny 
 
-The project is a collection of musical materials that
-explore the idea of the uncanny valley as it relates to music being real, fake
-or some strange combination of the two. This project is primarily one in which I
-produce sound files. In a secondary capacity I am also producing a text file.
+This project is a collection of musical materials that explore the idea of the
+uncanny valley as it relates to music being real, fake or some strange
+combination of the two. This project is primarily one in which I produce sound
+files. In a secondary capacity I am also producing a text file.
 
-In my thesis I aim to present my thoughts on how my work writing code and making
-music might be connected in some hopefully interesting ways to tensions within
-my field ("field" used here in a broader sense). My own origin story is likely
-another source for clues as to why I am driven to do the things that I do, but
-also, why I am broken in the particular way that I am. I'd also like to explore
-the possibility of making my thesis valuable to others in terms of it's utility
-by including my code. Other ways I'd like to touch upon how value gets created
-in a potential listener and or reader is narrative and place. I'll investigate
-where my own ideas about organising sound come from by telling stories and
-attempting to trace them back to their sources, engaging with them as lore,
-particular to myself and, contrastingly, to the wider field of new music. 
+In my thesis I aim to present some of my thoughts on how my work writing code
+and making music might be connected in some hopefully interesting ways to my
+field. I am unlikely to be able to convey my own origin story. Instead I'll
+focus on stories I've been told about new music, throughout my life, inside and
+outside of academia. I have a strong suspicion that these stories have shaped my
+coming into being as a composer. However difficult the task of introspection, and
+ultimately to know one self proves to be, I at least regard these stories as a
+source for clues as to why I am driven to do the things that I do. I don't think
+that there can be anything like "the self" without others and that "the self" is
+largely about imagining others view of yourself.
 
-I aim to maintain course towards a narrow field of research by limiting the
-scope of my inquiry to mostly my own music and thoughts, tacking on to a lesser
-degree my best guesses as to the origins of both. 
-
- 
+I'd also like to explore the possibility of making my thesis valuable to others
+in terms of it's utility by including my code. My thinking here is that there
+exists a certain kind of reader that won't want to sit through these touch feely
+meanderings unless there is a promise of some code that can be run at the end.
 
 ```
 
-Subsequent experience,                                                       Subsequent experience,
-effect on intentions.                                                        effect on perceptions.
-          ^                                                                            ^
-          |                                                                            |
-          |                                                                            |
-   +------+------+                         +-------------+                      +------+------+
-   |             |-----------------------> |             | <--------------------|             |
-   |             | Discrete assesment loop |             | Audience creates     |             |
-   |   ARTIST    | used in the composition |   ARTWORK   | discrete loop when   |   AUDIENCE  |
-   |             | of the artwork.         |             | viewing the artwork. |             |
-   |             | <-----------------------|             |--------------------> |             |
-   +------+------+                         +-------------+                      +------+------+
-          ^                                                                            ^
-          |                                                                            |
-          |                                                                            |
-Prior experience,                                                            Prior experience,  
-beliefs established.                                                         beliefs established.
+Subsequent experience,                                                   Subsequent experience,
+effect on intentions.                                                    effect on perceptions.
+        ^                                                                            ^
+        |                                                                            |
+        |                                                                            |
+ +------+------+                         +-------------+                      +------+------+
+ |             |-----------------------> |             | <--------------------|             |
+ |             | Discrete assesment loop |             | Audience creates     |             |
+ |   ARTIST    | used in the composition |   ARTWORK   | discrete loop when   |   AUDIENCE  |
+ |             | of the artwork.         |             | viewing the artwork. |             |
+ |             | <-----------------------|             |--------------------> |             |
+ +------+------+                         +-------------+                      +------+------+
+        ^                                                                            ^
+        |                                                                            |
+        |                                                                            |
+Prior experience,                                                          Prior experience,  
+beliefs established.                                                       beliefs established.
 
 ```
 Adapted from:
@@ -301,9 +299,6 @@ Nothing we can do.
 "...half-awake, unable to distinguish the virtual from the real"  
 "...counterfeit unreality"  
 [How much of the internet is fake?](http://nymag.com/intelligencer/2018/12/how-much-of-the-internet-is-fake.html)
-The only satisfactions available are the satisfactions of reality, which are
-themselves frustrating.
-_ Adam Phillips
 
 "Round Robins are a method of recording a number of performances of the same
 sample so that when playing repeated notes in fast succession you don't get
@@ -594,16 +589,28 @@ I most likely will have to reference
 
 # Conclusion: The Impossibility of The Maps
 
-( Nothing is real, everything is permitted, preferences of style exist,
-aesthetics do not )
+Nothing is real, everything is permitted. 
 
-The subjective nature of experiencing in general and especially in music because
-everyone is an expert because they've loved music their whole lives. Everybody
-love's music right? 
+The source for this is acknowledged by Burroughs himself in Minutes to Go, p.
+61: Nothing is true all is permitted. Last words [of] Hassan Sabbah.
+The Old Man of the Mountain quoted from The Master of the Assassins by
+Betty Bouthoul. 
 
-Music is [INSERT INFINITE LIST OF TRAITS] 
+[Link to source](https://my.vanderbilt.edu/jefftaylor/publications/origins/)
 
-Makes you feel [INSERT INFINITE LIST OF FEELINGS]
+The phrase keeps popping up. Later on in a videogame called
+Assasins Creed.
+
+Music appreciation is subjective.
+
+The only satisfactions available are the satisfactions of reality, which are
+themselves frustrating.
+
+: Adam Phillips
+
+Preferences of style exist, aesthetics do not. Since there is no god there can
+be no divine beaty. We are left to our own devices down here. We have to make
+up our own minds about what we prefer.
 
 So the jist of this text is this: During my Master which was 2017 to 2019 I
 changed my way of working with music in a few different ways. Part of it was
@@ -681,3 +688,62 @@ The meta physical. Now what does that mean?
 Beyond the pleasure principle.
 The old world is lost (reprise)
 The steepness of the pyramid
+
+I'll never be a real composer. I'd like to think that I'll be able to make my
+piece with that some day. In my mind there is an image that perfectly models
+this: A locked door.
+
+"...it is worth pointing out that lock picking is just one way to bypass a lock,
+though it does cause less damage than brute force techniques. In fact, it may
+be easier to bypass the bolt mechanism than to bypass the lock. It may also be
+easier to bypass some other part of the door or even avoid the door entirely.
+Remember: There is always another way, usually a better one."
+
+[MIT Guide to Lock Picking](https://github.com/danielmkarlsson/library/blob/master/Theodore%20T.%20Tool%20-%20MIT%20Guide%20to%20Lock%20Picking.pdf)
+
+I am hypocritical trash until I act effectively to influence outcomes
+https://twitter.com/elizajuno69/status/823317056586215428
+
+The human mind (mine too) loves narratives. Stories.
+
+Stories are illusion. They are so powerful they invite delusion.
+
+What’s a workaround?
+https://twitter.com/stewartbrand/status/818621867850248192
+
+Money pays salaries, funds nonprofits, buys art, funds grants. Does it matter
+where it comes from? What makes certain money acceptable or not acceptable? Is
+it: How it was made? Who it comes from? What is given in return? What it is
+going towards? Our ethics and internal math may vary, but the question is
+omnipresent.
+https://thecreativeindependent.com/events/good-money/
+
+https://vimeo.com/195689761
+
+I tell my laptop we can be together when society is ready to accept our love.
+https://twitter.com/CharStiles/status/816546380651040768
+
+Henrik Frisk notes from seminar 2019-03-05
+
+Rigid method
+States that:
+The act of reflection is _basically_ what conciousness is about.
+There are (almost) different dimensions of reflection.
+Theory is a system of ideas.
+Experimental knowledge can exist.
+If I have a problem that I want to solve then the method is how I go about
+solving that problem. Compares scientific method. 
+The validity  of a result is drawn from the rigour of it's method.
+Method is a way of doing things. It is procedural. 
+Works in a group by askign opinions and reaching consensus. Democracy basically
+but perhaps not as formalized with votes done in private. Maybe he uses this to
+steer the project by subtle manipulation of other participants by keeping the
+democratic process intentionally vague. Who knows?
+Says he wants to understand why he makes the choices he makes within his own
+practice.
+Defines Artistic Research as viewing the artistic work as both object, result and method.
+Second order reflection comes in when I am both the object and the subject of research.
+The result is the audio file. It is immutable.
+Phenomenology.
+The only thing we can be certain of is our observations of the outside world.
+
