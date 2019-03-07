@@ -15,6 +15,7 @@
 
 ```
 
+
 # Introduction
 
 [ An investigation into process and method within the field of algorithmic
@@ -25,6 +26,10 @@ access, power, work and ultimately class. ]
 
 ( I might have to walk this second description back to some extent, depending on
 the brakes )
+
+"Every orphan was an explorer, sent to map uncharted territory. And every orphan
+was the uncharted territory itself."
+Greg Egan from Diaspora
 
 I've been a composer for a minute now and I've engaged with music in a lot of
 different ways through the course of getting to where I'm at now in this moment
@@ -38,6 +43,7 @@ playing guitar was another. Playing in a band came next. Learning to make songs
 together with friends sprung to life out of that. Fast forward through all of
 the links in the chain that has been my life to the overarching project of
 organising sound and this particular example of that.
+
 
 # Mapping The Valleys of The Uncanny 
 
@@ -88,7 +94,6 @@ Adapted from:
 
 
 ```
-
 
 Set I:
 Speech synthesis onBoarding
@@ -223,8 +228,6 @@ over as they wished for as long as they lived and wrote. That story is maybe
 where I'd like  to go. To get to a point where I feel free to reinvent myself as
 an artist. Get that sweet Zizek action in here.
 
-"Authentic Computer Music."
-
 Affinity 1.  A natural liking for and understanding of someone or something.
 "he had a special affinity with horses" synonyms:	empathy, rapport, sympathy,
 accord, harmony, like-mindedness; closeness to, fellow feeling for,
@@ -322,6 +325,7 @@ Polar opposites
 Insurmountable task
 Fundamental differences
 
+
 # The MPC
 
 (Origin stories, lore, compare the brush, hyperReal tape recorder, hi & lo
@@ -383,6 +387,22 @@ retriggering anyway. The "machineGunning". That's what I think became what made
 the MPC so interesting in how it was perceived. Lifeless, or even undead, like a
 zombie. The corpse moves, and in such marvellously different ways.
 
+Sampling as a radical act? Here then maybe the idea that there were
+possibilities presented to artists in the past (a very special brush) that for
+whatever reason have been insufficiently explored. Paradoxically taking on the
+role of the old hat at the same time. FM certainly is like that. Additive
+synthesis as well. These two examples can easily be thought through a purely
+technical perspective. Since both FM and additive synthesis offer an apparant
+abundance in the parameter space it becomes a problem of organsing efforts to
+explore them in powerful ways. We are left to our own devices here. We are not
+posing a threat to anyone noodling around inside of our belly buttons engaging
+with this work. On the other hand sampling isn't comparatively  as underplored
+from a technicall perspective. Might could be that there could be a case to make
+about how sampling could be underexplored from a referential and social
+perspective. This is largely due to how frought with legal concerns sampling
+became. There was, I think, a panic that spread quickly. A scrambling then
+ensued to safeguard intellectual property belong to large corporations.
+
 Oooh here's a great source:
 https://www.youtube.com/watch?v=R8t08zWBKyg
 
@@ -391,6 +411,7 @@ https://www.youtube.com/watch?v=S-DhUoI-vCY
 
 CURSÉD SAMPLER:
 [link](https://web.archive.org/web/20181206110547/https://seattle.craigslist.org/sno/msg/d/possibly-cursed-emu-sp1200/6761989886.html)
+
 
 # Code 
 
@@ -426,6 +447,7 @@ $ n ("0" + (rep (1/29) $ choose [0,4..30] - 15 -6))
 
 cps (1)
 ```
+
 
 # Pine cones are magical
 
@@ -501,6 +523,7 @@ put the microphone. Each time, as close as I can get it. For each instrument and
 sometimes even changing the placement to optimize fully for a particular
 articulation.
 
+
 # Rooms
 
 (Ties into place. The absurdity and poetic nature of imagining believing that a
@@ -528,6 +551,9 @@ ideas. I never believed in god. I never believed that narrative. I know work was
 real. The workers were real. Their struggle was real. I believe in that
 narrative.
 
+Place: Make the case that a piece of code can be thought of as sculpture or as a
+place. What are some examples of nice places? The stone garden is a nice story.
+The shopping mall is another place. Not as nice a place.  
 
 # State
 
@@ -568,6 +594,7 @@ produces pissweak sounds."
 
 _ Mark Fell [link](http://www.markfell.com/wiki/index.php?n=Mf.Manitutshu)
 
+
 # The Believing Game
 
 The task at hand is mainly organising sound. My ambition is to present a number
@@ -598,81 +625,107 @@ Betty Bouthoul.
 
 [Link to source](https://my.vanderbilt.edu/jefftaylor/publications/origins/)
 
-The phrase keeps popping up. Later on in a videogame called
-Assasins Creed.
+The quote keeps popping up. Later on in a videogame called
+Assasins Creed. Everyone is sampling it. The origin is more blurred by every use
+of it. It especially affects searchability on The Public Internet as the search
+engine (you know which one, the dominant one) is "optimizing" by finding and
+flaming resonances. When the resonace becomes feedback it can be used as a
+signal.
 
-Music appreciation is subjective.
+Music appreciation is subjective. Who'd a thunk it?
 
 The only satisfactions available are the satisfactions of reality, which are
 themselves frustrating.
-
 : Adam Phillips
 
 Preferences of style exist, aesthetics do not. Since there is no god there can
-be no divine beaty. We are left to our own devices down here. We have to make
+be no divine beauty. We are left to our own devices down here. We have to make
 up our own minds about what we prefer.
 
 So the jist of this text is this: During my Master which was 2017 to 2019 I
 changed my way of working with music in a few different ways. Part of it was
 changing out the tools I used. I went from using TidaCycles to using
 SuperCollider. From using SuperDirt as my sampler to instead using Kontakt. From
-using AudioMulch to using Reaper for doing realtime postproduction.So some of
+using AudioMulch to using Reaper for doing real time post production. So some of
 the names of the tools changed but the functionality broadly speaking stayed the
 same. The modus operandi is still: Write code that triggers samples and then
-apply effects in a kind of DAW to express my musical ideas. 
+apply effects in some kind of DAW-like environment in order to express my
+musical ideas. Why should I express my musical ideas? Because I want to and
+because I can. The possibility exists and I am drawn to it. The way I make music
+is dependant on tools. The tools should be open for others to study and use. If
+I don't take measures to make my tools available to others then I am kicking out
+the rungs beneath me as I climb upward.
 
 On a cenceptual or extra musical level however I am obliged to admit, however
-reluctantly, that something changed. ANyone who knows me is always hearing me
+reluctantly, that something changed. Anyone who knows me is always hearing me
 tell the same story. About how fundamentally music is incapable of depicting
-anything because of hte fact that it is inherently abstract and utterly
-ephemeral.i Despite of how many times I have told that story both to myself, to
+anything because of the fact that it is inherently abstract and utterly
+ephemeral. Despite of how many times I have told that story both to myself, to
 my friends and basically anyone within earshot I ended up making a strange kind
-of programme music. I ended up thinking, perhaps too much, about my environment
-and about the people I met there. How they work and about why. What their goals
-are. The project ended up describing my thoughts and emotions about being back
-in that old world. Feeling much the same way as before. Like a thief at a
-cocktail party, trying to blend in, eating hors d'oeuvres and failing to
-exchange pleasentries, sweating profusely, certain of being found out and
-subsequently thrown out, any second now. 
+of programme music myself. I got to thinking, perhaps too much, about my
+environment and about the people I met there. How they work and also about why
+they work in the ways that they work. What their goals are. The project ended up
+describing my thoughts and emotions about being back in that old world. Feeling
+much the same way as before. Like a thief at a cocktail party, trying to blend
+in, eating hors d'oeuvres and failing to exchange pleasentries, sweating
+profusely, certain of being found out and subsequently thrown out, any second
+now. 
 
 ### Below are unsorted snippets of random things
 
 If you are doing creative work then to some extent, sure, I think it could be a
 good idea to try to write down some of your thoughts about the task at hand from
 your perspective. There are a lot of different ways that you could do that. 
+
 "...some are good, some are bad, some are just ok."  - Quentin Dupieux from Lambs Anger
 
-Quotes are socially exceptable form of sampling.
+Quotes are a socially exceptable form of sampling.
 
-What's that quote originallity of ryour ideas being dependent on the obscority of your
-sources? 
+What's that quote about how the originallity of your ideas being dependent on
+the obscourity of your
+sources?   
 http://www.theprofessionalcreative.com/obscure-birthplace-of-originality/
 
 What is the utmost of subtlety?
 
-"Every orphan was an explorer, sent to map uncharted territory. And every orphan
-was the uncharted territory itself."
-Greg Egan from Diaspora
+Static/flux  
+Stone garden  
+Listening as an activity (interactivity)  
+Paying attention  
 
-Static/flux
-Stone garden
-Listening as an activity (interactivity)
-Paying attention
+How about narrative and place as two examples of two possible extra musical paths to engagement.
 
-How about narrative and place as two examples of two extra musical paths to engagement.
+The Vivaldi was a publisher story. The unlikeliness that program music will be
+real. Most likely a marketing ploy to pettle goods of some kind. In Vivaldi's
+time sheet music was the product. I remember the time in my life when as a
+teenager I would go to a record store to listen to music and decide which CD I
+would buy. I could afford to buy one per month. I was building my collection
+slowly this way. Then later because a lot of strange and complicated reasons I
+started lend/leasing compressed files through a platform. I did this through
+monthlu subscription which coincidentally is the same amount I paid for the one
+CD a month. The say you can listen to any music through this platform but I know
+that's not true. The platform being there and seeming so very unquestionable
+has led to people attempting to game it. The blandest, most chill music is being
+made in the hopes that it will be included in playlists marketed as containing
+the best music to sleep to. The ultimate state of utility for music is then to
+be unheard, at least consciously. It would be there to sooth if sleep was
+interrupted perhaps is the thinking. When fractions of pennies per play are
+offered to artist by the all encompssing platform the a whole nights worth of
+plays is where the money is. Especially when you multiply it by the platform
+pettling the good that is the playlist by use of algorithms. The data aggregated
+from the entirety of the platform's users dictates that this is the most chill
+music to sleep to. The resonance is inevitable. Feddback eventually rips
+everything apart. Orubus clenches it's own tail, spiralling ever downward in
+convulution and the most chill unfelt agony that is never learning of the grat
+width and breadth of the provable infinite capacity for variaty that music
+holds.
 
 Artificiality can be devastating. 
-
-Place: Make the case that a piece of code can be thought of as sculpture or as a
-place. What are some examples of good places? The stone garden is a nice story.
-The shopping mall is another place. Not as nice a place.  How about narrative or
-place? Extra musical paths to engagement Artificiality can be devastating. 
 
 Surface. 
 Superficiality. 
 Appearances. 
 Representation. 
-Sampling as a radical act. 
 Displacement. 
 Recontextualisation. 
 Fabricated narratives. 
@@ -681,7 +734,6 @@ Secret worlds.
 Performative acts. 
 Blurring the line between the real and the fake.
 A faint sound in an adjacent room.
-The Vivaldi was a publisher story.
 Fundamental phenomenon. Is this a good title? Is it even a good title for the
 Clave solo piece?
 The meta physical. Now what does that mean?
@@ -723,3 +775,4 @@ https://vimeo.com/195689761
 I tell my laptop we can be together when society is ready to accept our love.
 https://twitter.com/CharStiles/status/816546380651040768
 
+"Authentic Computer Music."
