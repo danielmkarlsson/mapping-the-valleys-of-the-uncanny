@@ -49,11 +49,3 @@ CmdPeriod.doOnce {
 };
 // Post.nl; // Posts new line to the postwindow
 )
-
-13.9.asStringPrec(400)
-
-// The scale is now
-// The transposition is now
-// The octave is now
-// The degree is now
-// The duration is now
