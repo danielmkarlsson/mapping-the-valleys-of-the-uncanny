@@ -2,41 +2,34 @@
 
 ```
 
- 1. Introduction    
- 2. Uncanniness    
- 3. The Real and The Fake    
- 4. The MPC   
- 5. Code  
- 6. Pinecones are magical   
- 7. Rooms     
- 8. State    
- 9. The Believing Game       
-10. Conclusion: The impossibility of The Maps    
+01. Introduction    
+02. Uncanniness    
+03. The Real and The Fake    
+04. The MPC   
+05. Code  
+06. Pinecones are magical   
+07. Rooms     
+08. State    
+09. The Believing Game       
+10. Music 
+11. Conclusion: The impossibility of The Maps    
 
 ```
 
 
 # Introduction
 
-[ An investigation into process and method within the field of algorithmic
-composition. ]
-
-[ The role of instrumentation and timbre as they unwittingly conspire to designate
-access, power, work and ultimately class. ] 
-
-( I might have to walk this second description back to some extent, depending on
-the brakes )
+Greg Egan writes in Diaspora:
 
 "Every orphan was an explorer, sent to map uncharted territory. And every orphan
 was the uncharted territory itself."
-Greg Egan from Diaspora
 
-I've been a composer for a minute now and I've engaged with music in a lot of
+I've been a composer for a while now and I've engaged with music in a lot of
 different ways through the course of getting to where I'm at now in this moment
 that has me writing this text. There have been different frameworks at different
 times and those different frameworks have all come bundled with their own set of
 different limitations. It's difficult to take apart but I think that, at least
-sometimes those limitations have inspired me. They  definitely affected the way my
+sometimes those limitations have inspired me. They definitely affected the way my
 music sounded. One way that I like to think about these frameworks is the word
 project. Learning to play the guitar was a project. Learning to record myself
 playing guitar was another. Playing in a band came next. Learning to make songs
@@ -47,6 +40,14 @@ organising sound and this particular example of that.
 
 # Mapping The Valleys of The Uncanny 
 
+[ An investigation into process and method within the field of algorithmic
+composition. ]
+
+Or:
+
+[ The role of instrumentation and timbre as they unwittingly conspire to designate
+access, power, work and ultimately class. ] 
+
 This project is a collection of musical materials that explore the idea of the
 uncanny valley as it relates to music being real, fake or some strange
 combination of the two. This project is primarily one in which I produce sound
@@ -54,8 +55,8 @@ files. In a secondary capacity I am also producing a text file.
 
 In my thesis I aim to present some of my thoughts on how my work writing code
 and making music might be connected in some hopefully interesting ways to my
-field. I am unlikely to be able to convey my own origin story. Instead I'll
-focus on stories I've been told about new music, throughout my life, inside and
+field. I am unlikely to be able to adequately convey my own origin story. Instead I'll
+focus on stories I've been told about music, throughout my life, inside and
 outside of academia. I have a strong suspicion that these stories have shaped my
 coming into being as a composer. However difficult the task of introspection, and
 ultimately to know one self proves to be, I at least regard these stories as a
@@ -65,8 +66,9 @@ largely about imagining others view of yourself.
 
 I'd also like to explore the possibility of making my thesis valuable to others
 in terms of it's utility by including my code. My thinking here is that there
-exists a certain kind of reader that won't want to sit through these touch feely
-meanderings unless there is a promise of some code that can be run at the end.
+exists a certain kind of reader that won't want to sit through these touchy feely
+meanderings unless there is a promise of some code that can be run at the end of
+the day.
 
 ```
 
@@ -93,25 +95,6 @@ Adapted from:
 [Publishing as cybernetic practice](http://avant.org/artifact/stephen-willats/)
 
 
-```
-
-Set I:
-Speech synthesis onBoarding
-Clave solo < 2 min
-Speech synthesis thesis excerpt
-Col legno Contrabass solo 15 min 28 seconds
-Speech synthesis thesis excerpt
-Metallophone solo < 16 min
-
-Set II:
-Speech synthesis thesis excerpt
-Three interpretations 09 min 3 seconds
-Speech synthesis thesis excerpt
-
-Set III
-Intersections of traversals 40 min
-
-```
 
 
 # Uncanniness
@@ -171,22 +154,13 @@ never really had any deeper context for LinnDrum claps or Gabber kicks of my own
 apart from the obvious fact that they are strictly out of bounds for anyone
 looking to make serious music. While that forbidden quality still holds some
 titillation I am now much more interested in my own coming into resonance. The
-sounds I feel most strongly connected to coming up through New Music where
+sounds I felt most strongly connected to coming up through New Music where
 always out of reach. 
 
-So in very practical terms: I've changed up my way of working. I've gone from
-making recordings of musicians playing my scores to now creating sample packs.
-Things like the organ have been great because I've been able to do that on my
-own. Last year I did a piece for ensemble and through that I met some great
-musicians who have been very helpful. Frida Mossop is a great violinist who has
-great tone and understands what I want. Also Pau Villa is a percussionist that
-I've worked with to create a lot of material. There are some other people also
-that I've worked with to create some great packs that I am now sequencing. Given
-that I am sequencing files in a computer instead of writing scores for humans to
-either misunderstand or not care about, new things are possible. I am happy and
-the work is progressing. Up to now I've made études for single instruments. The
-focus going forward is to work up from duo to trio and so on up to larger
-ensembles.
+So in very practical terms: I've changed up my way of working. I am sequencing
+audio files in a computer instead of writing scores for humans to either
+misunderstand or not care about. New things are possible. I am happy and the
+work is progressing.
 
 Most of the time I feel like I'm a high functioning automaton at best and that
 all of my veracious peaks of inspiration are just bright ideas channeled to me
@@ -205,7 +179,7 @@ held up as virtuosic. We use phrases like gifted or talented musicians.  A
 computer can play _exactly_ the same amplitude and timbre multiple times in a
 row. Humans can't, well actually the constraint is higher up than that. Simple
 physics, Newtonian forces won't allow it. We've never held that kind of
-virtuosity up as equilibristic instrumentalist practise. I don't think we'd
+virtuosity up as equilibristic instrumentalist practice. I don't think we'd
 react quite the same way if a human got even remotely close. "You sound like a
 machine" they'd say. It would be derogatory. They might not even know what
 machine they'd be referring to. It would be the sampler and more specifically
@@ -223,49 +197,14 @@ ourselves. Admitting the impossibility in knowing one self and still choosing
 to live with these stories as an attempt at that goal of understanding. I need
 to tell the story of the Japanese poetry group around year 1000 who allowed
 each other to take new names every decade or so to start each decade with a
-fresh voice. To become the resplendent new. The untainted eye. As many times
+fresh voice. To become the resplendent new. The untainted eye.  A new voice
+thorugh which to speak about new perspectives. As many times
 over as they wished for as long as they lived and wrote. That story is maybe
 where I'd like  to go. To get to a point where I feel free to reinvent myself as
-an artist. Get that sweet Zizek action in here.
+an artist.   
 
-Affinity 1.  A natural liking for and understanding of someone or something.
-"he had a special affinity with horses" synonyms:	empathy, rapport, sympathy,
-accord, harmony, like-mindedness; closeness to, fellow feeling for,
-understanding of; liking for, fondness for, inclination towards, partiality for,
-penchant for, predilection towards, attraction towards; 
+Get that sweet Zizek action in here.
 
-"she has a natural affinity with animals and birds" relationship, bond,
-connection, propinquity "despite their different backgrounds, an affinity grew
-and developed" antonyms:	dislike, aversion, antipathy, blood relationship a
-similarity of characteristics suggesting a relationship, especially a
-resemblance in structure between animals, plants, or languages.  "a semantic
-affinity between two words" synonyms:	similarity, resemblance, likeness,
-kinship; More antonyms:	dissimilitude relationship, especially by marriage as
-opposed to blood ties.  "the distinction between kinship and affinity is not
-always clear-cut"
-
-True, definite and based on facts.  The truth.  To be true or believable.  Ways
-of emphasizing that something is true although it may be surprising.
-Actually 
-Used for emphasizing what is really true or what really happened
-Certainly 
-Used for emphasizing that something is definitely true or will definitely happen
-Clearly 
-Used for showing that what you are saying is true and that most people will realize this
-Simply 
-Used for emphasizing that what you are saying is nothing more than what you say it is
-Literally 
-Used for showing that what you are saying is really true and is not just an impressive way of describing something
-Evidently 
-Used for showing that a statement is based on known facts
-Honestly 
-Spoken used for emphasizing that what you are saying is true, especially when talking about yourself
-Surely 
-Used for showing that you believe something is very likely
-Virtually 
-Used for emphasizing that a statement is almost completely true
-Altogether 
-Used for emphasizing that what you are saying is true in every way
 
 
 ```
@@ -280,80 +219,98 @@ Used for emphasizing that what you are saying is true in every way
 
 The Lacanian Triad according to Zizek
 
-That which resists symbolization 
+That which resists symbolization
+
 “The real is what resists symbolization absolutely.” ― Jacques Lacan, The
 Seminar of Jacques Lacan: Freud's Papers on Technique
+
 Define hyperReal. 
 (link to Wikipedia)[https://en.wikipedia.org/wiki/Hyperreality]
-Even better than the real thing. Heightened states of being,
-as in the impossibility of hearing a multitude of things sounding in a multitude
-spaces, at a multitude of different times all at once. Transcending limitations
-of time and space through non realTime assemblage. There is a line between The
-Real and the fake. This position is defended at any cost. The Real can not,
-_must_ not, allow itself to be devalued. A great many people have invested
-heavily in doing difficult things. Shortcuts are frowned upon.
+
+Even better than the real thing. 
+
+Heightened states of being, as in the
+impossibility of hearing a multitude of things sounding in a multitude spaces,
+at a multitude of different times all at once. Transcending limitations of time
+and space through non realTime assemblage. 
+
+There is a line between The Real and the fake. This position is defended at any cost. The Real can not, _must_ not,
+allow itself to be devalued. A great many people have invested heavily in doing
+difficult things. Shortcuts are frowned upon.  
+
 Authenticity of what exactly?
-Value to be traded in for what?
+Value to be traded in for what?  
 Tradition to be upheld for what purpose?
-Cutting corners implies future weakness of structural integrity.
-And so it goes. Positions of power are upheld. Barriers to entry kept in place.
+Cutting corners implies future weakness of structural integrity.  
+And so it goes. Positions of power are upheld. Barriers to entry kept in place.  
 Nothing we can do.  
+
 "...through layers of diminishing reality"  
+
 "...half-awake, unable to distinguish the virtual from the real"  
+
 "...counterfeit unreality"  
+
 [How much of the internet is fake?](http://nymag.com/intelligencer/2018/12/how-much-of-the-internet-is-fake.html)
 
 "Round Robins are a method of recording a number of performances of the same
 sample so that when playing repeated notes in fast succession you don't get
 “machine gunning” a rapid repeat of the same sample that gives the game away
 immediately."
-_ Quote taken from some manual for some percussion sample library somewhere at some time or another.
+
+This quote taken from a SpitFire Audio manual for a percussion sample library.
+If you decide to keep this then you should find it.
 
 I can envision a future where people complain about musicians using telekinesis
 and longing for the days when real musicians used computers.
+
 _ Meyers
 [link to tweet](https://twitter.com/m_e_y_e_r_s/status/855084900663349252)
+
 Statements of science are not of what is true and what is not true, but
 statements of what is known with different degrees of certainty.
 _ Richard Feynman
-
-Causal relationships.
-Evidence based.
-Realistic sound.
-Notions of artificiality.
-Polar opposites
-Insurmountable task
-Fundamental differences
 
 
 # The MPC
 
 (Origin stories, lore, compare the brush, hyperReal tape recorder, hi & lo
-culture.)  If the tape recorder was hyperReal then the MPC is hyperHyperReal
-(compare postPostModern) and controlling Kontakt with SuperCollider is
-infinitely hyperRealised in comparison to the original origin story.  When the
-story of our origin (specifically New Music's origin) is told through the
-perspective Then the tape recorder grows to the size of the studio with
-undeniable monumental prestige. If we adjust the point of departure to adjust
-the scope of our story to use the MPC as the starting point an alternative
-telling of history emerges.  The story we now construct has ramifications for
-where density is found. Closer to our time. Preferably in the now. Year zero is
-no longer 1930 with that of the Americans liberating the tape recorder from the
-rubble of nazi Germany. Instead the year is 1988.  Public Enemy burst into a
-popular culture running at break-neck-speed  with their debut release It Takes a
-Nation of Millions to Hold Us Back. Our origin story is no longer one of  first
-meanderings of applying an alien technology inside of a void. Instead the very
-modus operandi is referentiality. The sampler and sampling not the tape recorder
-and tape recordings. Very the history of Electronische Musik begins with the
-tape recorder and then explodes outward into the physical monument of the studio
-our new origin story is one of implosion. Both stories originate from a single
-machine.  Samplers inside of computers are direct descendants of the MPC. They
-now have no physical form. They are software. They computer disappears into
-generalization.  A computer can perform the task of any specialized machine like
-the tape recorder or the sampler. A general purpose computer. Incorporeal.
-Purpose defined in software.
+culture.)  
 
-I want to write about the MPC. It wasn't until much later that I realised that
+If the tape recorder was hyperReal then the MPC is hyperHyperReal
+(compare postPostModern) and controlling Kontakt with SuperCollider is
+infinitely hyperRealised in comparison to the original origin story.  
+
+When the story of our origin (specifically Electronic Music's origin) is told
+through the perspective of the tape recorder being the start . Then later the
+tape recorder grows to the size of the studio with undeniable monumental
+prestige. If we adjust the point of departure to a more recent technological
+breakthrough then the scope of our story changes dramtically. To use the MPC as
+the starting point for an alternative telling of history emerges as an
+oppourtunity.  
+
+The story we now construct has ramifications for where density occours. Closer
+to our time. Preferably in the now. Year zero is no longer 1930 with that of
+the Americans liberating the tape recorder from the rubble of nazi Germany.
+Instead the year is 1988.    
+Public Enemy burst into a popular culture running at
+break-neck-speed with their debut release It Takes a Nation of Millions to Hold
+Us Back. Our origin story is no longer one of first meanderings of applying an
+alien technology inside of a void. Instead the very modus operandi is
+referentiality. The sampler and sampling not the tape recorder and tape
+recordings. 
+
+The history of Electronische Musik begins with the tape recorder and then
+explodes outward into the physical monument of the studio. Our new origin story
+is one of implosion. Both stories originate from a single machine.  
+
+Sampler software inside of computers are direct descendants of the MPC. They now have no physical
+form. They are software. The computer disappears into generalization.  A
+computer can perform the task of any specialized machine like the tape recorder
+or the sampler. A general purpose computer. Incorporeal. Purpose defined in
+software.
+
+It wasn't until much later that I realised that
 the magical machine that I had heard about was the MPC. I first heard the story
 when I was a kid listening to NWA, Public Enemy, De La Soul. Then finally when I was 
 older from a guy who showed me J-Dilla's Donuts. He told me the story as we were 
@@ -369,18 +326,18 @@ Steve Martin's LA Story. In the movie I think we're meant to think it's a
 Shakespeare quote. That's a another one I've thought a thousand times about and
 never got to the bottom of.
 
-There might be a way to way to fit the Johan Cage on tour in Europe with Earl
-Brown and Christain Wolff story in here. The story goes that they were all on
+There might be a way to way to fit the John Cage on tour in Europe with Earl
+Brown and Christian Wolff story in here. The story goes that they were all on
 tour together and their musics all utilized the idea that if there is a
 sufficient amount of silence in between notes then the listener will forget the
 previous note. John Cage finds that after hearing the same program being played
-night after night in city after city he begins to hear melodies in al of their
-pieces. Prolonged exposure. Even just practice. It ends up in yur memory even if
+night after night in city after city he begins to hear melodies in all of their
+pieces. Prolonged exposure. Even just practice. It ends up in your memory even if
 you don't want it to. Cage focused on just the notes in this example. To my mind
 there would have still been the compunded infinities of timbre and timing. With
 the MPC in it's first iteration I'm thinking this was most apparent. Hit that
 pad and get exactly the same sound every time. Later models in my time have been
-marketed as having  velocity through pressure sensitivty bulit into the pads.
+marketed as having  velocity through pressure sensitivity bulit into the pads.
 Not sure  but I think they returned to the flat no dynamics when they made an
 iOS version. The MPC then acorporeal, reduced to pictures under glass. The
 retriggering anyway. The "machineGunning". That's what I think became what made
@@ -391,22 +348,22 @@ Sampling as a radical act? Here then maybe the idea that there were
 possibilities presented to artists in the past (a very special brush) that for
 whatever reason have been insufficiently explored. Paradoxically taking on the
 role of the old hat at the same time. FM certainly is like that. Additive
-synthesis as well. These two examples can easily be thought through a purely
+synthesis as well. These two examples can easily be thought of through a purely
 technical perspective. Since both FM and additive synthesis offer an apparant
 abundance in the parameter space it becomes a problem of organsing efforts to
-explore them in powerful ways. We are left to our own devices here. We are not
-posing a threat to anyone noodling around inside of our belly buttons engaging
-with this work. On the other hand sampling isn't comparatively  as underplored
-from a technicall perspective. Might could be that there could be a case to make
-about how sampling could be underexplored from a referential and social
-perspective. This is largely due to how frought with legal concerns sampling
-became. There was, I think, a panic that spread quickly. A scrambling then
-ensued to safeguard intellectual property belong to large corporations.
+explore them in powerful (abstracted) ways. We are left to our own devices here.
+We are not posing a threat to anyone noodling around inside of our belly buttons
+engaging with this work. On the other hand sampling isn't comparatively  as
+underexplored from a technical perspective. Might could be that there could be a
+case to make about how sampling could be underexplored from a referential and
+social perspective. This is largely due to how frought with legal concerns
+sampling became. There was, I think, a panic that spread quickly. A scrambling
+then ensued to safeguard intellectual property belonging to large corporations.
 
-Oooh here's a great source:
+Oooh here's a great source:  
 https://www.youtube.com/watch?v=R8t08zWBKyg
 
-Hard finding a good one where someone is actually working with the machine:
+Hard finding a good one where someone is actually working with the machine:  
 https://www.youtube.com/watch?v=S-DhUoI-vCY
 
 CURSÉD SAMPLER:
@@ -417,7 +374,9 @@ CURSÉD SAMPLER:
 
 Why do I feel it is important to include my code in this thesis?  Utility.  Some
 degree of responsibility needs to be taken when occupying a space. When speaking
-while one's voice is amplified by context (academia). Including   
+while one's voice is amplified by context (academia). 
+
+### Three interpretations.tidal
 
 ```
 m1 -- The stream holds time together
@@ -447,6 +406,64 @@ $ n ("0" + (rep (1/29) $ choose [0,4..30] - 15 -6))
 
 cps (1)
 ```
+
+### The intersections of traversals.scd
+
+```
+s.boot
+
+MIDIClient.init;
+MIDIIn.connectAll;
+~midiOut = MIDIOut.newByName("IAC Driver", "Bus 1");
+
+(
+var degrees = Pstep(Pseq([ 0, 2, 4, 11, 7, 9, 1, 3, 5, 8, 1, 3, 6, 10 ], inf).asStream, 29, inf);
+var currentDegree = 0;
+Pdef(
+    \mflePat,
+Pseed(99246, Pbind(
+    \type, \midi,
+    \midiout, ~midiOut,
+    \chan, 0,
+    \scale, Pstutter(1,
+        Pseq([
+            Scale.harmonicMinor,
+            Scale.aeolian,
+            Scale.harmonicMajor,
+            Scale.chromatic
+            ],inf)),
+    \mtranspose, Pstep(Pseq([ 0, 2, -1, -2, 3, 4, 1, -3, -4 ], inf), 9, inf),
+    \octave, Pstep(Pseq([ 3 ], inf), 5, inf),
+    //\octave, Pstutter(4, Pwrand(( 3..5 ), [ 1.75, 2, 1.25 ].normalizeSum,inf)),
+    \sustain, 45,
+    \amp, Pseq([
+        0,
+        Pseg(Pseq([ 0, 1, 0 ]), Pseq([ 26, 27, 28 ]), \sine),
+    ], inf),
+    \degree, Pn(Plazy {|event|
+        if (event.amp == 0) {
+            currentDegree = degrees.next;
+        };
+        currentDegree;
+    }),
+   \dur, Pseg(Pseq([ 1.5, 3, 1, 6, 0.5, 7, 0.25 ], inf),
+   Pseq([ 20, 25, 20, 15, 20, 25, 20 ], inf), \lin),
+		\post, Pfuncn({
+			arg event;
+			"the duration is now %".format(event[\dur].asStringPrec(99)).postln;
+			"the scale is now %".format(event[\dur]).postln;
+			"the degree is now %".format(event[\degree]).postln
+		})
+))).play(quant: 1);
+CmdPeriod.doOnce {
+    // release any hanging notes
+    ~midiOut.allNotesOff(0);
+};
+// Post.nl; // Posts new line to the postwindow
+)
+
+```
+
 
 
 # Pine cones are magical
@@ -614,6 +631,29 @@ I most likely will have to reference
 [this](https://github.com/danielmkarlsson/library/blob/master/Peter%20Elbow%20-%20The%20Believing%20Game--Methodological%20Believing.pdf)
 
 
+# Music 
+
+```
+
+Set I:
+Speech synthesis onBoarding
+Clave solo < 2 min
+Speech synthesis thesis excerpt
+Col legno Contrabass solo 15 min 28 seconds
+Speech synthesis thesis excerpt
+Metallophone solo < 16 min
+
+Set II:
+Speech synthesis thesis excerpt
+Three interpretations 09 min 3 seconds
+Speech synthesis thesis excerpt
+
+Set III
+Intersections of traversals 40 min
+
+```
+
+
 # Conclusion: The Impossibility of The Maps
 
 Nothing is real, everything is permitted. 
@@ -776,3 +816,81 @@ I tell my laptop we can be together when society is ready to accept our love.
 https://twitter.com/CharStiles/status/816546380651040768
 
 "Authentic Computer Music."
+
+Tell the story of how you heard as a child that the reason Hollywood scores in
+general and strings in particular can sound so distinctly Hollywood is because
+of the secret that they produce an amalgamy of the real and the fake. Forging the
+two into a stronger material than either of the two on their own could ever be.
+Perhaps even then I had the thought, or at least an ungraspable sense, without
+knowing the word, inexpressable but profoundly experienced. The hyperReal.
+
+Affinity 1.  A natural liking for and understanding of someone or something.
+"he had a special affinity with horses" 
+
+synonyms:	empathy, rapport, sympathy,
+accord, harmony, like-mindedness; closeness to, fellow feeling for,
+
+understanding of; liking for, fondness for, inclination towards, partiality for,
+penchant for, predilection towards, attraction towards; 
+
+"she has a natural affinity with animals and birds" relationship, bond,
+connection, propinquity "despite their different backgrounds, an affinity grew
+and developed" 
+
+antonyms:	
+dislike, aversion, antipathy, blood relationship a
+similarity of characteristics suggesting a relationship, especially a
+resemblance in structure between animals, plants, or languages.  
+
+"a semantic affinity between two words" 
+
+synonyms:	similarity, resemblance, likeness,
+kinship; 
+
+More antonyms:	dissimilitude relationship, especially by marriage as
+opposed to blood ties.  "the distinction between kinship and affinity is not
+always clear-cut"
+
+True, definite and based on facts.  The truth.  To be true or believable.  
+
+Ways  
+of emphasizing that something is true although it may be surprising.
+
+Actually   
+Used for emphasizing what is really true or what really happened
+
+Certainly   
+Used for emphasizing that something is definitely true or will definitely happen
+
+Clearly   
+Used for showing that what you are saying is true and that most people will realize this
+
+Simply   
+Used for emphasizing that what you are saying is nothing more than what you say it is
+
+Literally   
+Used for showing that what you are saying is really true and is not just an impressive way of describing something
+
+Evidently   
+Used for showing that a statement is based on known facts
+
+Honestly   
+Spoken used for emphasizing that what you are saying is true, especially when talking about yourself
+
+Surely   
+Used for showing that you believe something is very likely
+
+Virtually   
+Used for emphasizing that a statement is almost completely true
+
+Altogether   
+Used for emphasizing that what you are saying is true in every way
+
+Causal relationships.  
+Evidence based.  
+Realistic sound.  
+Notions of artificiality.  
+Polar opposites.  
+Insurmountable task.  
+Fundamental differences.  
+
