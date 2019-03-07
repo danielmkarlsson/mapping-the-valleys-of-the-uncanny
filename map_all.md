@@ -469,17 +469,17 @@ CmdPeriod.doOnce {
 # Pine cones are magical
 
 (I'd like to change your mind about everything you know in your heart of hearts
-to be true) Up is down. Bad is good.  While I don't believe in actual magic I
-find this passage from Jarod Anderson's The CryptoNaturalist useful for purposes
-of illustration:
+to be true) 
+
+Up is down. Bad is good. While I don't believe in actual magic I find this
+passage from Jarod Anderson's The CryptoNaturalist useful for purposes of
+illustration:
 
 "Pine cones are beautiful, geometric wonders that are only devalued by their
 abundance. Fractal sculptures. Evergreen snowflakes. Blossoms in wood.
 (Familiarity can rust magic. A little mental effort returns the shine.)" 
 
-_ The CryptoNaturalist @CryptoNature 2018-08-24
-
-[link to tweet](https://twitter.com/CryptoNature/status/1032808690292797440)
+[link to source](https://twitter.com/CryptoNature/status/1032808690292797440)
 
 I would like to return the shine, as it were, to the task of organising sound in
 general and to working with algorithmic composition in particular. 
@@ -488,7 +488,11 @@ Computer Music to hold a new meaning. One tailored specifically to fit our time.
 As computers are no longer held in artificial scarcity but rather available in
 abundance new ways of thinking and acting in the world are possible.
 
-Oram's new Atlantis:
+### Oram's new Atlantis: 
+
+I keep coming back this pasage from Francis Bacon's The New Atlantis which was
+first published in 1623:
+
 “We have also sound-houses, where we practise and demonstrate all sounds, and
 their generation. We have harmonies which you have not, of quarter-sounds, and
 lesser slides of sounds. Divers instruments of music likewise to you unknown,
@@ -504,52 +508,39 @@ some deeper; yea, some rendering the voice differing in the letters or
 articulate sound from that they receive. We have also means to convey sounds in
 trunks and pipes, in strange lines and distances.”
 
-_ “The New Atlantis” – Francis Bacon, 1623
-
 That's some story. Actually, for me it's a story wrapped in another story.
 Daphne Oram put that quote on the wall at The BBC Radiophonic Workshop and
 _that's_ the story I've been told.
- 
-Do you remember the story of Daft punk? 
-Everything was recorded onto analog tape in rarified recording palaces like New
-York's Electric Lady and LA's Capitol Studios. Human spontaneity was coveted;
-computers, with their tendency toward mindless repetition, were not.
-
-“Technology has made music accessible in a philosophically interesting way,
-which is great,” says Bangalter, talking about the proliferation of home
-recording and the laptop studio. “But on the other hand, when everybody has the
-ability to make magic, it's like there's no more magic—if the audience can just
-do it themselves, why are they going to bother?”  
-
-[link](https://pitchfork.com/features/cover-story/reader/daft-punk/)
-
-Ryan Dombal's Daft Punk interview for Pitchfork that came out in May 2013 is
-riddled with descriptions of the interviewees affluence. We are told a story of
-success through appearances. I imagine the article had the opposite of the
-intended effect on me. I love the idea of democratising the means of
-production.
 
 Take your fingers right up to your ears. As close as you can get them without
 touching your ears. Now rub your fingers together ever so gently. You can hear
 that can't you. Now imagine trying to hear such a faint sound across from a
-concert hall or even just a stage. You would not be able to. Now image an
+concert hall or even just a stage. You would not be able to. Now imagine an
 orchestra. Something close to a hundred people. They wouldn't be able to fit
 there with all of their instruments in that close proximity where you heard that
 faint sound of your fingers rubbing together just now. Right there is where I
-put the microphone. Each time, as close as I can get it. For each instrument and
-sometimes even changing the placement to optimize fully for a particular
-articulation.
+put the microphone. Each time, as close as I can get it. It's the place were a
+lover whispers to you. For each instrument and sometimes even changing the
+placement to optimize fully for a particular articulation. We are taught that
+close proximity is dangerous and can lead to an exagurated low end. I feel it is
+easier and sounds better to subtract from a signal rather than add to it and
+anyone who knows that I have a strong preference for the lower end of the
+spectrum. If need be cut the bass and add a room, any room, later. Get as much
+of the signal as you can when you have it. Just make sure it doesn't clip.
 
 
 # Rooms
 
-(Ties into place. The absurdity and poetic nature of imagining believing that a
-photograph can steal a soul) I've come to understand that my fascination for
+( Ties into place.  
+The absurdity and poetic nature of us imagining someone ahving
+believed that a photograph could steal a soul. ) 
+
+I've come to understand that my fascination for
 room tones is connected to my confusion about my class identity. Mimer first. I
-didn't realize it at the time.  And then later, The Machine Hall in Ställberg.
+didn't realize it at the time. And then later, The Machine Hall in Ställberg.
 It was right under my nose then but it took me quite a while to piece the puzzle
 together. It's impossible for the narrative component of which space I use to
-travel to the distance to the listener on it's own. For me it's different. I
+travel the distance to the listener on it's own. For me it's different. I
 know the name of the convolution file. I can imagine the workers there. Through
 a wrinkle in time. Working, ceaselessly, dutifully. And now that the lightning
 has been caught in the bottle I can imagine that work filling that room with
@@ -584,12 +575,12 @@ most to my liking. While I might not listen to an eternity's worth of the
 generated material I'll listen to a good long while. The longest I have in the
 past listened to a material to make sure I liked all of the material I generated
 with a static piece of code is 8 and a half hours. I did that for No value
-without utility which can be found here:
-[link](https://danielmkarlsson.github.io/)
+without utility which can be found here:  
+[link to source](https://danielmkarlsson.github.io/)
 
-By projecting static code in combination with fixed media is for the greater
-part due to my fascination for complexity emerging out of simplicity. To a
-smaller degree I cant help but go against the prescribed modus operandi of
+My choice to project static code in combination with fixed media is for the
+greater part due to my fascination for complexity emerging out of simplicity. To
+a smaller degree I cant help but go against the prescribed modus operandi of
 playing the code within so called live coding like an instrument. That is not
 what I want to do. I want to organise sound in a very specific way. Another nice
 aspect of static code is that it greatly increases portability. I think I'd be a
@@ -603,13 +594,16 @@ personal encounters part. That whole engage with it as lore thing again.
 "The only state is time"  
 How to talk about this without giving power to it's source?
  
+
+Mark Fell is quoted as saying the following in Phillip Clark's Manitutshu Wire Review:
+
 "It's all dead simple, I have no real interest in technical complexity, and this
 music has a streamlined quality I admire. No gesture is strained or wasted and
 the music is complex, the technology is simple, a better way round than the age
 old problem of academic electronic music where muscular technology too often
 produces pissweak sounds."
 
-_ Mark Fell [link](http://www.markfell.com/wiki/index.php?n=Mf.Manitutshu)
+[link to source](http://www.markfell.com/wiki/index.php?n=Mf.Manitutshu)
 
 
 # The Believing Game
@@ -669,15 +663,15 @@ The quote keeps popping up. Later on in a videogame called
 Assasins Creed. Everyone is sampling it. The origin is more blurred by every use
 of it. It especially affects searchability on The Public Internet as the search
 engine (you know which one, the dominant one) is "optimizing" by finding and
-flaming resonances. When the resonace becomes feedback it can be used as a
+fanning flames into resonances. When a resonance becomes feedback it can be used as a
 signal.
 
 Music appreciation is subjective. Who'd a thunk it?
 
-The only satisfactions available are the satisfactions of reality, which are
-themselves frustrating.
-: Adam Phillips
-
+Adam Phillips says that
+"The only satisfactions available are the satisfactions of reality, which are
+themselves frustrating."
+ 
 Preferences of style exist, aesthetics do not. Since there is no god there can
 be no divine beauty. We are left to our own devices down here. We have to make
 up our own minds about what we prefer.
@@ -696,7 +690,7 @@ is dependant on tools. The tools should be open for others to study and use. If
 I don't take measures to make my tools available to others then I am kicking out
 the rungs beneath me as I climb upward.
 
-On a cenceptual or extra musical level however I am obliged to admit, however
+On a cenceptual or extra musical level I am obliged to admit, however
 reluctantly, that something changed. Anyone who knows me is always hearing me
 tell the same story. About how fundamentally music is incapable of depicting
 anything because of the fact that it is inherently abstract and utterly
@@ -894,3 +888,22 @@ Polar opposites.
 Insurmountable task.  
 Fundamental differences.  
 
+Do you remember the story of Daft punk?
+
+Everything was recorded onto analog tape in rarified recording palaces like New
+York's Electric Lady and LA's Capitol Studios. Human spontaneity was coveted;
+computers, with their tendency toward mindless repetition, were not.
+
+“Technology has made music accessible in a philosophically interesting way,
+which is great,” says Bangalter, talking about the proliferation of home
+recording and the laptop studio. “But on the other hand, when everybody has the
+ability to make magic, it's like there's no more magic—if the audience can just
+do it themselves, why are they going to bother?”  
+
+[link to source](https://pitchfork.com/features/cover-story/reader/daft-punk/)
+
+Ryan Dombal's Daft Punk interview for Pitchfork that came out in May 2013 is
+riddled with descriptions of the interviewees affluence. We are told a story of
+success through appearances. I imagine the article had the opposite of the
+intended effect on me. I love the idea of democratising the means of
+production.
