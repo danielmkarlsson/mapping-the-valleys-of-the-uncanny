@@ -723,27 +723,3 @@ https://vimeo.com/195689761
 I tell my laptop we can be together when society is ready to accept our love.
 https://twitter.com/CharStiles/status/816546380651040768
 
-Henrik Frisk notes from seminar 2019-03-05
-
-Rigid method
-States that:
-The act of reflection is _basically_ what conciousness is about.
-There are (almost) different dimensions of reflection.
-Theory is a system of ideas.
-Experimental knowledge can exist.
-If I have a problem that I want to solve then the method is how I go about
-solving that problem. Compares scientific method. 
-The validity  of a result is drawn from the rigour of it's method.
-Method is a way of doing things. It is procedural. 
-Works in a group by askign opinions and reaching consensus. Democracy basically
-but perhaps not as formalized with votes done in private. Maybe he uses this to
-steer the project by subtle manipulation of other participants by keeping the
-democratic process intentionally vague. Who knows?
-Says he wants to understand why he makes the choices he makes within his own
-practice.
-Defines Artistic Research as viewing the artistic work as both object, result and method.
-Second order reflection comes in when I am both the object and the subject of research.
-The result is the audio file. It is immutable.
-Phenomenology.
-The only thing we can be certain of is our observations of the outside world.
-
