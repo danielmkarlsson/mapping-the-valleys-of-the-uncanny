@@ -117,15 +117,16 @@ anyone.
 # Uncanniness
 
 What does uncanniness mean? Let's have a look in a dictionary.
-It can mean a lot of different things:  
-• Having or seeming to have a supernatural or inexplicable basis. 
-• Beyond the ordinary or normal. 
-• Extraordinary. 
-• Uncanny accuracy. 
-• Mysterious. 
-• Arousing superstitious fear or dread.
-• Uncomfortably strange. 
-• Uncanny sounds filled the house.
+It can mean a lot of different things:
+
+• Having or seeming to have a supernatural or inexplicable basis.   
+• Beyond the ordinary or normal.   
+• Extraordinary.   
+• Uncanny accuracy.   
+• Mysterious.   
+• Arousing superstitious fear or dread.  
+• Uncomfortably strange.   
+• "Uncanny sounds filled the house."    
 
 Why am I drawn to it?  
 First off it strikes me as contemporary seeing as we are all living through post
