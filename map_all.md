@@ -2,7 +2,7 @@
 
 ```
 
-01. Introduction    
+01. Introduction: Establising a baseline    
 02. Uncanniness    
 03. The Real and The Fake    
 04. The MPC   
@@ -24,17 +24,17 @@ Greg Egan writes in Diaspora:
 "Every orphan was an explorer, sent to map uncharted territory. And every orphan
 was the uncharted territory itself."
 
-I've been a composer for a while now and I've engaged with music in a lot of
+I've been a composer for a while now. I've benn envovled with music in a lot of
 different ways through the course of getting to where I'm at now in this moment
 that has me writing this text. There have been different frameworks at different
 times and those different frameworks have all come bundled with their own set of
 different limitations. It's difficult to take apart but I think that, at least
-sometimes those limitations have inspired me. They definitely affected the way my
+sometimes, those limitations have inspired me. They definitely affected the way my
 music sounded. One way that I like to think about these frameworks is the word
 project. Learning to play the guitar was a project. Learning to record myself
 playing guitar was another. Playing in a band came next. Learning to make songs
-together with friends sprung to life out of that. Fast forward through all of
-the links in the chain that has been my life to the overarching project of
+together with friends sprung to life out of that. If we fast forward through all of
+the links in the chain that has been my life we arrive at the overarching project of
 organising sound and this particular example of that.
 
 
@@ -64,11 +64,10 @@ source for clues as to why I am driven to do the things that I do. I don't think
 that there can be anything like "the self" without others and that "the self" is
 largely about imagining others view of yourself.
 
-I'd also like to explore the possibility of making my thesis valuable to others
-in terms of it's utility by including my code. My thinking here is that there
-exists a certain kind of reader that won't want to sit through these touchy feely
-meanderings unless there is a promise of some code that can be run at the end of
-the day.
+I'd also  love to make my thesis valuable to others in terms of it's utility by
+including my code. My thinking here is that there exists a certain kind of
+reader that won't want to sit through these touchy feely meanderings unless
+there is a promise of some code that can be run at the end of the day.
 
 ```
 
@@ -94,19 +93,58 @@ beliefs established.                                                       belie
 Adapted from:
 [Publishing as cybernetic practice](http://avant.org/artifact/stephen-willats/)
 
-
+I have had a bunch of experiences prior to working on this project. I have made
+and heard a whole lot of music. Not only that but basically everything that has
+ever happened to me and the things that I have come to believe, about myself and
+about the world, I take with me into this new project. That happens with every
+project. The particulars of the framework surrounding this project really makes
+me very aware of that. Same thing goes for a listener. They also bring
+everything with them into listening. They might not know it but that's how it
+is. Nothing happens in a vacuum. The two discrete loops are kept separate
+though. That's how I like to think about it. I need to create music to keep
+myself balanced but that doesn't mean that I surrender my privacy. The
+listener shouldn't have to either. I've learned a lot from working on this
+project. It's been very freeing in a lot of ways. I feel like I got over myself
+in some ways. Also I dug down deep and pushed through some issues. I spent a
+lot longer coming back to pieces adding to and changing things about them. I
+know that doesn't matter though. What I mean to say is: No one can ever hear how
+long any piece of music took to write. How much effort went into. How much
+struggle. How many demons overcome. Sound is just wiggly air. It is also my
+favourite thing to do with the time that I have. Also I don't think I'm hurting
+anyone.
 
 
 # Uncanniness
 
-What does it mean to other people?  
-adjective having or seeming to have a supernatural or inexplicable basis; beyond
-the ordinary or normal; extraordinary: uncanny accuracy; an uncanny knack of
-foreseeing trouble.  mysterious; arousing superstitious fear or dread;
-uncomfortably strange: Uncanny sounds filled the house.
+What does uncanniness mean? Let's have a look in a dictionary.
+It can mean a lot of different things:  
+• Having or seeming to have a supernatural or inexplicable basis. 
+• Beyond the ordinary or normal. 
+• Extraordinary. 
+• Uncanny accuracy. 
+• Mysterious. 
+• Arousing superstitious fear or dread.
+• Uncomfortably strange. 
+• Uncanny sounds filled the house.
 
 Why am I drawn to it?  
-It strikes me as contemporary and unexplored.
+First off it strikes me as contemporary seeing as we are all living through post
+truth and secondly because I regard it as largely unexplored thought of as a
+musical parameter. 
+
+Practical example of how I've come to think of uncanniness as a musical
+parameter in this project: Say I want to write some music for strings. There
+are many sample libraries to choose from. So which one I choose first off but it
+goes deeper. These libraries all exist on a spectrum ranging from authentic
+sounding to blatantly ficticious. It interests me to think about where a
+praticular library lands on that spectrum for an imagined listener. After that
+there are aspects of how a library is recorded and scripted that influence me to
+make all kinds of choices regarding the conscruction of the music. Dynamics and
+registration most especially but in some cases even pitch material has revealed
+itself to me through this lense.  
+
+It has been inspiring to read about Masahiro Mori's thoughts about uncanniness
+and through that finding Banraku.
 
 [Wikipedia article on Uncanny Valley](https://en.wikipedia.org/wiki/Uncanny_valley)  
 
@@ -117,14 +155,6 @@ It strikes me as contemporary and unexplored.
 https://en.wikipedia.org/wiki/Kuroko
 
 https://en.wikipedia.org/wiki/Bunraku
-
-```
-General MIDI Orchestra sounds <----+----> Paul Saunderson's Awakening
-                                   |
-                                   |
-                                   V
-                           The Uncanny Valley
-```
 
 The role of instrumentation is on the one hand entirely arbitrary to me as I am
 certain that the universe is fundamentally indifferent to my existence, and so,
@@ -150,8 +180,8 @@ one reason or another.
 As my work of organizing sound has led me further and further down the path of
 algorithmic composition I have grown more and more interested in the role of
 contexts and connotations that certain sounds bring about in an audience. I
-never really had any deeper context for LinnDrum claps or Gabber kicks of my own
-apart from the obvious fact that they are strictly out of bounds for anyone
+never really had any deeper context for LinnDrum claps or four operator FM of my
+own apart from the obvious fact that they are strictly out of bounds for anyone
 looking to make serious music. While that forbidden quality still holds some
 titillation I am now much more interested in my own coming into resonance. The
 sounds I felt most strongly connected to coming up through New Music where
@@ -249,7 +279,9 @@ Nothing we can do.
 
 "...half-awake, unable to distinguish the virtual from the real"  
 
-"...counterfeit unreality"  
+Philip K. Dick's "Counterfeit unrealites" is a collection of four novels.
+Undoubtedly the most known of which is "Do andriods dream of electric sheep" which was
+later adapted into Blade Runner.
 
 [How much of the internet is fake?](http://nymag.com/intelligencer/2018/12/how-much-of-the-internet-is-fake.html)
 
@@ -260,12 +292,6 @@ immediately."
 
 This quote taken from a SpitFire Audio manual for a percussion sample library.
 If you decide to keep this then you should find it.
-
-I can envision a future where people complain about musicians using telekinesis
-and longing for the days when real musicians used computers.
-
-_ Meyers
-[link to tweet](https://twitter.com/m_e_y_e_r_s/status/855084900663349252)
 
 Statements of science are not of what is true and what is not true, but
 statements of what is known with different degrees of certainty.
@@ -360,7 +386,7 @@ social perspective. This is largely due to how frought with legal concerns
 sampling became. There was, I think, a panic that spread quickly. A scrambling
 then ensued to safeguard intellectual property belonging to large corporations.
 
-Oooh here's a great source:  
+Great source:  
 https://www.youtube.com/watch?v=R8t08zWBKyg
 
 Hard finding a good one where someone is actually working with the machine:  
@@ -532,68 +558,76 @@ of the signal as you can when you have it. Just make sure it doesn't clip.
 # Rooms
 
 ( Ties into place.  
-The absurdity and poetic nature of us imagining someone ahving
+The absurdity and poetic nature of us imagining someone having
 believed that a photograph could steal a soul. ) 
 
-I've come to understand that my fascination for
-room tones is connected to my confusion about my class identity. Mimer first. I
-didn't realize it at the time. And then later, The Machine Hall in Ställberg.
-It was right under my nose then but it took me quite a while to piece the puzzle
-together. It's impossible for the narrative component of which space I use to
-travel the distance to the listener on it's own. For me it's different. I
-know the name of the convolution file. I can imagine the workers there. Through
-a wrinkle in time. Working, ceaselessly, dutifully. And now that the lightning
-has been caught in the bottle I can imagine that work filling that room with
-sound. From the lowest rumbles through the spectrum all the way up the ladder to
-the harshest height of the audible spectrum. At the end of it we subtract time
-and we've captured if not the room itself then it's essence, or if you care to
-indulge me, it's soul. My fascination has been focusing in on trying to pin down
-the work that happened there. It can't be saved for later and understood given
-enough time. My origin story will always elude me. If these walls could talk we
-say. My thoughts connect things up and make patterns. Compare another cavernous
-room tone; The church. A place of worship. A place to wonder in awe of god's
-greatness. The organ was the first big organised sound. That room is part of how
-we've heard that instrument. The resonance. Place and narrative intersect in the
-tone of the room. As the room resonates we are brought into resonance with
-ideas. I never believed in god. I never believed that narrative. I know work was
-real. The workers were real. Their struggle was real. I believe in that
-narrative.
+I've come to understand that my fascination for room tones is connected to my
+confusion about my class identity. Mimer first. I didn't realize it at the time.
+And then later, The Machine Hall in Ställberg. It was right under my nose then
+but it took me quite a while to piece the puzzle together. It's impossible for
+the narrative component of which space I use to travel the distance to the
+listener on it's own. For me it's different. I know the name of the convolution
+file. I can imagine the workers there. Through a wrinkle in time. Working,
+ceaselessly, dutifully. And now that the lightning has been caught in the bottle
+I can imagine that work filling that room with sound. From the lowest rumbles
+through the spectrum all the way up the ladder to the harshest height of the
+audible spectrum. At the end of it we subtract time and we've captured if not
+the room itself then it's essence, or if you care to indulge me, it's soul. My
+fascination has been focusing in on trying to pin down the work that happened
+there. It can't be saved for later and understood given enough time. My origin
+story will always elude me. If these walls could talk we say. My thoughts
+connect things up and make patterns. Compare another cavernous room tone; The
+church. A place of worship. A place to wonder in awe of god's greatness. The
+organ was the first big organised sound. That room is part of how we've heard
+that instrument. The resonance. Place and narrative intersect in the tone of the
+room. As the room resonates we are brought into resonance with ideas. I never
+believed in god. I never believed that narrative. I know work was real. The
+workers were real. Their struggle was real. I believe in that narrative.
 
 Place: Make the case that a piece of code can be thought of as sculpture or as a
 place. What are some examples of nice places? The stone garden is a nice story.
-The shopping mall is another place. Not as nice a place.  
+The shopping mall is another place. Not as nice a place I don't think. THen
+again, I've never experienced a stone garden. The stone garden only exists in my
+imagination through having been told stories.
+ 
 
 # State
 
-The code is static. Why is that important?  The frozen state yielding a
-multitude of infinities in variation through time fascinates me. Feels
+The code is static. Why is that important? The frozen state yielding a multitude
+of infinities in variation through time fascinates me. Always has.i To construct
+something and then for it to take on a life of it's own in a sense. Feels
 paradoxical. Goes on to talk about complexity. The scope or sampling window
-matters.  Static or in flux. The fan in the Robert Miles on AI safety video is
-the initial instance that made me think of this.  Has to do with the
-presentation aspect. I work on the code until it reaches a static state which is
-most to my liking. While I might not listen to an eternity's worth of the
-generated material I'll listen to a good long while. The longest I have in the
-past listened to a material to make sure I liked all of the material I generated
-with a static piece of code is 8 and a half hours. I did that for No value
-without utility which can be found here:  
-[link to source](https://danielmkarlsson.github.io/)
-
-My choice to project static code in combination with fixed media is for the
-greater part due to my fascination for complexity emerging out of simplicity. To
-a smaller degree I cant help but go against the prescribed modus operandi of
+matters. Static or in flux. Has to do with the presentation aspect. I work on
+the code until it reaches a static state which is most to my liking. While I
+might not listen to an eternity's worth of the generated material I'll listen to
+a good long while. I can be certain that the algorithms combining of parameters
+will satisfy me in the same way that I can hear when a piece is finished.  My
+choice to project static code in combination with fixed media is for the greater
+part due to my fascination for complexity emerging out of simplicity. To a
+smaller degree I cant help but go against the prescribed modus operandi of
 playing the code within so called live coding like an instrument. That is not
 what I want to do. I want to organise sound in a very specific way. Another nice
-aspect of static code is that it greatly increases portability. I think I'd be a
-lot more interested in distributing something that was not video. Who knows what
-the future will hold.
+aspect of static code is that it greatly increases portability.
 
-Might be fun also to touch briefly on the idea of state as memory as in
-functional programming in general and Haskell in particular. At least the
-personal encounters part. That whole engage with it as lore thing again.
+I got to thinking about state a lot through brushing up against functional
+programming. When state is thought of as somehting dirty and dangerous then that
+makes it interesting to me. I found workarounds because it wa fun to go against
+prescribed ways of working. Also I'd argue that memory is a fundamental aspect
+of music as it is a time based medium. You can't say stuff like "There is no
+state" or that "Time is the only constant" and not expect people to rebel.
 
-"The only state is time"  
-How to talk about this without giving power to it's source?
- 
+Anyway the whole wanting to stay one hundred percent sqeaky clean all of the
+time thing that can happen to functional programmers always struck me as having
+more to do with fundamental problems in computer science than about me wanting
+to organise sound. Nevermind about all of that. I don't mind so much that there
+could potentially be a danger of some unexpected behaviour when I'm making music
+by writing code. So long as it makes a sound there is something for me to hear
+and to decide what I think of it. I only ever regarded unintended silence as
+failure. Anything above that is something I can work with. If I can hear it I a
+mcertain that I can decide if I like it or not. How could I not have an opinion
+on anything and everthing I hear? As far back as I can remember that's all I've
+been doing. Deciding. Making choices based on what I'v been hearing. So it's
+real simple. I like simple.i So does Mark Fell and I like Mark Fell.
 
 Mark Fell is quoted as saying the following in Phillip Clark's Manitutshu Wire Review:
 
@@ -605,6 +639,19 @@ produces pissweak sounds."
 
 [link to source](http://www.markfell.com/wiki/index.php?n=Mf.Manitutshu)
 
+If I try hard I can still remember that the task of organising sound felt
+daunting to me in the beginning. I would think about the inifinite possibilities
+of combinatorics and a general dread of the blank page would sneek up on me and
+I'd get all wound up. I like to keep things simple. Usually I don't notice that
+I've started composing for real until much later. I thought I was just trying to
+figure out how something worked. I change one thing at a time and I listen. If I
+like what I hear having tweaked that one parameter I'll move on to the next one.
+Complexity could yield itself later through the compounding of many simple
+choices. I don't go after complexity. I don't shy away from it either. It could
+happen and that would be ok so long as I like what I'm hearing. Simple. Reduced
+both in terms of thinking about emergence of complexity and also about the work
+as just another craft. Do a thing many times in order to get comfortable doing
+that thing.
 
 # The Believing Game
 
