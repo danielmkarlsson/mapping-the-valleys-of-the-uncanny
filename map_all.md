@@ -1,19 +1,17 @@
 ### Table of contents
 
 ```
-
-01. Introduction: Establising a baseline    
-02. Uncanniness    
-03. The Real and The Fake    
-04. The MPC   
-05. Code  
+01. Establising a baseline    
+02. What even is uncanniness    
+03. Is anything real?
+04. The MPC is now a lens 
+05. Code is valuable 
 06. Pinecones are magical   
-07. Rooms     
-08. State    
+07. Rooms are special places     
+08. State is immeasurable    
 09. The Believing Game       
-10. Music 
-11. Conclusion: The impossibility of The Maps    
-
+10. Music has made me 
+11. The impossibility of The Maps    
 ```
 
 
@@ -24,19 +22,38 @@ Greg Egan writes in Diaspora:
 "Every orphan was an explorer, sent to map uncharted territory. And every orphan
 was the uncharted territory itself."
 
-I've been a composer for a while now. I've benn envovled with music in a lot of
-different ways through the course of getting to where I'm at now in this moment
-that has me writing this text. There have been different frameworks at different
-times and those different frameworks have all come bundled with their own set of
-different limitations. It's difficult to take apart but I think that, at least
-sometimes, those limitations have inspired me. They definitely affected the way my
-music sounded. One way that I like to think about these frameworks is the word
-project. Learning to play the guitar was a project. Learning to record myself
-playing guitar was another. Playing in a band came next. Learning to make songs
-together with friends sprung to life out of that. If we fast forward through all of
-the links in the chain that has been my life we arrive at the overarching project of
-organising sound and this particular example of that.
+I've been a composer for a while now. I've been envolved with music in a lot of
+different ways through the course of getting to where I'm at now, in this
+moment, that has me writing this text. There have been different frameworks at
+different times and those different frameworks have all come bundled with their
+own set of different limitations. This kind of thing is always difficult to take
+apart but I think that, at least sometimes, those limitations have inspired me.
+They definitely affected the way my music sounded, that much I can tell you is
+for sure. 
 
+One way that I like to think about these frameworks is the word project.
+Learning to play the guitar was a project. Learning to record myself playing the
+guitar was another. Playing in a band came next. Learning to structure sound
+together with friends sprung to life out of that. If we fast forward through all
+of the links in the chain we arrive at the overarching project of organising
+sound, and then, this particular example of that.
+
+One fundamental difference between acoustic and electronic music is that
+electronic music can be ungoverned by newtonian forces. I think that is entirely
+amazing. Any sound can arrive at any time. There need not be a sounding body or
+physical object present in front of you. I hear someone in the back yelling
+about speakers. Sure, sure, sure but we don't have to get stuck there.
+Acousmatic music was a thing. I acknowledge that. No need to substitute one
+fetichisation of the corporeal with another going forward. The speaker is a
+conduit, or put another way; a funnel. Thinking about it as a filter can be fun
+but messy. What interests me is the stuff going through the funnel and how to
+make it. 
+
+Let's move on to what we are afforded from following the line of thinking that
+we are free from the shackles of the finite and of the physical world. Sound now
+enjoys morphological freedom through a myriad of transformations. It is malleble
+to the utmost degree. We have at our disposal an astounding plethora of tools
+through which to manipulate and organise sound.
 
 # Mapping The Valleys of The Uncanny 
 
@@ -64,10 +81,32 @@ source for clues as to why I am driven to do the things that I do. I don't think
 that there can be anything like "the self" without others and that "the self" is
 largely about imagining others view of yourself.
 
-I'd also  love to make my thesis valuable to others in terms of it's utility by
-including my code. My thinking here is that there exists a certain kind of
-reader that won't want to sit through these touchy feely meanderings unless
-there is a promise of some code that can be run at the end of the day.
+I'd also love to try to  make my thesis valuable to others in terms of it's
+utility. This is why I've chosen to include my code. My thinking here is that
+there exists a certain kind of reader that won't want to sit through these
+touchy feely meanderings unless there is a promise of some code that can be run
+at the end of the day. One way of thinking about those pieces of code is as
+maps. You would be free to connect my code to anything you want and control it.
+You could make your own connections to the things you care about. Edit my code
+to find your own path through the valley.
+
+In the diagram below the audience creates a discrete assesment loop when viewing
+the artwork. The audience views the result of the artist's process of composing
+the work and then goes on about their lives. Some particular work by some
+particular artist may resonate more with some individual human being held within
+the mass that is the audience. The prescribed modus operandi for this individual
+is then to take an interest in the artist, or rather the story that has been
+constructed about the artist. To be neatly consumed, perhaps in the form of a
+biography or an interview. I don't think this model serves us very well. At
+least not on it's own. Instead if we were to share our code the audience is more
+likely to be empowered to do something other than to continue to go about their
+lives as consumers. Consumers of musics and of stories about artists. Perhaps
+idolizing them. Putting the artist and subconsciously the idea that they
+themselves as part of an audience could create something, anything. Constructed
+narratives designed to create cult followings are not helping to deepen the
+audience's relationship with the artwork. Giving the audience access to the code
+might not do that all of the time but it is a thing to try instead of going
+along with a prescribed method.
 
 ```
 
@@ -103,136 +142,130 @@ everything with them into listening. They might not know it but that's how it
 is. Nothing happens in a vacuum. The two discrete loops are kept separate
 though. That's how I like to think about it. I need to create music to keep
 myself balanced but that doesn't mean that I surrender my privacy. The
-listener shouldn't have to either. I've learned a lot from working on this
-project. It's been very freeing in a lot of ways. I feel like I got over myself
-in some ways. Also I dug down deep and pushed through some issues. I spent a
-lot longer coming back to pieces adding to and changing things about them. I
-know that doesn't matter though. What I mean to say is: No one can ever hear how
-long any piece of music took to write. How much effort went into. How much
-struggle. How many demons overcome. Sound is just wiggly air. It is also my
-favourite thing to do with the time that I have. Also I don't think I'm hurting
-anyone.
+listener shouldn't have to either. 
+
+I've learned a lot from working on this project. It's been very freeing in a lot
+of ways. I feel like I got over myself in some ways. Also I dug down deep and
+pushed through some issues. I spent a lot longer coming back to pieces adding to
+and changing things about them. I know that doesn't matter though. What I mean
+to say is: No one can ever hear how long any piece of music took to write. How
+much effort went into. How much struggle. How many demons overcome. Sound is
+just wiggly air. It is also my favourite thing to do with the time that I have.
+Also I don't think I'm hurting anyone. So that's what I'm doing. Making the air
+wiggle in a praticular way that interest me here in the right now.
 
 
-# Uncanniness
+# What even is uncanniness?
 
-What does uncanniness mean? Let's have a look in a dictionary.
-It can mean a lot of different things:
+It can mean a lot of different things.
+Let's have a look in a dictionary:
 
 • Having or seeming to have a supernatural or inexplicable basis.   
 • Beyond the ordinary or normal.   
 • Extraordinary.   
-• Uncanny accuracy.   
+
+"Uncanny accuracy; An uncanny knack of foreseeing trouble."
+
 • Mysterious.   
 • Arousing superstitious fear or dread.  
 • Uncomfortably strange.   
-• "Uncanny sounds filled the house."    
 
-Why am I drawn to it?  
-First off it strikes me as contemporary seeing as we are all living through post
-truth and secondly because I regard it as largely unexplored thought of as a
-musical parameter. 
+"Uncanny sounds filled the house."    
+
+[Link to source](https://www.dictionary.com/browse/uncanniness)
+
+Let me make an attempt at explaining why am I drawn to it. First off it strikes
+me as contemporary seeing as we are all living through post truth and secondly
+because I regard it as largely unexplored when thought of as a musical
+parameter. It turns out originality, or otherness is important to me.
+
+Unicanniness looks unexplored enough as a space to peek my interest. From where
+I'm standing uncaniness being largely unexplored is true. See what I did there?
 
 Practical example of how I've come to think of uncanniness as a musical
-parameter in this project: Say I want to write some music for strings. There
-are many sample libraries to choose from. So which one I choose first off but it
-goes deeper. These libraries all exist on a spectrum ranging from authentic
-sounding to blatantly ficticious. It interests me to think about where a
-praticular library lands on that spectrum for an imagined listener. After that
-there are aspects of how a library is recorded and scripted that influence me to
-make all kinds of choices regarding the conscruction of the music. Dynamics and
-registration most especially but in some cases even pitch material has revealed
-itself to me through this lense.  
+parameter within the scope of this project: Say I want to write some music for
+strings. There are many sample libraries to choose from. So it's which one I
+choose, first off, but it goes deeper. These libraries all exist on a spectrum
+ranging from authentic sounding to blatantly ficticious. It interests me to
+think about where a praticular library lands on that spectrum for an imagined
+listener.  After that there are aspects of how a library is recorded and
+scripted that influence me to make all kinds of choices regarding the
+conscruction of the music. Dynamics and registration most especially but in some
+cases even pitch material has revealed itself to me through this lens.  
 
-It has been inspiring to read about Masahiro Mori's thoughts about uncanniness
-and through that finding Banraku.
-
-[Wikipedia article on Uncanny Valley](https://en.wikipedia.org/wiki/Uncanny_valley)  
-
+It has been inspiring to read about [Masahiro Mori's thoughts about
 [The Uncanny Valley by Masahiro Mori](https://spectrum.ieee.org/automaton/robotics/humanoids/the-uncanny-valley)  
+and through that finding [Banraku](https://en.wikipedia.org/wiki/Bunraku
+). It has impacted my view of the world and about
+how reality is something we all hold together be reenacting. We are constantly
+reminding each other of how to behave and what to regard as real and what to
+discard as unreal. Or as William Gibson put it in Neuromancer: 
 
-[duplicate](https://github.com/danielmkarlsson/library/blob/master/Masahiro%20Mori%20-%20The%20Uncanny%20Valley.pdf)
+"A consensual hallucination". 
 
-https://en.wikipedia.org/wiki/Kuroko
+We both know Gibson was talking about something a little different when he wrote
+that. That's part of what interests me about sampling. We can both refer to, and
+at the same time recontextualize anything that has previously been recorded,
+either as sound or as text. When we quote text we are bringing the context of
+academia at least and perhaps even of The Enlightenment with us. We are standing
+on the shoulders of giants. Literally all of recorded history. Kept safe for us
+so that we might learn from it. With sampling of audio it's a little different.
+Intellectual property laws forbid it. You would have to get permission from the
+rights holders to make a derivative work and then give away all of your
+potential profit to them. 
 
-https://en.wikipedia.org/wiki/Bunraku
+How does artists receiving fractions of pennies per stream impact this?
 
-The role of instrumentation is on the one hand entirely arbitrary to me as I am
-certain that the universe is fundamentally indifferent to my existence, and so,
-subsequently to which sounds I sequence in what way. None the less
-instrumentation is a source of immense fascination for me. Any sound could be
-sequenced. Which sounds would I like to sequence? What are my preferences? I
-know that I have at times let availability and prevalence to some extent dictate
-my choices. I should like to address that with a number of works that make good
-on promises of infinite abundance. After all anything is possible in Electronic
-Music. Any sound at any time. Timbre of course fascinates composers. 
-
-In my life I have come to regard certain sounds as desirable but illusive. The
-price I've had to pay has sometimes been higher than I would have liked in order
-to hear them for even the briefest of moments. I've had to work quickly and
-compromise. I've felt that the prescribed modus operandi has been error prone
-and difficult to utilize towards my ends of organising sound in the ways that I
-prefer.
-
-Within so called "New Music" there exists a great divide between the electronic
-and the acoustic. Certain sounds are not easily reached for someone like me for
-one reason or another.
+How does listeners having access to "all" of the music ever recorded impact
+this?  
+We know it can't be "all" of it, but alas, that is how it is marketed.
 
 As my work of organizing sound has led me further and further down the path of
 algorithmic composition I have grown more and more interested in the role of
 contexts and connotations that certain sounds bring about in an audience. I
-never really had any deeper context for LinnDrum claps or four operator FM of my
-own apart from the obvious fact that they are strictly out of bounds for anyone
-looking to make serious music. While that forbidden quality still holds some
-titillation I am now much more interested in my own coming into resonance. The
-sounds I felt most strongly connected to coming up through New Music where
-always out of reach. 
+never really had any deeper context for LinnDrum claps or Four Operator FM
+Synthesis. No contexts that I regarded as my own except for the obvious context
+that these sounds are strictly out of bounds for anyone looking to make serious
+music. While that forbidden quality still holds some titillation I have moved on
+to thinking that for the most part; No one cares. Don't worry. This is a good
+thing. Trust me. It means that we are free. Free to dream endlessly and to make
+anything we want. Absolutely free. Steve Martin wrote about this in LA Story:
 
-So in very practical terms: I've changed up my way of working. I am sequencing
-audio files in a computer instead of writing scores for humans to either
-misunderstand or not care about. New things are possible. I am happy and the
-work is progressing.
+"...no one is looking [to the outside] for verification that what they're doing
+is ok."
 
-Most of the time I feel like I'm a high functioning automaton at best and that
-all of my veracious peaks of inspiration are just bright ideas channeled to me
-through popular cultural imperialism. That for all of my talk of the need for
-newness and weirdness in music I'm just regurgitating things I've heard. Things
-I've been taught to think, do and to make into sound. So I struggle. With
-tremendous doubt. I'm trying to find something new to say even though I know
-everything has been said a thousand times. I guess I'd be lucky if I can end up
-with a subtle difference in emphasis or tone. The information conveyed it self;
-Now that would be something.  But that is so much further down the rabbit hole.
-
-So certain things are different when sequencing sounds in a computer. Sounds can
-be played faster. That's interesting because we have that faster playing in
-music played by humans also. It's exciting because a lot of the time it gets
-held up as virtuosic. We use phrases like gifted or talented musicians.  A
-computer can play _exactly_ the same amplitude and timbre multiple times in a
-row. Humans can't, well actually the constraint is higher up than that. Simple
-physics, Newtonian forces won't allow it. We've never held that kind of
-virtuosity up as equilibristic instrumentalist practice. I don't think we'd
-react quite the same way if a human got even remotely close. "You sound like a
-machine" they'd say. It would be derogatory. They might not even know what
-machine they'd be referring to. It would be the sampler and more specifically
-an early days sampler with a single layer of samples. No round-robin switching
-out of the samples to mimic what happens "naturally" when a key is struck on a
-Celesta. An infinite amount of the subtlest variation explodes out of that
-action each time.
+Getting back to practicalites; Certain things are different when sequencing
+sounds in a computer. Sounds can be played faster. That's interesting because we
+have that faster playing in music played by humans also. It's intersting because
+a lot of the time it gets held up as virtuosic in different ways in different
+genres. We use phrases like gifted or talented musicians. A computer can play
+_exactly_ the same amplitude and timbre multiple times in a row. Humans can't,
+well actually the constraint is higher up than that. Simple physics, Newtonian
+forces won't allow it. We've never held that kind of virtuosity up as
+equilibristic instrumentalist practice. I don't think we'd react quite the same
+way if a human got even remotely close. "You sound like a machine" they'd say.
+It would be derogatory. They might not even know what machine they'd be
+referring to. It would be the sampler and more specifically an early days
+sampler with a single layer of samples. No round-robin switching out of the
+samples to mimic what happens "naturally" when a key is struck on a Celesta. An
+infinite amount of the subtlest variation explodes out of that action each time.
+The cross talk inside the body of the instrument as multiple keys are struck
+elevate the richness of timbral interplay to immesurable hights of
+exponentiallity.
 
 
 # The Real and the fake
 
 (Big section proly. What is real? Ideally prove that all that can be heard is
 real. Only imaginings are unreal) Fictions. Narratives. Lores. Stories we tell
-ourselves. Admitting the impossibility in knowing one self and still choosing
-to live with these stories as an attempt at that goal of understanding. I need
-to tell the story of the Japanese poetry group around year 1000 who allowed
-each other to take new names every decade or so to start each decade with a
-fresh voice. To become the resplendent new. The untainted eye.  A new voice
-thorugh which to speak about new perspectives. As many times
-over as they wished for as long as they lived and wrote. That story is maybe
-where I'd like  to go. To get to a point where I feel free to reinvent myself as
-an artist.   
+ourselves. Admitting the impossibility in knowing one self and still choosing to
+live with these stories as an attempt at that goal of understanding. I need to
+tell the story of the Japanese poetry group around year 1000 who allowed each
+other to take new names every decade or so to start each decade with a fresh
+voice. To become the resplendent new. The untainted eye. A new voice through
+which to speak about new perspectives. As many times over as they wished for as
+long as they lived and wrote. That story is maybe where I'd like to go. To get
+to a point where I feel free to reinvent myself as an artist.   
 
 Get that sweet Zizek action in here.
 
@@ -260,21 +293,10 @@ Define hyperReal.
 
 Even better than the real thing. 
 
-Heightened states of being, as in the
-impossibility of hearing a multitude of things sounding in a multitude spaces,
-at a multitude of different times all at once. Transcending limitations of time
-and space through non realTime assemblage. 
-
-There is a line between The Real and the fake. This position is defended at any cost. The Real can not, _must_ not,
-allow itself to be devalued. A great many people have invested heavily in doing
-difficult things. Shortcuts are frowned upon.  
-
-Authenticity of what exactly?
-Value to be traded in for what?  
-Tradition to be upheld for what purpose?
-Cutting corners implies future weakness of structural integrity.  
-And so it goes. Positions of power are upheld. Barriers to entry kept in place.  
-Nothing we can do.  
+Heightened states of being, as in the impossibility of hearing a multitude of
+things sounding in a multitude spaces, at a multitude of different times all at
+once. Transcending limitations of time and space through non realTime
+assemblage. 
 
 "...through layers of diminishing reality"  
 
@@ -286,30 +308,18 @@ later adapted into Blade Runner.
 
 [How much of the internet is fake?](http://nymag.com/intelligencer/2018/12/how-much-of-the-internet-is-fake.html)
 
-"Round Robins are a method of recording a number of performances of the same
-sample so that when playing repeated notes in fast succession you don't get
-“machine gunning” a rapid repeat of the same sample that gives the game away
-immediately."
-
-This quote taken from a SpitFire Audio manual for a percussion sample library.
-If you decide to keep this then you should find it.
-
-Statements of science are not of what is true and what is not true, but
-statements of what is known with different degrees of certainty.
-_ Richard Feynman
-
 
 # The MPC
 
-(Origin stories, lore, compare the brush, hyperReal tape recorder, hi & lo
-culture.)  
+(Origin stories, lore, compare the brush, hyperReal tape recorder, high & low
+culture. Maybe even status.)  
 
 If the tape recorder was hyperReal then the MPC is hyperHyperReal
 (compare postPostModern) and controlling Kontakt with SuperCollider is
 infinitely hyperRealised in comparison to the original origin story.  
 
 When the story of our origin (specifically Electronic Music's origin) is told
-through the perspective of the tape recorder being the start . Then later the
+through the perspective of the tape recorder being the start. Then later the
 tape recorder grows to the size of the studio with undeniable monumental
 prestige. If we adjust the point of departure to a more recent technological
 breakthrough then the scope of our story changes dramtically. To use the MPC as
@@ -955,3 +965,21 @@ riddled with descriptions of the interviewees affluence. We are told a story of
 success through appearances. I imagine the article had the opposite of the
 intended effect on me. I love the idea of democratising the means of
 production.
+
+[Wikipedia article on Uncanny Valley](https://en.wikipedia.org/wiki/Uncanny_valley)  
+
+[duplicate](https://github.com/danielmkarlsson/library/blob/master/Masahiro%20Mori%20-%20The%20Uncanny%20Valley.pdf)
+
+https://en.wikipedia.org/wiki/Kuroko
+
+"Round Robins are a method of recording a number of performances of the same
+sample so that when playing repeated notes in fast succession you don't get
+“machine gunning” a rapid repeat of the same sample that gives the game away
+immediately."
+
+This quote taken from a SpitFire Audio manual for a percussion sample library.
+If you decide to keep this then you should find it.
+
+Statements of science are not of what is true and what is not true, but
+statements of what is known with different degrees of certainty.
+_ Richard Feynman
