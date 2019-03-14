@@ -6,7 +6,9 @@ composition. ]
 Or:
 
 [ The role of instrumentation and timbre as they unwittingly conspire to designate
-access, power, work and ultimately class. ]### Table of contents
+access, power, work and ultimately class. ]
+
+### Table of contents
 
 ```
 01. Establising a baseline    
@@ -148,7 +150,7 @@ and changing things about them. I know that doesn't matter though. What I mean
 to say is: No one can ever hear how long any piece of music took to write. How
 much effort went into making it. How much struggle. How many demons overcome.
 Sound is just wiggly air. It is also my favourite thing to do with the time that
-I have.  Also I don't think I'm hurting anyone. So that's what I'm doing. Making
+I have. Also I don't think I'm hurting anyone. So that's what I'm doing. Making
 the air wiggle in a praticular way that interests me here in the right now.
 
 
@@ -301,13 +303,44 @@ The recording engineer goes on to explain that whomever in the ensemble has a
 solo should take a step closer to the microphone. 
 
 In the music that I have produced for this project the presupposition of others
-is that acoustic music is created by living breathing human beings. They are
-using a very special type of physical object which is a musical instrument.
-Ideally this happens in a special type of physical space which is a concerthall.
-This is how recordings get made. Any infringement upon that fact is unthinkable
-to this imagined audience which holds these virtual beliefs. This is Zizek's
-efficacity as it gave me something to relate to when I made the music for this
-project.
+is that acoustic music is created by living breathing human beings reading sheet
+music. They are using a very special type of physical object which is a musical
+instrument to make sounds. Ideally this happens in a special type of physical
+space which is a concerthall. This is how recordings get made. The details
+surrounding the engineering aspect of the recording is not important. The people
+in the room with their instruments; That is where the magic happens. Any
+infringement upon that fact is unthinkable to this imagined audience which holds
+these virtual beliefs. This then becomes Zizek's efficacity as it gave me
+something to relate to when I made the music for this project.
+
+In the leadup to Zizek's great reveal of The Real Real there is the telling of
+the story in which Rumsfeld lists what they knew at the time just before the war
+on Iraq:
+
+• The known knows
+• The knows unknowns
+• The unknown unknowns
+
+
+Zizek adds a fourth category to Rumsfeld's list: 
+
+• Unkown knowns
+
+"We know them, they are part of our identity, they determine our activity, but we don't
+know that we know them! This is what, in psychoanalysis, of course, is called
+unconscious. Unconscious fantasies, unconscious prejudices, etc., etc. And I
+think that this level is crucial."
+
+I agree that this level is crucial and add that biases are another wording of
+how these unknown unknows dictate our behaviour. This wording strongly comes
+into focus for me as an expression of contemporality. Especially as it relates
+to how a wider applicability of algorithms in our daily lives has led to
+questions being raised about algorithmic bias. Stating the obvious here for the
+record: All of the algorthms created to date have been created by humans. We are
+the one's writing the algorithms. These are our biases. We bring them with us
+into everything we do. Even into the act of listening to music. This is part of
+why I was drawn to examplifying or possibly even teesing out these biases or
+unknown knows in the music I made in this project.
 
 [link to source](https://pastebin.com/LhnajViV)
 
