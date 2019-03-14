@@ -1,9 +1,17 @@
-### Table of contents
+# Mapping The Valleys of The Uncanny 
+
+[ An investigation into process and method within the field of algorithmic
+composition. ]
+
+Or:
+
+[ The role of instrumentation and timbre as they unwittingly conspire to designate
+access, power, work and ultimately class. ]### Table of contents
 
 ```
 01. Establising a baseline    
-02. What even is uncanniness    
-03. Is anything real?
+02. What even is uncanniness?    
+03. The notion of the real
 04. The MPC is now a lens 
 05. Code is valuable 
 06. Pinecones are magical   
@@ -14,8 +22,7 @@
 11. The impossibility of The Maps    
 ```
 
-
-# Introduction
+# Establising a baseline    
 
 Greg Egan writes in Diaspora:
 
@@ -55,16 +62,6 @@ enjoys morphological freedom through a myriad of transformations. It is malleble
 to the utmost degree. We have at our disposal an astounding plethora of tools
 through which to manipulate and organise sound.
 
-# Mapping The Valleys of The Uncanny 
-
-[ An investigation into process and method within the field of algorithmic
-composition. ]
-
-Or:
-
-[ The role of instrumentation and timbre as they unwittingly conspire to designate
-access, power, work and ultimately class. ] 
-
 This project is a collection of musical materials that explore the idea of the
 uncanny valley as it relates to music being real, fake or some strange
 combination of the two. This project is primarily one in which I produce sound
@@ -72,14 +69,14 @@ files. In a secondary capacity I am also producing a text file.
 
 In my thesis I aim to present some of my thoughts on how my work writing code
 and making music might be connected in some hopefully interesting ways to my
-field. I am unlikely to be able to adequately convey my own origin story. Instead I'll
-focus on stories I've been told about music, throughout my life, inside and
-outside of academia. I have a strong suspicion that these stories have shaped my
-coming into being as a composer. However difficult the task of introspection, and
-ultimately to know one self proves to be, I at least regard these stories as a
-source for clues as to why I am driven to do the things that I do. I don't think
-that there can be anything like "the self" without others and that "the self" is
-largely about imagining others view of yourself.
+field. I am unlikely to be able to adequately convey my own origin story.
+Instead I'll focus on stories I've been told about music, throughout my life,
+inside and outside of academia. I have a strong suspicion that these stories
+have shaped my coming into being as a composer. However difficult the task of
+introspection, and ultimately to know one self proves to be, I at least regard
+these stories as a source for clues as to why I am driven to do the things that
+I do. I don't think that there can be anything like "the self" without others
+and that "the self" is largely about imagining others view of yourself.
 
 I'd also love to try to  make my thesis valuable to others in terms of it's
 utility. This is why I've chosen to include my code. My thinking here is that
@@ -149,10 +146,10 @@ of ways. I feel like I got over myself in some ways. Also I dug down deep and
 pushed through some issues. I spent a lot longer coming back to pieces adding to
 and changing things about them. I know that doesn't matter though. What I mean
 to say is: No one can ever hear how long any piece of music took to write. How
-much effort went into. How much struggle. How many demons overcome. Sound is
-just wiggly air. It is also my favourite thing to do with the time that I have.
-Also I don't think I'm hurting anyone. So that's what I'm doing. Making the air
-wiggle in a praticular way that interest me here in the right now.
+much effort went into making it. How much struggle. How many demons overcome.
+Sound is just wiggly air. It is also my favourite thing to do with the time that
+I have.  Also I don't think I'm hurting anyone. So that's what I'm doing. Making
+the air wiggle in a praticular way that interests me here in the right now.
 
 
 # What even is uncanniness?
@@ -188,18 +185,18 @@ strings. There are many sample libraries to choose from. So it's which one I
 choose, first off, but it goes deeper. These libraries all exist on a spectrum
 ranging from authentic sounding to blatantly ficticious. It interests me to
 think about where a praticular library lands on that spectrum for an imagined
-listener.  After that there are aspects of how a library is recorded and
+listener. After that there are aspects of how a library is recorded and
 scripted that influence me to make all kinds of choices regarding the
 conscruction of the music. Dynamics and registration most especially but in some
 cases even pitch material has revealed itself to me through this lens.  
 
 It has been inspiring to read about [Masahiro Mori's thoughts about
-[The Uncanny Valley by Masahiro Mori](https://spectrum.ieee.org/automaton/robotics/humanoids/the-uncanny-valley)  
+[The Uncanny Valley](https://spectrum.ieee.org/automaton/robotics/humanoids/the-uncanny-valley)  
 and through that finding [Banraku](https://en.wikipedia.org/wiki/Bunraku
-). It has impacted my view of the world and about
-how reality is something we all hold together be reenacting. We are constantly
-reminding each other of how to behave and what to regard as real and what to
-discard as unreal. Or as William Gibson put it in Neuromancer: 
+). It has impacted my view of the world and about how reality is something we
+all hold together be reenacting. We are constantly reminding each other of how
+to behave and what to regard as real and what to discard as unreal. Or as
+William Gibson put it in Neuromancer: 
 
 "A consensual hallucination". 
 
@@ -247,29 +244,79 @@ way if a human got even remotely close. "You sound like a machine" they'd say.
 It would be derogatory. They might not even know what machine they'd be
 referring to. It would be the sampler and more specifically an early days
 sampler with a single layer of samples. No round-robin switching out of the
-samples to mimic what happens "naturally" when a key is struck on a Celesta. An
-infinite amount of the subtlest variation explodes out of that action each time.
-The cross talk inside the body of the instrument as multiple keys are struck
-elevate the richness of timbral interplay to immesurable hights of
-exponentiallity.
+samples to mimic what happens "naturally" when a key is struck on a Steinway at
+different velocities. An infinite amount of the subtlest variation explodes out
+of that action each time. The cross talk inside the body of the instrument as
+multiple keys are struck elevate the richness of timbral interplay to
+immesurable hights of exponentiallity.
 
 
-# The Real and the fake
+# The notion of The Real.
 
-(Big section proly. What is real? Ideally prove that all that can be heard is
-real. Only imaginings are unreal) Fictions. Narratives. Lores. Stories we tell
-ourselves. Admitting the impossibility in knowing one self and still choosing to
-live with these stories as an attempt at that goal of understanding. I need to
-tell the story of the Japanese poetry group around year 1000 who allowed each
-other to take new names every decade or so to start each decade with a fresh
-voice. To become the resplendent new. The untainted eye. A new voice through
-which to speak about new perspectives. As many times over as they wished for as
-long as they lived and wrote. That story is maybe where I'd like to go. To get
-to a point where I feel free to reinvent myself as an artist.   
+All that can be heard is real. Only imaginings of sounds are unreal. There are
+fictions. Narratives exist. We live alongside our lores. There are stories that
+we tell each other, and that we tell ourselves. Admitting the impossibility in
+knowing even one self. Certainly not each other. Definately not coulture. We are
+all choosing to live with these stories even as as we make increasingly feeble
+attempts at that loftiest of goals of understanding, althemore likely settling
+for ways to cope as we are strung along by each other.
 
-Get that sweet Zizek action in here.
+I need to tell the story of the Japanese poetry group around year 1000 who
+allowed each other to take new names every decade or so to start each decade
+with a fresh voice. To become the resplendent new. The untainted eye. A new
+voice through which to speak about new perspectives. As many times over as they
+wished for as long as they lived and wrote. That story is maybe where I'd like
+to go. To get to a point where I feel free to reinvent myself as an artist.   
 
+I find my own thinking aligning with parts of Slavoj Zizek's in The Reality of
+the Virtual: 
 
+"...when I deal with you, I'm basically not dealing with the real you. I'm
+dealing with the virtual image of you. And this image has reality, in the sense
+that it, none the less, structures the way I am dealing with you. And then
+this idealization is crucial." 
+
+I substitute the interactions of two individual human beings with an audience's
+experiencing of an artwork. I also feel that idealization is crucial within this
+project as well. Had there not been this idealized view of acoustic instruments
+then there would be no foundation to build my castles in the sky upon. I am
+trying to relate to my surroundings somehow by creating these works.
+
+"This would be the first elementary level: Imaginary virtual, in the sense of
+the virtual image which determines how we interact with other people. Virtual
+image in the sense of: Although we interact with real people, we erase, we
+behave as if whole strata of the other person are not there."
+
+I here substitute "real people" with artworks and "the whole strata" as the
+process which has led to the result that is the artwork; The file. The .wav for
+or .pdf for example. 
+
+"[An] example of how the virtual dimension is operative at the symbolic level
+would have been beliefs. Are we aware to what extent our beliefs today are
+virtual? By virtual I mean, in this case, attributed to others, presupposed.
+They don't actually exist, they are virtual, in the sense that nobody really has
+to believe, we only have to presuppose another person to believe." 
+
+An example of a virtual symbolic belief in our neck of the woods would be the
+story of how Gil Evans arranged Sketches of Spain. The story goes that he's a
+genius for arranging in such a way that instruments that were very widely apart
+in terms of their audibility, were they to be stood on a stage together, could
+be made to fit snugly in a mix. Contrastingly there's the story of how a 1930's
+first-timer studio musician asked a recording engineer if there oughtn't be more
+than one microphone in the room. The recording engineer then proceeds to laugh
+and ask if the musician intends to record more than one record simoultaniosly?
+The recording engineer goes on to explain that whomever in the ensemble has a
+solo should take a step closer to the microphone. 
+
+In the music that I have produced for this project the presupposition of others
+is that acoustic music is created by living breathing human beings. They are
+using a very special type of physical object which is a musical instrument.
+Ideally this happens in a special type of physical space which is a concerthall.
+This is how recordings get made. Any infringement upon that fact is unthinkable
+to this imagined audience which holds these virtual beliefs. This is Zizek's
+efficacity as it gives me something to relate to when I'm making my music.
+
+[link to source](https://pastebin.com/LhnajViV)
 
 ```
                                      Imaginary
