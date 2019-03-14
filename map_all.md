@@ -12,15 +12,15 @@ access, power, work and ultimately class. ]
 
 ```
 01. Establising a baseline    
-02. Uncanniness    
+02. Uncanniness 
 03. The notion of the real
 04. The MPC is now a lens 
-05. Code is valuable 
+05. Code has value 
 06. Pinecones are magical   
-07. Rooms are special places     
+07. Rooms are resonant bodies
 08. State is immeasurable    
 09. The Believing Game       
-10. Music has made me 
+10. Music is a technology
 11. The impossibility of The Maps    
 ```
 
@@ -302,16 +302,16 @@ and ask if the musician intends to record more than one record simoultaniosly?
 The recording engineer goes on to explain that whomever in the ensemble has a
 solo should take a step closer to the microphone. 
 
-In the music that I have produced for this project the presupposition of others
-is that acoustic music is created by living breathing human beings reading sheet
-music. They are using a very special type of physical object which is a musical
-instrument to make sounds. Ideally this happens in a special type of physical
-space which is a concerthall. This is how recordings get made. The details
-surrounding the engineering aspect of the recording is not important. The people
-in the room with their instruments; That is where the magic happens. Any
-infringement upon that fact is unthinkable to this imagined audience which holds
-these virtual beliefs. This then becomes Zizek's efficacity as it gave me
-something to relate to when I made the music for this project.
+In the music that I have produced for this project the presupposition of the
+imagined audience is that acoustic music is created by living breathing human
+beings reading sheet music. They are using a very special type of physical
+object which is a musical instrument to make sounds. Ideally this happens in a
+special type of physical space which is a concerthall. This is how recordings
+get made. The details surrounding the engineering aspect of the recording is not
+important. The people in the room with their instruments; That is where the
+magic happens. Any infringement upon that fact is unthinkable to this imagined
+audience which holds these virtual beliefs. This then becomes Zizek's efficacity
+as it gave me something to relate to when I made the music for this project.
 
 In the leadup to Zizek's great reveal of The Real Real there is the telling of
 the story in which Rumsfeld lists what they knew at the time just before the war
@@ -332,7 +332,7 @@ unconscious. Unconscious fantasies, unconscious prejudices, etc., etc. And I
 think that this level is crucial."
 
 I agree that this level is crucial and add that biases are another wording of
-how these unknown unknows dictate our behaviour. This wording strongly comes
+how these unknown knows dictate our behaviour. This wording strongly comes
 into focus for me as an expression of contemporality. Especially as it relates
 to how a wider applicability of algorithms in our daily lives has led to
 questions being raised about algorithmic bias. Stating the obvious here for the
@@ -480,7 +480,7 @@ CURSÉD SAMPLER:
 [link](https://web.archive.org/web/20181206110547/https://seattle.craigslist.org/sno/msg/d/possibly-cursed-emu-sp1200/6761989886.html)
 
 
-# Code 
+# Code has value
 
 Why do I feel it is important to include my code in this thesis?  Utility.  Some
 degree of responsibility needs to be taken when occupying a space. When speaking
@@ -756,7 +756,9 @@ I most likely will have to reference
 [this](https://github.com/danielmkarlsson/library/blob/master/Peter%20Elbow%20-%20The%20Believing%20Game--Methodological%20Believing.pdf)
 
 
-# Music 
+# Music is a technology
+
+The title of this section is a remix of Anthony Rother's 2005 album Art is a technology
 
 ```
 
