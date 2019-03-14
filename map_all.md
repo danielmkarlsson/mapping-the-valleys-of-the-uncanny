@@ -382,7 +382,7 @@ later adapted into Blade Runner.
 [How much of the internet is fake?](http://nymag.com/intelligencer/2018/12/how-much-of-the-internet-is-fake.html)
 
 
-# The MPC
+# The MPC is now a lens
 
 (Origin stories, lore, compare the brush, hyperReal tape recorder, high & low
 culture. Maybe even status.)  
