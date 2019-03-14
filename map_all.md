@@ -10,7 +10,7 @@ access, power, work and ultimately class. ]### Table of contents
 
 ```
 01. Establising a baseline    
-02. What even is uncanniness?    
+02. Uncanniness    
 03. The notion of the real
 04. The MPC is now a lens 
 05. Code is valuable 
@@ -152,7 +152,7 @@ I have.  Also I don't think I'm hurting anyone. So that's what I'm doing. Making
 the air wiggle in a praticular way that interests me here in the right now.
 
 
-# What even is uncanniness?
+# Uncanniness
 
 It can mean a lot of different things.
 Let's have a look in a dictionary:
@@ -253,14 +253,6 @@ immesurable hights of exponentiallity.
 
 # The notion of The Real.
 
-All that can be heard is real. Only imaginings of sounds are unreal. There are
-fictions. Narratives exist. We live alongside our lores. There are stories that
-we tell each other, and that we tell ourselves. Admitting the impossibility in
-knowing even one self. Certainly not each other. Definately not coulture. We are
-all choosing to live with these stories even as as we make increasingly feeble
-attempts at that loftiest of goals of understanding, althemore likely settling
-for ways to cope as we are strung along by each other.
-
 I need to tell the story of the Japanese poetry group around year 1000 who
 allowed each other to take new names every decade or so to start each decade
 with a fresh voice. To become the resplendent new. The untainted eye. A new
@@ -314,7 +306,8 @@ using a very special type of physical object which is a musical instrument.
 Ideally this happens in a special type of physical space which is a concerthall.
 This is how recordings get made. Any infringement upon that fact is unthinkable
 to this imagined audience which holds these virtual beliefs. This is Zizek's
-efficacity as it gives me something to relate to when I'm making my music.
+efficacity as it gave me something to relate to when I made the music for this
+project.
 
 [link to source](https://pastebin.com/LhnajViV)
 
@@ -1030,3 +1023,12 @@ If you decide to keep this then you should find it.
 Statements of science are not of what is true and what is not true, but
 statements of what is known with different degrees of certainty.
 _ Richard Feynman
+
+All that can be heard is real. Only imaginings of sounds are unreal. There are
+fictions. Narratives exist. We live alongside our lores. There are stories that
+we tell each other, and that we tell ourselves. Admitting the impossibility in
+knowing even one self. Certainly not each other. Definately not culture. We are
+all choosing to live with these stories even as as we make increasingly feeble
+attempts at that loftiest of goals of understanding, althemore likely settling
+for ways to cope as we are strung along by each other.
+
