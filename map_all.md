@@ -26,10 +26,10 @@ access, power, work and ultimately class. ]
 
 # Establising a baseline    
 
-Greg Egan writes in Diaspora:
+Greg Egan writes in _Diaspora_(1997):
 
-"Every orphan was an explorer, sent to map uncharted territory. And every orphan
-was the uncharted territory itself."
+> Every orphan was an explorer, sent to map uncharted territory. And every orphan
+> was the uncharted territory itself.
 
 I've been a composer for a while now. I've been envolved with music in a lot of
 different ways through the course of getting to where I'm at now, in this
@@ -80,7 +80,68 @@ these stories as a source for clues as to why I am driven to do the things that
 I do. I don't think that there can be anything like "the self" without others
 and that "the self" is largely about imagining others view of yourself.
 
-I'd also love to try to  make my thesis valuable to others in terms of it's
+Leslie Ervine PhD, University of Colorado, writes in her Qualitative Sociology
+paper _Even Better Than The Real Thing_ (2000):
+
+> One's stories persuade one's audience that one is a particular kind of person.
+> When one is one's own audience, the telling amounts to having a self. 
+
+What particular kind of person would I like to be? A Composer with a capital C!
+
+> Good stories must meet several requirements. They must fullfil their audiences
+> expectations for what counts as convincing. They must be coherent, drawing
+> together disparate elements that end up seeming inherently related. They must
+> make events seem to lead to one another. In addition, they must have satisfying
+> endings - not happy endings, necessarily, but endings that provide resolution
+> while leaving enough ambiguity to enliven listeners imaginations. 
+
+This is how think about this thesis. I am doing just that drawing together of
+disparate elements. Just like in a lot of music that is out there the sequence,
+or the order in which things are introduced matters. A very common trait of many
+musics that have been made is that they exist as a linear experience. They are a
+form of artistic expression which exists within the time domain. Compare music
+to sculpture. While this perhaps is not an entirely water tight example I use it
+here because I use it all of the time, as anyone who knows can attest. I am
+guessing that it's important that I use it here in order to maintain
+consistency. You get the idea.
+
+> Good stories - stories that work - offer a reality that is, to use the words of
+> a U2 song, even better than the real thing. For listeners, stories make
+> experiences possible that would, in real life, be impractical, dangerous,
+> time-consuming, costly, or otherwise impossible. 
+
+I define a good story as a story that I can remember and recount at a later
+time. Someone has told me a story and I either like the story, or the person
+that told it to me, or both. I connect the story to the person in my mind to
+varying degrees. Sometimes I end up convinced that a particular person telling a
+particular story, at a particular time, says something about what kind of person
+that person is, and other times not. Thinking about all of the people that I
+have met coming up through music as one person; me. I was there every time
+someone told me a story. Those stories undoubtedly came to shape the way I think
+about music and about organising sound.
+
+> When told well, stories offer a vicarious experience that is satisfying in ways
+> that the actual experience would not or could not be. In much the same way, the
+> narrative self is even better than the real thing. If a real self did exist, it
+> would be inaccessible and incomprehensible, at moments so painfully intense and
+> so raw as to offer no practical guidance for behaviour. But the self-storyteller
+> uses a set of narrative techniques that yield a product that is better than
+> authentic. As a story, the self can be convincing, coherent, and have a
+> satisfying ending.
+
+> Self-stories can also have sufficient ambiguity to accommodate lives that are in
+> progress and subject to change. It is the unique capacity of human beings to
+> meet both sets of requirements - to tell good stories that can also accommodate
+> uncertainty - and it is the power of institutions that allows them to do so. By
+> institutions, I mean patterns of activities organised around a common goal.
+
+That common goal, as I see it, is organising sound. This makes us the same you
+and I. Mostly everyone we know shares this common goal. I trace this back to
+Edgard Varese's bit about how "Music is organised sound". I am fine with that
+description. I am also interested in finding my own answers to the question of
+how do I keep doing that in ways that continue to interst me.
+
+I'd also love to try to make my thesis valuable to others in terms of it's
 utility. This is why I've chosen to include my code. My thinking here is that
 there exists a certain kind of reader that won't want to sit through these
 touchy feely meanderings unless there is a promise of some code that can be run
@@ -142,16 +203,6 @@ is. Nothing happens in a vacuum. The two discrete loops are kept separate
 though. That's how I like to think about it. I need to create music to keep
 myself balanced but that doesn't mean that I surrender my privacy. The
 listener shouldn't have to either. 
-
-I've learned a lot from working on this project. It's been very freeing in a lot
-of ways. I feel like I got over myself in some ways. Also I dug down deep and
-pushed through some issues. I spent a lot longer coming back to pieces adding to
-and changing things about them. I know that doesn't matter though. What I mean
-to say is: No one can ever hear how long any piece of music took to write. How
-much effort went into making it. How much struggle. How many demons overcome.
-Sound is just wiggly air. It is also my favourite thing to do with the time that
-I have. Also I don't think I'm hurting anyone. So that's what I'm doing. Making
-the air wiggle in a praticular way that interests me here in the right now.
 
 
 # Uncanniness
@@ -254,6 +305,14 @@ immesurable hights of exponentiallity.
 
 
 # The notion of The Real.
+
+Find out what Zizek said about the stopping the demystifying of the vulva. That
+whole generation of old men keep pulling this shit. I had put off using Zizek
+specifically because I knew this was a real risk. Guilt by association is also
+real in the sense that there is a court of public opinion despite being a guilt
+by association being a cognitive bias. Expand the caveats regarding Zizek to the
+point where it is explicit that only the parts that I have included in this text
+are what set me into resonance.
 
 I need to tell the story of the Japanese poetry group around year 1000 who
 allowed each other to take new names every decade or so to start each decade
@@ -361,26 +420,38 @@ That which resists symbolization
 “The real is what resists symbolization absolutely.” ― Jacques Lacan, The
 Seminar of Jacques Lacan: Freud's Papers on Technique
 
-Define hyperReal. 
-(link to Wikipedia)[https://en.wikipedia.org/wiki/Hyperreality]
-
 Even better than the real thing. 
 
 Heightened states of being, as in the impossibility of hearing a multitude of
-things sounding in a multitude spaces, at a multitude of different times all at
+things sounding in a multitude of spaces, at a multitude of different times all at
 once. Transcending limitations of time and space through non realTime
 assemblage. 
 
 "...through layers of diminishing reality"  
 
 "...half-awake, unable to distinguish the virtual from the real"  
+The two above quotes taken from: 
+[How much of the internet is fake?](http://nymag.com/intelligencer/2018/12/how-much-of-the-internet-is-fake.html)
 
 Philip K. Dick's "Counterfeit unrealites" is a collection of four novels.
 Undoubtedly the most known of which is "Do andriods dream of electric sheep" which was
 later adapted into Blade Runner.
 
-[How much of the internet is fake?](http://nymag.com/intelligencer/2018/12/how-much-of-the-internet-is-fake.html)
+In Baudrillard's Simulation and Simulacra there are four categories:
 
+• Faithful copy
+• Mask
+• Illusion
+• Pure simulacrum
+
+"An implosion. A collapse of structures."
+"Exploratory narratives."
+
+Taken from:
+https://www.youtube.com/watch?v=pupLQd3SRms
+
+Define hyperReal. 
+(link to Wikipedia)[https://en.wikipedia.org/wiki/Hyperreality]
 
 # The MPC is now a lens
 
@@ -837,6 +908,19 @@ much the same way as before. Like a thief at a cocktail party, trying to blend
 in, eating hors d'oeuvres and failing to exchange pleasentries, sweating
 profusely, certain of being found out and subsequently thrown out, any second
 now. 
+
+I've learned a lot from working on this project. It's been very freeing in a lot
+of ways. I feel like I got over myself in some ways. Also I dug down deep and
+pushed through some issues. I spent a lot longer coming back to pieces adding to
+and changing things about them. I know that doesn't matter though. What I mean
+to say is: No one can ever hear how long any piece of music took to write. How
+much effort went into making it. How much struggle. How many demons overcome.
+Sound is just wiggly air. It is also my favourite thing to do with the time that
+I have. Also I don't think I'm hurting anyone. So that's what I'm doing. Making
+the air wiggle in a particular way that interests me here in the right now.
+
+
+
 
 ### Below are unsorted snippets of random things
 
