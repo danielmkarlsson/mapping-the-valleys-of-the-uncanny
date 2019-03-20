@@ -281,7 +281,7 @@ to thinking that for the most part; No one cares. Don't worry. This is a good
 thing. Trust me. It means that we are free. Free to dream endlessly and to make
 anything we want. Absolutely free. Steve Martin wrote about this in LA Story:
 
-"...no one is looking [to the outside] for verification that what they're doing
+"...no one is looking to the outside for verification that what they're doing
 is ok."
 
 Getting back to practicalites; Certain things are different when sequencing
@@ -304,7 +304,7 @@ multiple keys are struck elevate the richness of timbral interplay to
 immesurable hights of exponentiallity.
 
 
-# The notion of The Real.
+# The notion of The Real
 
 Find out what Zizek said about the stopping the demystifying of the vulva. That
 whole generation of old men keep pulling this shit. I had put off using Zizek
@@ -710,7 +710,7 @@ spectrum. If need be cut the bass and add a room, any room, later. Get as much
 of the signal as you can when you have it. Just make sure it doesn't clip.
 
 
-# Rooms
+# Rooms are resonant bodies
 
 ( Ties into place.  
 The absurdity and poetic nature of us imagining someone having
@@ -746,7 +746,7 @@ again, I've never experienced a stone garden. The stone garden only exists in my
 imagination through having been told stories.
  
 
-# State
+# State is immeasurable    
 
 The code is static. Why is that important? The frozen state yielding a multitude
 of infinities in variation through time fascinates me. Always has.i To construct
@@ -852,7 +852,7 @@ Intersections of traversals 40 min
 ```
 
 
-# Conclusion: The Impossibility of The Maps
+# The Impossibility of The Maps
 
 Nothing is real, everything is permitted. 
 
