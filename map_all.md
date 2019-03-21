@@ -1,12 +1,12 @@
 # Mapping The Valleys of The Uncanny 
 
-[ An investigation into process and method within the field of algorithmic
-composition. ]
+_An investigation into process and method within the field of algorithmic
+composition._
 
-Or:
+Or if you prefer:
 
-[ The role of instrumentation and timbre as they unwittingly conspire to designate
-access, power, work and ultimately class. ]
+_The role of instrumentation and timbre as they unwittingly conspire to designate
+access, power, work and ultimately class._ 
 
 ### Table of contents
 
@@ -25,6 +25,27 @@ access, power, work and ultimately class. ]
 ```
 
 # Establising a baseline    
+
+Let's start simple. I like simple. In this text I am going to be citing other
+texts. I am citing other texts partly because I think that it is a thing that
+people do when they write master theses. The other part of why I'm citing other
+texts is because it reminds me of sampling. I am interested in sampling. We'll
+get to why I think sampling and subsequently citing other texts in this thesis
+is interesting but for now it's important to me that you know why I cite. I do
+it because in my mind I am actually playing back a sample. It's a sample
+contaning text instead of sound. You are now ready to receive my first citation.
+
+Steve Martin writes in LA Story: 
+
+> All I'm saying is that, when I'm around you, I find myself showing off, which
+> is the idiot's version of being interesting.
+
+When I am citing other texts I am not doing it to try to impress you. I am not
+saying that I think anyone else's way of doing this is bad or anything. All I'm
+saing is that, when I'm writing this, I find myself performing and in that
+performing relating to ideas I have about other people's expectations. Long
+story short; I guess you could say I have issues. These issues are mine. It's
+not you, it's me.
 
 Greg Egan writes in _Diaspora_(1997):
 
@@ -63,7 +84,6 @@ we are free from the shackles of the finite and of the physical world. Sound now
 enjoys morphological freedom through a myriad of transformations. It is malleble
 to the utmost degree. We have at our disposal an astounding plethora of tools
 through which to manipulate and organise sound.
-
 This project is a collection of musical materials that explore the idea of the
 uncanny valley as it relates to music being real, fake or some strange
 combination of the two. This project is primarily one in which I produce sound
@@ -101,7 +121,7 @@ or the order in which things are introduced matters. A very common trait of many
 musics that have been made is that they exist as a linear experience. They are a
 form of artistic expression which exists within the time domain. Compare music
 to sculpture. While this perhaps is not an entirely water tight example I use it
-here because I use it all of the time, as anyone who knows can attest. I am
+here because I use it all of the time, as anyone who knows me can attest. I am
 guessing that it's important that I use it here in order to maintain
 consistency. You get the idea.
 
@@ -749,40 +769,52 @@ imagination through having been told stories.
 # State is immeasurable    
 
 The code is static. Why is that important? The frozen state yielding a multitude
-of infinities in variation through time fascinates me. Always has.i To construct
+of infinities in variation through time fascinates me. Always has. To construct
 something and then for it to take on a life of it's own in a sense. Feels
-paradoxical. Goes on to talk about complexity. The scope or sampling window
-matters. Static or in flux. Has to do with the presentation aspect. I work on
-the code until it reaches a static state which is most to my liking. While I
-might not listen to an eternity's worth of the generated material I'll listen to
-a good long while. I can be certain that the algorithms combining of parameters
-will satisfy me in the same way that I can hear when a piece is finished.  My
-choice to project static code in combination with fixed media is for the greater
-part due to my fascination for complexity emerging out of simplicity. To a
-smaller degree I cant help but go against the prescribed modus operandi of
-playing the code within so called live coding like an instrument. That is not
-what I want to do. I want to organise sound in a very specific way. Another nice
-aspect of static code is that it greatly increases portability.
+paradoxical. Thi then goes on to say something interesting about complexity. The
+scope or sampling window matters. Static or in flux. Has to do with the
+presentation aspect. I work on the code until it reaches a static state which is
+most to my liking. While I might not listen to an eternity's worth of the
+generated material I'll listen to a good long while. I can be certain that the
+algorithms combining of parameters will satisfy me in the same way that I can
+hear when a piece is finished.  My choice to project static code in combination
+with fixed media is for the greater part due to my fascination for complexity
+emerging out of simplicity. To a smaller degree I cant help but go against the
+prescribed modus operandi of playing the code within so called live coding like
+an instrument. That is not what I want to do. I want to organise sound in a very
+specific way. Another nice aspect of static code is that it greatly increases
+portability.
+
+We're not ready for it. I don't mean that live coding is so futureWorld that it
+as a phenomenon is ahead of it's time. What I'm saying is that we don't have the
+fundamentals of the infrasctructure for even just the creation of the kind of
+files that can be distributed in a way that makes sense. Video is a really bad
+way of making code available to others. The recipient can't copy the code out of
+it and has to write it by hand. This is errorprone and clunky. Also the file
+sizes are huge. Static code however is just a tiny text file. Kilobytes. Goes
+anywhere fast because it is so tiny.
 
 I got to thinking about state a lot through brushing up against functional
-programming. When state is thought of as somehting dirty and dangerous then that
-makes it interesting to me. I found workarounds because it wa fun to go against
-prescribed ways of working. Also I'd argue that memory is a fundamental aspect
-of music as it is a time based medium. You can't say stuff like "There is no
-state" or that "Time is the only constant" and not expect people to rebel.
+programming. State is thought of as something dirty and dangerous there in that
+scene then that makes it interesting to me. I found workarounds because it wa
+fun to go against prescribed ways of working. Also I'd argue that memory is a
+fundamental aspect of music as it is a time based medium. You can't say stuff
+like "There is no state" or that "Time is the only constant" and not expect
+people to rebel.
 
 Anyway the whole wanting to stay one hundred percent sqeaky clean all of the
 time thing that can happen to functional programmers always struck me as having
 more to do with fundamental problems in computer science than about me wanting
 to organise sound. Nevermind about all of that. I don't mind so much that there
 could potentially be a danger of some unexpected behaviour when I'm making music
-by writing code. So long as it makes a sound there is something for me to hear
-and to decide what I think of it. I only ever regarded unintended silence as
-failure. Anything above that is something I can work with. If I can hear it I a
-mcertain that I can decide if I like it or not. How could I not have an opinion
+by writing code. I do a lot more listenig to results than than I do expecting
+hear things. So long as it makes a sound there is something for me to hear and
+to decide what I think of it. I only ever regarded unintended silence as
+failure. Anything above that is something I can work with. If I can hear it I am
+certain that I can decide if I like it or not. How could I not have an opinion
 on anything and everthing I hear? As far back as I can remember that's all I've
 been doing. Deciding. Making choices based on what I'v been hearing. So it's
-real simple. I like simple.i So does Mark Fell and I like Mark Fell.
+real simple. I like simple. So does Mark Fell and I like Mark Fell.
 
 Mark Fell is quoted as saying the following in Phillip Clark's Manitutshu Wire Review:
 
@@ -1139,15 +1171,16 @@ immediately."
 This quote taken from a SpitFire Audio manual for a percussion sample library.
 If you decide to keep this then you should find it.
 
-Statements of science are not of what is true and what is not true, but
-statements of what is known with different degrees of certainty.
-_ Richard Feynman
+> Statements of science are not of what is true and what is not true, but
+> statements of what is known with different degrees of certainty.  
 
-All that can be heard is real. Only imaginings of sounds are unreal. There are
-fictions. Narratives exist. We live alongside our lores. There are stories that
-we tell each other, and that we tell ourselves. Admitting the impossibility in
-knowing even one self. Certainly not each other. Definately not culture. We are
-all choosing to live with these stories even as as we make increasingly feeble
-attempts at that loftiest of goals of understanding, althemore likely settling
-for ways to cope as we are strung along by each other.
+Richard Feynman
+
+All that can be heard is real. Only imaginings of sounds are unreal. Sonorities
+yet to heard. There are fictions. Narratives exist. We live alongside our lores.
+There are stories that we tell each other, and that we tell ourselves. Admitting
+the impossibility in knowing even one self. Certainly not each other. Definitely
+not culture. We are all choosing to live with these stories even as as we make
+increasingly feeble attempts at that loftiest of goals of understanding,
+althemore likely settling for ways to cope as we are strung along by each other.
 
