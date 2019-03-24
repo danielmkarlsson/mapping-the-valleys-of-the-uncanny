@@ -52,6 +52,29 @@ Greg Egan writes in _Diaspora_(1997):
 > Every orphan was an explorer, sent to map uncharted territory. And every orphan
 > was the uncharted territory itself.
 
+You knew this already but all of the quotes that I use could be traced back to
+their origins. There you would find the rest of the body of work of that
+creator. We're establishing a baseline here remember? I included the above quote
+because it's from my favourite book. The reason it is my favourite book is
+because it is a complete recounting of all of our yet unlived communal future,
+as a utopia. I like to think that this says something about me and also about my
+sensibilities.
+
+Karl Marx writes in Theses on Feuerbach: 
+
+The philosophers have only _interpreted_ the world in various ways ; the point,
+however, is to _change_ it.  
+
+The above quote tells you for sure that I am at least a socialist, if you hadn't
+picked up on that vibe prior to this explicit evidence. It also says something
+about how I'm fond of the idea that any pattern can be broken. Anything and
+everything is subject to change. The "world" here is impendent on the scope we
+apply to it. You can have your pick here whether or not it is literal as in the
+planet's impending demise due to capitalism- induced climate disaster and
+subsequent resource wars. Given the terrifying nature of that avenue of thought
+you might prefer one of the smaller scopes. The Enlightenment, Academia,
+Artistic Research within New Music etc. 
+
 I've been a composer for a while now. I've been envolved with music in a lot of
 different ways through the course of getting to where I'm at now, in this
 moment, that has me writing this text. There have been different frameworks at
@@ -170,6 +193,8 @@ maps. You would be free to connect my code to anything you want and control it.
 You could make your own connections to the things you care about. Edit my code
 to find your own path through the valley.
 
+Make segway here!
+
 In the diagram below the audience creates a discrete assesment loop when viewing
 the artwork. The audience views the result of the artist's process of composing
 the work and then goes on about their lives. Some particular work by some
@@ -187,6 +212,9 @@ narratives designed to create cult followings are not helping to deepen the
 audience's relationship with the artwork. Giving the audience access to the code
 might not do that all of the time but it is a thing to try instead of going
 along with a prescribed method.
+
+Expand to include quotes from Stephen Willats as in th "dialog" above with
+Ervine.
 
 ```
 
@@ -223,7 +251,6 @@ is. Nothing happens in a vacuum. The two discrete loops are kept separate
 though. That's how I like to think about it. I need to create music to keep
 myself balanced but that doesn't mean that I surrender my privacy. The
 listener shouldn't have to either. 
-
 
 # Uncanniness
 
@@ -323,6 +350,8 @@ of that action each time. The cross talk inside the body of the instrument as
 multiple keys are struck elevate the richness of timbral interplay to
 immesurable hights of exponentiallity.
 
+Finish this part by explaing why the computer controlled sampler is not a lesser
+tool to organise sound with than The Steinway.
 
 # The notion of The Real
 
@@ -333,6 +362,8 @@ real in the sense that there is a court of public opinion despite being a guilt
 by association being a cognitive bias. Expand the caveats regarding Zizek to the
 point where it is explicit that only the parts that I have included in this text
 are what set me into resonance.
+
+Staying on brand.
 
 I need to tell the story of the Japanese poetry group around year 1000 who
 allowed each other to take new names every decade or so to start each decade
@@ -361,7 +392,7 @@ image in the sense of: Although we interact with real people, we erase, we
 behave as if whole strata of the other person are not there."
 
 I here substitute "real people" with artworks and "the whole strata" as the
-process which has led to the result that is the artwork; The file. The .wav for
+process which has led to the result that is the artwork; The file. The .wav 
 or .pdf for example. 
 
 "[An] example of how the virtual dimension is operative at the symbolic level
@@ -381,6 +412,10 @@ and ask if the musician intends to record more than one record simoultaniosly?
 The recording engineer goes on to explain that whomever in the ensemble has a
 solo should take a step closer to the microphone. 
 
+Exapand to my presuppsoing that there is a person within an audience which
+listens to the result of my organizing of sound filtered throught these stories
+even tho I don't regard them as real from my perspective.
+
 In the music that I have produced for this project the presupposition of the
 imagined audience is that acoustic music is created by living breathing human
 beings reading sheet music. They are using a very special type of physical
@@ -397,7 +432,7 @@ the story in which Rumsfeld lists what they knew at the time just before the war
 on Iraq:
 
 • The known knows
-• The knows unknowns
+• The know unknowns
 • The unknown unknowns
 
 
@@ -439,8 +474,6 @@ That which resists symbolization
 
 “The real is what resists symbolization absolutely.” ― Jacques Lacan, The
 Seminar of Jacques Lacan: Freud's Papers on Technique
-
-Even better than the real thing. 
 
 Heightened states of being, as in the impossibility of hearing a multitude of
 things sounding in a multitude of spaces, at a multitude of different times all at
@@ -486,7 +519,7 @@ When the story of our origin (specifically Electronic Music's origin) is told
 through the perspective of the tape recorder being the start. Then later the
 tape recorder grows to the size of the studio with undeniable monumental
 prestige. If we adjust the point of departure to a more recent technological
-breakthrough then the scope of our story changes dramtically. To use the MPC as
+breakthrough then the scope of our story changes dramatically. To use the MPC as
 the starting point for an alternative telling of history emerges as an
 oppourtunity.  
 
@@ -522,6 +555,8 @@ to me. The last celebrated experimental hip hop record. Didn't have any rapping 
 The story goes he made it in the hospital as he was dying of a terminal illness.
 Had his MPC on his belly in the hospital bed. I don't know if that's true. I
 guess I've put off trying to find out if it's true because I like the story.
+
+
 "A kiss may not be the truth but it's what we wish were true." That bit is from
 Steve Martin's LA Story. In the movie I think we're meant to think it's a
 Shakespeare quote. That's a another one I've thought a thousand times about and
@@ -567,9 +602,50 @@ https://www.youtube.com/watch?v=R8t08zWBKyg
 Hard finding a good one where someone is actually working with the machine:  
 https://www.youtube.com/watch?v=S-DhUoI-vCY
 
-CURSÉD SAMPLER:
+
 [link](https://web.archive.org/web/20181206110547/https://seattle.craigslist.org/sno/msg/d/possibly-cursed-emu-sp1200/6761989886.html)
 
+#### CURSÉD SAMPLER: 
+
+> Possibly Cursed Emu SP1200 Reissue Modified Sampler - $500 (Seattle)
+
+> This SP-1200 belonged to my former roommate who bought it for $500 from a woman
+> in Queens, NY who said her son was murdered. We were living in Williamsburg,
+> Brooklyn, NY at the time. 
+
+> Ironically 5 years later in our apartment my roommate was violently murdered
+> with a carpet knife in his bedroom/studio by his then ex-girlfriend who learned
+> that he broke up with her because he got another woman pregnant. 
+
+> His blood was all over this SP-1200 and after the funeral his Mother gave me
+> legal possession of all his music equipment after she was told by a spirit
+> doctor that the SP-1200 is cursed and she must never touch it herself. 
+
+> This unfortunate incident was 5 years ago and I have since moved back to Seattle
+> and cleaned up all of his blood and had this SP-1200 looked at by a technician
+> who says it works perfectly. 
+
+> I recently had a dream about my old roommate and he told me that I need to part
+> ways with this SP-1200 and to sell it for the exact price he paid for it or his
+> spirit will be damned forever. Then his Mother called me last night telling me
+> that the spirit doctor called her to tell her that I need to sell this machine
+> for $500 or my roommate's soul will never rest. 
+
+> This of course scares the shit out of me. I never believed in the spirit world
+> and I don't know if there is an afterlife. But if my holding on to this sampler
+> is preventing my former roommate from a peaceful death then I think selling it
+> is the right thing to do. 
+
+> My dream and the phone call from his Mother is too much of a coincidence. I
+> think it's something I need to listen to and I'm admittedly a stubborn person.
+
+> I don't want to withhold any of this information, because I would hate to be the
+> cause of anyone else losing their life if there really is such things as curses,
+> but if I had a weird dream and his Mother got a phone call from a spirit doctor
+> who said something similar to what I dreamt, then there must be some truth to
+> the whole spirit world shit.
+
+> So there it is. Everything I know about this SP-1200 is out in the open...
 
 # Code has value
 
@@ -1184,3 +1260,29 @@ not culture. We are all choosing to live with these stories even as as we make
 increasingly feeble attempts at that loftiest of goals of understanding,
 althemore likely settling for ways to cope as we are strung along by each other.
 
+
+Disclaimer:
+I'm not attempting to put forth rigorous proof of anything. Provide example of
+an open problem requiring rigorous proof along the lines of can there be a
+logical solution to the creation of benevolent GAI?
+How about narrative or place? Extramusical paths to engagement. 
+What story could I tell you to trick you into paying attention?
+Perhaps a narrative spun around unrequited love will have to suffice. As far
+back as I can remember I always wanted to be a...
+Place: Make the case that a piece of code can be thought of as sculpture or as a
+place. What are some examples of good places? The stone garden is a nice story.
+The shopping mall is another place. Not as nice a place. 
+Arrive at the part where you say don't! Also that everything is arbitrary. Life
+is absurd. We are free. 
+
+Static/flux
+StoneGarden
+Listening as an activity (interactivity)
+
+Aestethic beauty is a myth.   
+There are only preferences.  
+Complexity must not be a goal in itself.   
+Strive to increase utility of information.Kraps last tape
+What is philosophy?
+It's when you think about something so much that you actually end up understanding it less.
+- Corey Mohler
