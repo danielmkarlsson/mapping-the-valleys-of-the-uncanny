@@ -947,11 +947,15 @@ Clave solo < 2 min
 Speech synthesis thesis excerpt
 Col legno Contrabass solo 15 min 28 seconds
 Speech synthesis thesis excerpt
-Metallophone solo < 16 min
+Metallophone solo 
+Speech synthesis thesis excerpt
+Pan drum solo 
 
 Set II:
 Speech synthesis thesis excerpt
 Three interpretations 09 min 3 seconds
+Speech synthesis thesis excerpt
+Bowed Zither, Clarinet and Strings
 Speech synthesis thesis excerpt
 
 Set III
