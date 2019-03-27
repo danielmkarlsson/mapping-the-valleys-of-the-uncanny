@@ -70,7 +70,7 @@ picked up on that vibe prior to this explicit evidence. It also says something
 about how I'm fond of the idea that any pattern can be broken. Anything and
 everything is subject to change. The "world" here is impendent on the scope we
 apply to it. You can have your pick here whether or not it is literal as in the
-planet's impending demise due to capitalism- induced climate disaster and
+planet's impending demise due to capitalism-induced climate disaster and
 subsequent resource wars. Given the terrifying nature of that avenue of thought
 you might prefer one of the smaller scopes. The Enlightenment, Academia,
 Artistic Research within New Music etc. 
@@ -172,6 +172,19 @@ about music and about organising sound.
 > authentic. As a story, the self can be convincing, coherent, and have a
 > satisfying ending.
 
+How to tell a story well is subjective or at least a matter of taste. I think
+about functionality as a guide for constructing the story of the self. How
+functional is it to include a certain aspect for our intended outcome? The
+intended outcome here is to arrive at a story which is accessible and
+comprehensable. We want to understand each other. We are looking for cues so
+that we can make better guesses about future behaviour. We are looking for
+patterns. We are fundamentally geared for it. It is literally hardwired into our
+senses. Pattern recognition is at the core of what it means to have
+consciousness. Being as music's existance is dependent on hearing and reasoning
+about what we hear I could say that form exploits this pattern recognition
+aspect of consciousness to keep the listener engaged and that might work with
+how you view the world, maybe.
+
 > Self-stories can also have sufficient ambiguity to accommodate lives that are in
 > progress and subject to change. It is the unique capacity of human beings to
 > meet both sets of requirements - to tell good stories that can also accommodate
@@ -181,19 +194,30 @@ about music and about organising sound.
 That common goal, as I see it, is organising sound. This makes us the same you
 and I. Mostly everyone we know shares this common goal. I trace this back to
 Edgard Varese's bit about how "Music is organised sound". I am fine with that
-description. I am also interested in finding my own answers to the question of
-how do I keep doing that in ways that continue to interst me.
+description. I want to keep finding new answers to the question of how to
+organise sound in ways that continue to interest me. Part of staying interested
+is engaging with other people who are also engaged in this same struggle.
+I want to be part of a _Community_.
 
-I'd also love to try to make my thesis valuable to others in terms of it's
+I've thought a lot about how to set myself up so that I become increasingly
+unlikely to get bored. Cutting myself of from people increases the risk of
+getting bored. Sharing my tools increases the likeliness of contact and/or
+stimulating communication with other people.
+
+I don't just want to talk at people about my internal state. I genuinly want to
+try to make an honest attempt my thesis valuable to others in terms of it's
 utility. This is why I've chosen to include my code. My thinking here is that
 there exists a certain kind of reader that won't want to sit through these
 touchy feely meanderings unless there is a promise of some code that can be run
-at the end of the day. One way of thinking about those pieces of code is as
+at the end of the day. Here is that promise now.
+ 
+I couldn't resist tying back sharing the code into the narrative framework as
 maps. You would be free to connect my code to anything you want and control it.
 You could make your own connections to the things you care about. Edit my code
-to find your own path through the valley.
-
-Make segway here!
+to find your own path through the valley. Analogies are frail things though.
+They fall apart so easily. You wouldn't be praticularly well served by bringing
+the wrong map with you on a hiking trip in the woods. I much prefer diagrams to
+analogies. So much more serious semming and has that sweet science feel to them.
 
 In the diagram below the audience creates a discrete assesment loop when viewing
 the artwork. The audience views the result of the artist's process of composing
@@ -218,23 +242,23 @@ Ervine.
 
 ```
 
-Subsequent experience,                                                   Subsequent experience,
-effect on intentions.                                                    effect on perceptions.
-        ^                                                                            ^
-        |                                                                            |
-        |                                                                            |
- +------+------+                         +-------------+                      +------+------+
- |             |-----------------------> |             | <--------------------|             |
- |             | Discrete assesment loop |             | Audience creates     |             |
- |   ARTIST    | used in the composition |   ARTWORK   | discrete loop when   |   AUDIENCE  |
- |             | of the artwork.         |             | viewing the artwork. |             |
- |             | <-----------------------|             |--------------------> |             |
- +------+------+                         +-------------+                      +------+------+
-        ^                                                                            ^
-        |                                                                            |
-        |                                                                            |
-Prior experience,                                                          Prior experience,  
-beliefs established.                                                       beliefs established.
+Subsequent experience,                                        Subsequent experience,
+effect on intentions.                                         effect on perceptions.
+       ^                                                                  ^
+       |                                                                  |
+       |                                                                  |
+ +----+---+                         +---------+                      +----+-----+
+ |        |-----------------------> |         | <--------------------|          |
+ |        | Discrete assesment loop |         | Audience creates     |          |
+ | ARTIST | used in the composition | ARTWORK | discrete loop when   | AUDIENCE |
+ |        | of the artwork.         |         | viewing the artwork. |          |
+ |        | <-----------------------|         |--------------------> |          |
+ +---+----+                         +---------+                      +----+-----+
+     ^                                                                    ^
+     |                                                                    |
+     |                                                                    |
+Prior experience,                                                 Prior experience,  
+beliefs established.                                              beliefs established.
 
 ```
 Adapted from:
