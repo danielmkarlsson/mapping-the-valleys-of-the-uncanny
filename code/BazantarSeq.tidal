@@ -1,0 +1,16 @@
+let wchoose weights values = choose $ concatMap (\x -> replicate (fst x) (snd x)) (zip weights values)
+
+let rep = discretise
+
+cps (-1)
+
+m1
+$ (9783<~)
+$ somecyclesBy (1/9) (degradeBy (1/4))
+$ slow (choose [1.6,1.61..2.4])
+$ n ((-39) + (rep (1/5) $ wchoose [3,2,1,3,2,1,3,2,1,3,2,1] [0..12]))
+# velocity (slow 0.1 $ scale 0.1 1 $ rand)
+# legato (slow 17 $ scale 4 8 $ sine)
+# nudge (slow 0.11 $ scalex 0.0001 1.5 $ rand)
+
+cps 1
