@@ -802,14 +802,14 @@ heard about was the MPC. I first heard the story when I was a kid listening to
 NWA, Public Enemy, De La Soul. Then finally when I was older from a guy who
 showed me J-Dilla's Donuts. He told me the story as we were listening to the
 album together. It was interleaved. The story was. It got interrupted by "oh oh
-and check this part out". Little things about the production.  Details. They say
+and check this part out". Little things about the production. Details. They say
 the devil is in the details. Anyway I really got that story handed to me. The
-last celebrated experimental hip hop record. Didn't have any rapping on it.  The
+last celebrated experimental hip hop record. Didn't have any rapping on it. The
 story goes he made it in the hospital as he was dying of a terminal illness.
 Had his MPC on his belly in the hospital bed. I don't know if that's true. I
 guess I've put off trying to find out if it's true because I like the story.
 
-> A kiss may not be the truth but it's what we wish were true. 
+> _A kiss may not be the truth but it's what we wish were true._ 
 >
 
 That bit is from Steve Martin's **LA Story**. In the movie I think we're meant to
@@ -857,7 +857,7 @@ then ensued to safeguard intellectual property belonging to large corporations.
 
 **CURSÉD SAMPLER:** 
 
-Meanwhile a strange kind of cult following arose around the physical artefacts
+Meanwhile, a strange kind of cult following arose around the physical artefacts
 that are the instruments themselves. Compare this to how the characteristics of
 the instruments at the time we refer to as Early Music is to contemporary
 practitioners within that expression. As these instruments are no longer in
@@ -914,14 +914,31 @@ haggling over the price requirement an integral part of the narrative itself.
 <br>
 <br>
 
-**05. Code has value**
+<big>**05. Code has value**</big>
 
-Why do I feel it is important to include my code in this thesis? Utility. Some
-degree of responsibility needs to be taken when occupying a space. When speaking
-while one's voice is amplified by context (academia). 
+Why do I feel it is important to include my code in this thesis? In a word:
+Utility. I also feel that some degree of responsibility needs to be taken when
+occupying a space and when speaking while one's voice is amplified by context.
+That context in my case is academia. This is me owning up to the promise of not
+surrenderring to capitalist logic.
 
-<br>
-<br>
+Mark Fisher had this to say in **Capitalist Realism**: 
+
+> _For most people under twenty in Europe and North America, the lack of
+> alternatives to capitalism is no longer even an issue. Capitalism seamlessly
+> occupies the horizons of the thinkable. Jameson used to report in horror about
+> the ways that capitalism had seeped into the very unconscious; now, the fact
+> that capitalism has colonized the dreaming life of the population is so taken
+> for granted that it is no longer worthy of comment._ 
+
+If you don't feel comfortable reading the code below then please: <br> 
+
+**Read the part to the right past the `--` and then look at the code.** <br> 
+
+These are my comments. I made them just for you. I'd love it if you read them
+and then write me an email letting me know what you thought of my comments. We
+could talk about making my comments better so more folks could get a handle on
+them. I would love that.
 
 **Three interpretations.tidal**
 
@@ -929,7 +946,7 @@ while one's voice is amplified by context (academia).
 m1 -- The stream holds time together
 $ stack[ -- The stack holds a potentially infinite amount of stems
 (839<~) -- Set time to begin at a certain point between two infinitites for this stem
-$ fast 4 -- Quadrule the speed at which time passes
+$ fast 4 -- Quadrule the speed at which time passes for this stem
 $ n ("0" + (rep (1/58) $ choose [0,3..30] - 6 -6)) -- The pitch aggregate for this stem
 # velocity (slow 64 $ scalex 0.01 0.4 $ sine) -- This stem fades in and out over 64 cycles
 # nudge (slow 64 $ scale 0 3 $ sine), -- Time is bent (shuffled) for this stem continously
@@ -938,12 +955,12 @@ $ fast 3
 $ n ("0" + (rep (1/47) $ choose [0,2..30] - 9 -6))
 # velocity (slow 63 $ scalex 0.01 0.4 $ sine)
 # nudge (slow 58 $ scale 0 3 $ sine),
-(947<~) -- Set time to begin at yet another point between two infinitites for this stem
+(947<~) 
 $ fast 3.5
 $ n ("0" + (rep (1/36) $ choose [0,5..30] - 12 -6))
 # velocity (slow 62 $ scalex 0.01 0.4 $ sine)
 # nudge (slow 47 $ scale 0 3 $ sine),
-(721<~) -- Set time to begin at still yet another point between two infinitites for this stem
+(721<~) 
 $ fast 2.5
 $ n ("0" + (rep (1/29) $ choose [0,4..30] - 15 -6))
 # velocity (slow 61 $ scalex 0.01 0.4 $ sine)
@@ -954,8 +971,8 @@ $ n ("0" + (rep (1/29) $ choose [0,4..30] - 15 -6))
 cps (1)
 ```
 
-<br>
-<br>
+Below is some SuperCollider code. Comments look like this `//` <br>
+Apart from that, it's the same deal here as above with the comments:
 
 **The intersections of traversals.scd**
 
@@ -970,7 +987,7 @@ MIDIIn.connectAll;
 var degrees = Pstep(Pseq([ 0, 2, 4, 11, 7, 9, 1, 3, 5, 8, 1, 3, 6, 10 ], inf).asStream, 29, inf);
 var currentDegree = 0;
 Pdef(
-    \mflePat,
+    \aPat,
 Pseed(99246, Pbind(
     \type, \midi,
     \midiout, ~midiOut,
@@ -998,12 +1015,6 @@ Pseed(99246, Pbind(
     }),
    \dur, Pseg(Pseq([ 1.5, 3, 1, 6, 0.5, 7, 0.25 ], inf),
    Pseq([ 20, 25, 20, 15, 20, 25, 20 ], inf), \lin),
-		\post, Pfuncn({
-			arg event;
-			"the duration is now %".format(event[\dur].asStringPrec(99)).postln;
-			"the scale is now %".format(event[\dur]).postln;
-			"the degree is now %".format(event[\degree]).postln
-		})
 ))).play(quant: 1);
 CmdPeriod.doOnce {
     // release any hanging notes
@@ -1214,9 +1225,9 @@ in the details. I subscribe to that idea fully.
 
 My first concious choice was that I wrote code in order to make all of the
 pieces. I want to participate in recontextualizing the term Computer Music.
-This term comes from a time where computers where rare and the direction of this
-scarce resource towards the goal of making music even rarer. At the time of this
-writing computers are ubiquitous.
+This term comes from a time where computers where rare and the utilizing of this
+scarce resource towards the goal of making music was even rarer. At the time of
+this writing computers are ubiquitous.
 
 There where three sets. I've been a part of a lot of shows and I have found that
 this format is my preference. Each set was 40 minutes and there were two 20
@@ -1249,7 +1260,7 @@ touch.
 
 More importantly (what could be more important than Sencha?) the sound files I
 created where all Stereo sound files. They were diffused in a larger speaker
-system by Mats Erlandsson. The width of the Stereo files were enhanced and the
+array by Mats Erlandsson. The width of the Stereo files were enhanced and the
 music really came to life and filled the room. Mats tailored the colour (EQ) and
 amplitude of each component piece to the particular responses of the room. The
 sound files were accompanied by projection of the code I used to make the
@@ -1314,17 +1325,17 @@ you. Just make sure it doesn't clip, is the kicker though.
 
 <big>**11. Closure and alignment**</big>
 
-> Nothing is real, everything is permitted.[^syntax] 
+> Nothing is real, everything is permitted.
 >
 
-[^syntax]The source for this is acknowledged by William S. Burroughs himself in
+The source for this is acknowledged by William S. Burroughs himself in
 **Minutes to Go**, p. 61: Nothing is true all is permitted. Last words [of] Hassan
 Sabbah. The Old Man of the Mountain quoted from **The Master of the Assassins** by
 Betty Bouthoul. 
 
 The quote keeps popping up. Later on in a video game called Assassin's Creed.
 Everyone is sampling it. The origin is more blurred by every use of it. It
-especially affects searchability on The Public Internet as the search engine
+especially effects searchability on The Public Internet as the search engine
 (you know which one, the dominant one) is "optimizing" by finding and fanning
 flames into resonances. When a resonance becomes feedback it can be used as a
 signal. True origins get overwritten.
@@ -1341,7 +1352,7 @@ up our own minds about what we prefer. Not much else to it really.
 So the gist of this text is this: During my Master which was 2017 to 2019 I
 changed my way of working with music in a few different ways. Part of it was
 changing out the tools I used. I regard nomenclature as an important first step
-towards transparency.  So here's a quick recap:
+towards transparency. So here's a quick recap of what has changed:
 
 - I went from using TidalCycles to using SuperCollider. <br>
 - From using SuperDirt as my sampler to instead using Kontakt.<br> 
@@ -1390,6 +1401,8 @@ party, trying to blend in, eating hors d'oeuvres and failing to exchange
 pleasantries, sweating profusely, certain of being found out and politely asked
 to leave, any second now. 
 
+Most of all this project was about learning to cope with cognitive dissonance.
+
 I've learned a lot from working on this project. It's been very freeing in a lot
 of ways. I feel like I "got over myself", in at least some respects. It is my
 feeling that I addressed and was able to power through some issues. I spent a
@@ -1401,18 +1414,8 @@ air. It is also my favourite thing to do with the time that I have. Also I
 don't think I'm hurting anyone. So that's what I'm doing. Making the air wiggle
 in a particular way that interests me here in the right now.
 
-Ultimately this project is about learning to cope with cognitive dissonance.
-After I realized that the world had entered into an era of post-truth, I felt
-genuinely lost. It took me a while to get back on my feet and back at it making
-"protest music" like the "good boy" that I know in my heart of hearts I always
-was and always will be.
-
 <br>
-
-[^syntax] I am intentionally using his given birth name in order to deadName him.
-This and other symbolic/ritual acts are a part of this essay in an attempt to
-erase him (at least from searchability if in no other capacity).
-
+<br>
 <br>
 <br>
 
@@ -1681,12 +1684,6 @@ be something new on the way lapses into the morose conviction that nothing new
 can ever happen. The focus shifts from the Next Big Thing to the last big thing
 - how long ago did it happen and just how big was it? 
 
-For most people under twenty in Europe and North America, the lack of
-alternatives to capitalism is no longer even an issue. Capitalism seamlessly
-occupies the horizons of the thinkable. Jameson used to report in horror about
-the ways that capitalism had seeped into the very unconscious; now, the fact
-that capitalism has colonized the dreaming life of the population is so taken
-for granted that it is no longer worthy of comment. 
 
 So long as we believe (in our hearts) that capitalism is bad, we are free to
 continue to participate in capitalist exchange. 
