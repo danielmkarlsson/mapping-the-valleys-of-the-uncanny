@@ -1,5 +1,5 @@
-Hey. You found this. Lemme know if you'd like to hear what this sounds like.  
+Hey. You found this. Find out what this sounds like [here](http://danielmkarlsson.com).
 
-Peace  
+Peace
 
-D  
+D
