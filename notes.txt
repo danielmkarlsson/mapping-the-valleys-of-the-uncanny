@@ -71,11 +71,6 @@ immediately."
 This quote taken from a SpitFire Audio manual for a percussion sample library.
 If you decide to keep this then you should find it.
 
-Richard Feynman quote [where?]:
-
-> Statements of science are not of what is true and what is not true, but
-> statements of what is known with different degrees of certainty.
-
 All that can be heard is real. Only imaginings of sounds are unreal. Sonorities
 yet to heard. There are fictions. Narratives exist. We live alongside our lores.
 There are stories that we tell each other, and that we tell ourselves. Admitting
@@ -325,7 +320,8 @@ LaTeX.
 
 Write the dialog with The beliveing game!!!
 
-Explain the context about live coding and how shows are done at the top of State
-is.
-
 Expand the show info.
+
+The Feynman quote is on page 248 in case you need that.
+
+Put a short line about magical thinking being a cognitive distortion in there.
