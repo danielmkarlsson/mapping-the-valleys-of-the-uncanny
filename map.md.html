@@ -1,13 +1,24 @@
-<style>.md h1, .md .nonumberh1 {page-break-before:always}</style>
+<link rel="stylesheet" href="https://casual-effects.com/markdeep/latest/latex.css?">
 
+<style>.md h1, .md .nonumberh1 {page-break-before:always}
+body { 
+max-width: 640px;
+font-size: 18px !important;
+}
+
+.md a:link, .md a:visited {
+    color: #000; !important;
+    text-decoration: none;
+}
+
+</style>
 <meta charset="utf-8">
 
 <center> <big> **Mapping The Valleys of The Uncanny** </big> </center> 
 
-
 <center> An investigation into a process and method, colliding with
     questions relating to what can be known to be real, within the field of
-    algorithmic composition </center>
+    algorithmic composition. </center>
 
 <br>
 
@@ -21,13 +32,7 @@ Or if you prefer:
 
 <div class="dmk-player" data-playlist="mapping-the-valleys-of-the-uncanny/mapping-the-valleys-of-the-uncanny.json"></div>
 
-
-
-<br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br>
-
-[Click here](http://danielmkarlsson.com/map.md.html?noformat)
+<a href="http://danielmkarlsson.com/map.md.html?noformat" target="_blank">Click here</a>
 to see this document without automatic formatting.
 
 This thesis is accompanied by a number of files containing code, video and
@@ -1505,6 +1510,8 @@ started to sound like shit to me. It was very frustrating and I had to delete a
 bunch of music because I felt it was posturing, and utterly lost in the
 intoxication of constructivist beauty.
 
+<br>
+
 \pagebreak
 
 <big>**07. Closure and alignment**</big>
@@ -1684,6 +1691,8 @@ Thank you for reading. That is all.
 <br>
 <br>
 
+\pagebreak
+
 Below here are some materials I have gathered in an attempt to make things
 easier for the kind of person who is curious about sources. Here's the thing
 about the internet: It's fickle and frail. "Bit rot" is an ever increasing
@@ -1794,7 +1803,9 @@ prefer that you view them.
 
 [^Elbow]: [Peter Elbow - The Believing Game--Methodological Believing](http://www.tiny.cc/sctb5y)
 
-<style class="fallback">body{visibility:hidden;white-space:pre;font-family:monospace}</style><script src="markdeep.min.js" charset="utf-8"></script><script src="https://casual-effects.com/markdeep/latest/markdeep.min.js" charset="utf-8"></script><script>window.alreadyProcessedMarkdeep||(document.body.style.visibility="visible")</script>
+\pagebreak
+
+<style class="fallback">body{visibility:hidden;white-space:pre;font-family:monospace}</style><script src="https://casual-effects.com/markdeep/latest/markdeep.min.js" charset="utf-8"></script><script>window.alreadyProcessedMarkdeep||(document.body.style.visibility="visible")</script>
 
 <link href="player/dmk-player.css" rel="stylesheet">
 <script type="text/javascript" src="player/dmk-player.js"></script>
@@ -1806,7 +1817,7 @@ const players = Array.from(elements).map(el => {
     const playlist = el.dataset.playlist;
     const isVideo = !!el.dataset.isVideo;
     const layout = {
-      title: true,
+      title: false,
       elapsedTime: false,
     };
     const options = {
