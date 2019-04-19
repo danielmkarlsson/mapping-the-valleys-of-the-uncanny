@@ -1,9 +1,42 @@
-<link rel="stylesheet" href="https://casual-effects.com/markdeep/latest/latex.css?">
+<script type="text/javascript" src="player/dmk-player.js"></script>
+<script>
+const elements = document.getElementsByClassName('dmk-player');
+const players = Array.from(elements).map(el => {
+  if (el.dataset) {
+    const rootUrl = window.location.origin;
+    const playlist = el.dataset.playlist;
+    const isVideo = !!el.dataset.isVideo;
+    const layout = {
+      title: true,
+      elapsedTime: false,
+    };
+    const options = {
+      playlist,
+      isVideo,
+      rootUrl,
+    };
+    return new DMKPlayer(el, options, layout);
+  }
+});
+
+players.forEach((player, index) => {
+  player.index = index;
+  player.on('play', () => {
+    players.forEach(p => {
+      if (p.index !== player.index && p.isPlaying) {
+	p.stop();
+      }
+    });
+  });
+});
+</script>
+
+<linv rel="stylesheet" href="https://casual-effects.com/markdeep/latest/latex.css?">
 
 <style>.md h1, .md .nonumberh1 {page-break-before:always}
 body { 
 max-width: 640px;
-font-size: 18px !important;
+font-size: 16px !important;
 }
 
 .md a:link, .md a:visited {
@@ -32,30 +65,32 @@ Or if you prefer:
 
 <div class="dmk-player" data-playlist="mapping-the-valleys-of-the-uncanny/mapping-the-valleys-of-the-uncanny.json"></div>
 
+<br>
+
 <a href="http://danielmkarlsson.com/map.md.html?noformat" target="_blank">Click here</a>
 to see this document without automatic formatting.
 
 This thesis is accompanied by a number of files containing code, video and
-audio. If you are reading this in printed form and you do not have these files
-available to you, then you can find them through my website:
+audio. If you are reading this and you do not have these files
+available to you, then you can find them through this 
+<a href="http://danielmkarlsson.com/map-min-mid-max.md.html"target="_blank">link</a>.
 
-[www.danielmkarlsson.com/map.zip](map.zip)
-
-These materials are all free to imbibe under [GPLv3](https://www.gnu.org/licenses/gpl-3.0.txt). 
+These materials, which I created for the Master degree in Electroacoustic
+Composition at KMH in Stockholm, Sweden, are all free to imbibe under
+[GPLv3](https://www.gnu.org/licenses/gpl-3.0.txt). 
 
 I hope you find them useful.
 
 Daniel M Karlsson
 
-<br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br>
+<br>
 
 \pagebreak
 
 <big>**Table of Contents**</big>
 
 **01. Establishing a baseline** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; An investigation ensues <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Public Service Announcement <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; We are free <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Who is speaking? <br>
@@ -64,6 +99,7 @@ Daniel M Karlsson
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The Cyber is huge <br>
 
 **02. On uncanniness** <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The meanings of words <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; An unexpected impact on choices <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fundamental differences <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The notion of the real<br>
@@ -94,6 +130,7 @@ Daniel M Karlsson
 
 **07. Closure and alignment** <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My Last Rodeo <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A word or two about links <br>
 
 <br>
 
@@ -101,13 +138,15 @@ Daniel M Karlsson
 
 <big>**01. Establishing a baseline**</big>    
 
-Let's start simple. I like simple. In this text I am going to be citing other
-texts. I am citing other texts partly because I think that it is a thing that
+**An investigation ensues**
+
+Let's start simple. I like simple. In this text I'm going to be citing other
+texts. I'm citing other texts partly because I think that it is a thing that
 people do when they write master theses. The other part of why I'm citing other
-texts is because it reminds me of sampling. I am interested in sampling. We'll
+texts is because it reminds me of sampling. I'm interested in sampling. We'll
 get to why I think sampling and subsequently citing other texts in this thesis
 is interesting but for now it's important to me that you know why I cite. I do
-it because in my mind I am actually playing back a sample. It's a sample
+it because in my mind I'm actually playing back a sample. It's a sample
 containing text instead of sound. You are now ready to receive my first citation.
 
 Steve Martin wrote the script for _LA Story_ and in that film he also plays the
@@ -116,7 +155,7 @@ main character Harris K. Telemacher who addresses his unrequited love this way:
 > All I'm saying is that, when I'm around you, I find myself showing off, which
 > is the idiot's version of being interesting.[^Martin]
 
-When I am citing other texts I am not doing it to try to impress you. I am not
+When I am citing other texts I'm not doing it to try to impress you. I'm not
 saying that I think anyone else's way of doing this is bad or anything. All I'm
 saying is that, when I'm writing this, I find myself performing and, in that
 performing, relating to ideas I have about other people's expectations. Long
@@ -159,23 +198,22 @@ I should state that I'm not attempting to put forth rigorous proof of anything.
 An example of an open problem requiring rigorous proof would be something like
 "Can there be a logical solution to the creation of benevolent General
 Artificial Intelligence under provably safe conditions?" That would be a
-Computer Science paper. This text, although not directly engaged in the
-prodction of scientific knowlege, does however aim to be of _use_. More on
-utility later. That would probably happen on a Doctoral level (or above even?).
-This is not that. This is artistic research and as such a single collapsing of a
-wavefront within a form of expression which is not yet fully formed and still
-coming into being. There is quite a bit of wiggle room here and I intend to make
-ample use of it because, as we'll come back to, freedoms and liberties interest
-me. 
+Computer Science paper. That would probably happen on a Doctoral level (or above
+even?). This is not that. This text, although not directly engaged in the
+prodction of scientific knowlege, does however aim to be of use. More on utility
+later. This is artistic research and as such a single collapsing of a wavefront
+within a form of expression which is not yet fully formed, and still coming into
+being. There is quite a bit of wiggle room here and I intend to make ample use
+of it because, as we'll come back to, freedoms and liberties interest me. 
 
 I've been a composer for a while now. I've been involved with music in a lot of
 different ways through the course of getting to where I'm at now, in this
 moment, that has me writing this text. There have been different frameworks at
 different times and those different frameworks have all come bundled with their
-own distinct set of different limitations. This kind of thing is always difficult to take
-apart but I think that, at least sometimes, those limitations have inspired me.
-They definitely effected the way my music sounded, that much I can tell you is
-for sure. 
+own distinct set of different limitations. This kind of thing is always
+difficult to take apart but I think that, at least sometimes, those limitations
+have inspired me. They definitely effected the way my music sounded, that much
+I can tell you is for sure. 
 
 One way that I like to think about these frameworks is with the word _project_.
 Learning to play the guitar was a project. Learning to record myself playing the
@@ -198,19 +236,19 @@ how to make it.
 **We are free**
 
 Let's move on to what we are afforded from following the line of thinking that
-we are free from the shackles of the finite and of the physical world. Sound now
+we are free from the shackles of the finite, and of the physical world. Sound now
 enjoys morphological freedom through a myriad of transformations. It is
 malleable to the utmost degree. We have at our disposal an astounding plethora
 of tools through which to manipulate and organise sound. 
 
 This thesis project is a collection of musical materials that explore the idea
 of the uncanny valley as it relates to music being real, fake or some strange
-combination of the two. This thesis project is primarily one in which I produce sound
-files. In a secondary capacity I am also producing a text file.
+combination of the two. This thesis project is primarily one in which I produce
+sound files. In a secondary capacity I am also producing a text file.
 
 In this text I aim to present some of my thoughts on how my work writing code
 and making music might be connected in some hopefully interesting ways to my
-field. I am unlikely to be able to adequately convey my own origin myth.
+field. I'm unlikely to be able to adequately convey my own origin myth.
 Instead I'll focus on stories I've been told about music, throughout my life,
 inside and outside of academia. I have a strong suspicion that these stories
 have shaped my coming into being as a composer. However difficult the task of
@@ -236,7 +274,7 @@ What particular kind of person would I like to be? A Composer with a capital C!
 > together disparate elements that end up seeming inherently related. They must
 > make events seem to lead to one another. In addition, they must have satisfying
 > endings - not happy endings, necessarily, but endings that provide resolution
-> while leaving enough ambiguity to enliven listeners imaginations.[^Even]
+> while leaving enough ambiguity to enliven listeners imaginations.[^Ervine]
 
 This is how I think about this thesis project. I am doing just that drawing
 together of disparate elements. Just like in a lot of music that is out there,
@@ -245,24 +283,23 @@ common trait of many musics that have been made is that they exist as a linear
 experience. They are a form of artistic expression which exists within the time
 domain. Compare music to sculpture. While this perhaps is not an entirely water
 tight example I use it here because I use it all of the time, as anyone who
-knows me can attest. I am guessing that it's important that I use it here in
+knows me can attest. I'm guessing that it's important that I use it here in
 order to maintain consistency. You get the idea.
 
 > Good stories - stories that work - offer a reality that is, to use the words of
 > a U2 song, even better than the real thing. For listeners, stories make
 > experiences possible that would, in real life, be impractical, dangerous,
-> time-consuming, costly, or otherwise impossible.[^Even]
+> time-consuming, costly, or otherwise impossible.[^Ervine]
 
-I define the criteria for what a good story as the following: A story
-that I can remember and recount at a later time. Someone has told me a story and
-I either like the story, or the person that told it to me, or both. I connect
-the story to the person in my mind to varying degrees. Sometimes I end up
-convinced that a particular person telling a particular story, at a particular
-time, says something about what kind of person that person is, and other times
-not. I think about all of the people that I have met coming up through music as
-one person; Me. I was there every time someone told me a story. Those stories
-undoubtedly came to shape the way I think about music and about organising
-sound.
+I define the criteria for a good story as the following: A story that I can
+remember and recount at a later time. Someone has told me a story and I either
+like the story, or the person that told it to me, or both. I connect the story
+to the person in my mind to varying degrees. Sometimes I end up convinced that a
+particular person telling a particular story, at a particular time, says
+something about what kind of person that person is, and other times not. I think
+about all of the people that I have met coming up through music as one person;
+Me. I was there every time someone told me a story. Those stories undoubtedly
+came to shape the way I think about music and about organising sound.
 
 > When told well, stories offer a vicarious experience that is satisfying in ways
 > that the actual experience would not or could not be. In much the same way, the
@@ -271,11 +308,11 @@ sound.
 > so raw as to offer no practical guidance for behaviour. But the self-storyteller
 > uses a set of narrative techniques that yield a product that is better than
 > authentic. As a story, the self can be convincing, coherent, and have a
-> satisfying ending.[^Even]
+> satisfying ending.[^Ervine]
 
 How to tell a story well is subjective or at least a matter of taste. I think
 about functionality as a guide for constructing the story of the self. How
-functional is it to include in the story a particular aspect with regards our
+functional is it to include in the story a particular aspect with regards to our
 intended outcome? The intended outcome here is to arrive at a story which is
 accessible and comprehensible. We want to understand each other. We are looking
 for cues so that we can make better guesses about future behaviour. We are
@@ -290,7 +327,8 @@ might work with how you view the world, maybe.
 > progress and subject to change. It is the unique capacity of human beings to
 > meet both sets of requirements - to tell good stories that can also accommodate
 > uncertainty - and it is the power of institutions that allows them to do so. By
-> institutions, I mean patterns of activities organised around a common goal.[^Even]
+> institutions, I mean patterns of activities organised around a common
+goal.[^Ervine]
 
 **Why should we listen?**
 
@@ -306,7 +344,7 @@ be part of a Community.
 
 I've thought a lot about how to set myself up so that I become increasingly
 unlikely to get bored. Cutting myself off from people increases the risk of
-getting bored. Sharing my tools increases the likeliness of contact and/or
+getting bored. Sharing my tools increases the likeliness of contact and or
 stimulating communication with other people.
 
 In this text I don't just want to talk _at_ people about my internal state. I
@@ -330,10 +368,10 @@ contradicted by themselves as all of the things[^things] are fundamentally
 different from each other. For example it doesn't work to say that gravity is
 kind of like a rubber band pulling you back to the earth when you jump up. This
 falls apart because the rubber band is also subjected to gravity within that
-analogy.  When analogy is used to describe domains that we kind of "know" are at
-least a little fuzzy and or subjective like emotions and ways of thinking
-poetically about the world then I think that can be understood as something akin
-to a shorthand and receives a passing grade. Now, with all that in mind, here
+analogy. When analogy is used to describe domains that we kind of "know" are at
+least a little fuzzy, and or subjective, like emotions and ways of thinking
+poetically about the world, then I think that can be understood as something akin
+to a shorthand, and receives a passing grade. Now, with all that in mind, here
 comes an analogy: Certain sonorities always made me feel like I was on the
 outside of a locked door. Which sonorities I am refering to here is largely
 exemplified in the music I made for this thesis project. You really should start
@@ -347,17 +385,18 @@ MIT guide to Lock Picking:
 > easier to bypass some other part of the door or even avoid the door entirely.
 > Remember: There is always another way, usually a better one.[^MIT]
 
-Having picked the lock or otherwise bypassing it (perhaps metaphysically walking
-through walls) I find myself inside of this most coveted room. Inside the room
-are a bunch of fancy instruments that can be computer controlled. It is an
-amazing room and I am very happy that I can enter into it whenever I want and
-spend as much time there as I like. No one ever comes into the room to say:
+Having picked the lock, or otherwise bypassing it (perhaps metaphysically
+walking through walls) I find myself inside of this most coveted room. Inside
+the room are an abundance of expensive instruments that can be computer
+controlled. It is an amazing room, and I am very happy that I can enter into it
+whenever I want, and spend as much time there as I like. No one ever comes into
+the room to say:
 
 "Who the hell are you? You can't be in here touching these ~~instruments~~
-priceless museum pieces!  _Security!!_"
+priceless museum pieces! _Security!!_"
 
-I am in a safe space now and that feels good. The thing that feels even better
-is that I got in by thinking about how I could gain access using the tools
+I'm in a safe space now, and that feels good. The thing that feels even better
+is that I got in, by thinking about how I could gain access, using the tools
 available to me. Boom! I fixed my problem. I don't have a problem anymore. I
 should be happy now right? Nope. That's not how this works. I find struggle
 wherever I go. I keep going. Trying new things.
@@ -531,15 +570,15 @@ though, now that would really be something different all together!
 Brass tax nomenclature for increasing our freedoms relating to publishing our
 work:
 
-- Self published web sites
-- RSS
-- Email (lists)
+• Self published web sites <br>
+• RSS <br>
+• Email (lists) <br>
 
 These three apply to everyone. The last one below is most important to music makers
 in general and myself in particular because I didn't have access to this
 technology prior to this thesis project:
 
-- A decent media player
+• A decent media player <br>
 
 When I say decent I mean that the audio quality needs to be decent (320kbs
 constant bit rate for audio and video). I also mean that artists should be in
@@ -560,19 +599,20 @@ the Piratebay trial, Peter Sunde explained in his testimony:
 
 <big>**02. On uncanniness**</big>
 
-It can mean a lot of different things. 
+**The meanings of words**
 
-Let's have a look in a dictionary[^Dictionary] just to get a broad sense of our bearings:
+Let's have a look in a dictionary[^Dictionary] just to get a broad sense of our
+bearings here:
 
-- Having or seeming to have a supernatural or inexplicable basis.  
-- Beyond the ordinary or normal.  
-- Extraordinary. 
+• Having or seeming to have a supernatural or inexplicable basis. <br>  
+• Beyond the ordinary or normal. <br>  
+• Extraordinary. <br>
 
 "Uncanny accuracy; An uncanny knack of foreseeing trouble."
 
-- Mysterious.  
-- Arousing superstitious fear or dread.  
-- Uncomfortably strange.  
+• Mysterious. <br> 
+• Arousing superstitious fear or dread. <br> 
+• Uncomfortably strange. <br> 
 
 "Uncanny sounds filled the house."    
 
@@ -639,7 +679,7 @@ endlessly and to make anything we want. Any structure or intricate web of
 references. Absolutely free.  Steve Martin wrote about this sense of freedom in
 _LA Story_:
 
-> ... no one is looking to the outside for verification that what they're doing
+> No one is looking to the outside for verification that what they're doing
 > is ok.[^LAstory]
 
 **Fundamental differences**
@@ -734,13 +774,13 @@ In the lead up to Zizek's great reveal of The Real Real there is the telling of
 the story in which Rumsfeld lists what they knew at the time just before the war
 on Iraq:
 
-- The known knows
-- The known unknowns
-- The unknown unknowns
+• The known knows <br>
+• The known unknowns <br>
+• The unknown unknowns <br>
 
 Zizek adds a fourth category to Rumsfeld's list: 
 
-- Unknown knowns
+• Unknown knowns
 
 > We know them, they are part of our identity, they determine our activity, but we don't
 > know that we know them! This is what, in psychoanalysis, of course, is called
@@ -757,6 +797,8 @@ humans. _We_ are the one's writing the algorithms. These are _our_ biases. We
 bring them with us into everything we do. Even into the act of listening to
 music. This is part of why I was drawn to exemplifying, or possibly even teasing
 out these biases, or unknown knows, in the music I made in this thesis project.
+
+\pagebreak
 
 **The Lacanian Triad is so eerie**
 
@@ -787,10 +829,10 @@ just as I have been forever doomed to find Baudrillard's four categories from
 _Simulation and Simulacra_, in every aspect of your life from now until
 eternity:
 
-- Faithful copy
-- Mask
-- Illusion
-- Pure simulacrum
+• Faithful copy <br>
+• Mask <br>
+• Illusion <br>
+• Pure simulacrum <br>
 
 No, but seriously though, Corey Mohler asks:
 
@@ -807,12 +849,19 @@ but better yet, to change the _enactment_ of the real. This enactment then
 emanates outward, spreading like wildfire, approaching the point of critical
 mass that is the wildly unruly expression of culture. 
 
-You simply must see Emma Robinson's amazing video depicting a cover of Rihanna's
-Stay using only her voice and a piano. Expert mimicry of Auto-Tune artifacts
-using glottal stops and precise intonation inflections at on a dime speeds. Most
-exquisite precision!
+If your ears are not occupied listening to the music I made for this thesis
+project, then you simply must see Emma Robinson's amazing video depicting a
+cover of Rihanna's [Stay](http://www.tiny.cc/29jd5y), using only her voice and a
+piano. Expert mimicry of Auto-Tune artifacts using glottal stops and precise
+intonation inflections at on-a-dime speeds. 
 
-[Stay - Rihanna (Cover)](https://www.youtube.com/watch?v=CXypB4tOlOc) <br> 
+My fascination for this material mirrors the kind of fascination representatives
+of american cultural imperialism feel when they hear their distinctly
+hyperRealised echo emanating from, for example, Japan. Mimicry is the sincerest
+form of flattery, albeit at times eerie or even uncanny when witnessed. This
+human being's efforts are directed at an object. I bet it took ten thousand hours
+to perfect. The result is a most _exquisite_ mimicry, of which the receiver, an
+entirely inanimate machine, is unaware.
 
 <br>
 
@@ -825,8 +874,8 @@ If the tape recorder was hyperReal then the MPC would be hyperHyperReal
 infinitely hyperRealised in comparison to the original origin myth.  
 
 But we can't just run around slapping on an ever increasing number of post and
-hyper to words all willy-nilly now can we? That would be ridiculous. Let's check in
-with Mark Fisher in _Capitalist Realism_:
+hyper to words all willy-nilly now can we? That would be ridiculous. Let's check
+in with Mark Fisher in _Capitalist Realism_:
 
 > Postmodernism remains a hugely contested term, its meanings, appropriately but
 > unhelpfully, unsettled and multiple.[^Fisher]
@@ -994,7 +1043,7 @@ Mark Fisher had this to say in _Capitalist Realism_:
 
 If you don't feel comfortable reading the code below then please: <br> 
 
-**Read the part to the right past the `--` and then look at the code.** <br> 
+Read the part to the right past the `--` and then look at the code. <br> 
 
 These are my comments. I made them just for you. I'd love it if you read them
 and then write me an email letting me know what you thought of my comments. We
@@ -1003,37 +1052,7 @@ them. I would love that.
 
 **Three interpretations.tidal**
 
-```
-m1 -- The stream holds time together
-$ stack[ -- The stack holds a potentially infinite amount of stems
-(839<~) -- Set time to begin at a certain point between two infinitites for this stem
-$ fast 4 -- Quadrule the speed at which time passes for this stem
-$ n ("0" + (rep (1/58) $ choose [0,3..30] - 6 -6)) -- The pitch aggregate for this stem
-# velocity (slow 64 $ scalex 0.01 0.4 $ sine) -- This stem fades in and out over 64 cycles
-# nudge (slow 64 $ scale 0 3 $ sine), -- Time is bent (shuffled) for this stem continously
-(678<~) -- Set time to begin at another point between two infinitites for this stem
-$ fast 3
-$ n ("0" + (rep (1/47) $ choose [0,2..30] - 9 -6))
-# velocity (slow 63 $ scalex 0.01 0.4 $ sine)
-# nudge (slow 58 $ scale 0 3 $ sine),
-(947<~) 
-$ fast 3.5
-$ n ("0" + (rep (1/36) $ choose [0,5..30] - 12 -6))
-# velocity (slow 62 $ scalex 0.01 0.4 $ sine)
-# nudge (slow 47 $ scale 0 3 $ sine),
-(721<~) 
-$ fast 2.5
-$ n ("0" + (rep (1/29) $ choose [0,4..30] - 15 -6))
-# velocity (slow 61 $ scalex 0.01 0.4 $ sine)
-# nudge (slow 47 $ scale 0 3 $ sine)
-] -- The stack ends here
-# cc64 1 -- This ensures that all sounds are sustained for all stems
-
-cps (1)
-```
-
-Below is some SuperCollider code. Comments look like this `//` <br>
-Apart from that, it's the same deal here as above with the comments:
+![](threeInterpretations.png)
 
 **The intersections of traversals.scd**
 
@@ -1130,8 +1149,19 @@ Game--Methodological Believing_:
 > irreverence of "game". Yet now as I write this essay,
 > "methodological" seems central.[^Elbow] 
 
+I also struggle tremendously with tone in language all of the time. The _way_ I
+say something begins with the choice of which words to use. The effect of these
+choices lead to inclusions and exclusions of different kinds of folks. I suppose
+in some ways this text attempts to straddle the two hemisperes (The
+Academic and... the other one). If it reads anywhere near as conflicted about
+the matter as I feel as I write this, then maybe that is "showing by doing". I
+really don't know.
+
 > I can define the believing game most easily and clearly by contrasting it with
 > the doubting game. Indeed, the believing game derives from the doubting game.[^Elbow]
+
+I love comparisons. They're great. If you set them up just right, they can be
+_very_ convincing.
 
 > The _doubting game_ represents the kind of thinking most widely honored and taught
 > in our culture. It's sometimes called "critical thinking". It's the
@@ -1140,6 +1170,9 @@ Game--Methodological Believing_:
 > contradictions, bad reasoning, or other weaknesses in them--especially in the
 > case of ideas that seem true or attractive. We are using doubting as a tool in
 > order to scrutinize and test.[^Elbow] 
+
+I am all for running experiments and putting the results we get under a
+microscope.
 
 > In contrast, the _believing game_ is the disciplined practice of trying to be as
 > welcoming or accepting as possible to every idea we encounter: not just
@@ -1153,14 +1186,26 @@ Game--Methodological Believing_:
 > assumptions and beliefs--or if it seems alien, dangerous, or poorly
 > formulated---we often cannot see any merit in it.[^Elbow] 
 
+I am aware that my bouncing around getting all creative with the "form" of this
+text puts me at risk of failure to complete my duties towards academia. Fingers
+crossed I guess.
+
 > As the rhetoric of experience, the believing game [teaches us] to try to
 > understand points of view from the inside. Words can help us here, but the kind
 > of words that help most tend to be imaginative, metaphorical, narrative,
 > personal, even poetic.[^Elbow]
 
+The poetic wavelength fascinates me. The lived experience often does not lend
+itself very well to explaining. Phenomenon arise and recede. We are mildly aware
+only to an extent. Experiences ever mounting, upwards and outwards, constructing
+the self, seemingly without our concious involvement. Life, happening, while we
+are busying ourselves, constructing thoughtful analyses.
+
 > Because of the dominance of critical thinking, especially in the academy,
 > academics and students tend to feel that the best way to show they are smart is
 > by pointing out flaws in the views of others.[^Elbow]
+
+Oh hey, here's that "idiot's version of being interesting" thing from before.
 
 > ... because of our current model of what good thinking looks like, most of us lack
 > the lens or the language to see their ability--to dwell genuinely in ideas alien
@@ -1172,9 +1217,16 @@ Game--Methodological Believing_:
 > rather than an intellectual skill. And because our intellectual model is flawed
 > in these ways, we don't _teach_ this ability to enter into alien ideas.[^Elbow] 
 
+Thinking about the _way_ that we think is difficult, but necessary. It might
+even be harder to get clear about than what words to use. That would be a
+difficult comparison. Let's compare two kinds of narratives, or lenses, instead.
+A historic account, like an origin myth, and a Grand Vision of The Future. It
+has always been my strong conviction that the former constricts ways of thinking
+about the future, and that the latter _expands_ it.
+
 **Oram's New Atlantis** 
 
-I keep coming back this passage from Francis Bacon's _The New Atlantis_ which was
+I keep coming back to this passage from Francis Bacon's _The New Atlantis_ which was
 first published in 1623:
 
 > We have also sound-houses, where we practise and demonstrate all sounds, and
@@ -1193,7 +1245,7 @@ first published in 1623:
 > trunks and pipes, in strange lines and distances.[^Bacon]
 
 That's some story. Actually, for me it's a story wrapped in another story.
-Daphne Oram put that quote on the wall at The BBC Radiophonic Workshop and
+Daphne Oram put that quote on a door at The BBC Radiophonic Workshop and
 _that's_ the story I've been told.
 
 Mark Fisher writes in _Capitalist Realism_:
@@ -1202,6 +1254,26 @@ Mark Fisher writes in _Capitalist Realism_:
 > Radiophonic Workshop, which embedded sonic experimentalism into everyday life.
 > Such innovations are unthinkable now that the public has been displaced by the
 > consumer.[^Fisher]
+
+I remember hearing Oram dream about The Oramics Machine in a radio program
+Produced by Ian Chambers for TX BBC Radio 3. It was broadcasted on Sunday the
+3rd of August, 2008. The broadcast celebrated the 50th anniversary of the
+creation of the BBC Radiophonic Workshop.  
+
+> I have a new technique ... one that I've evolved over the years, and it's still
+> evolving ... I'm interested in being able to manipulate sound. To give every
+> subtle nuance that I want ... I am finding that what one has to do is to pick
+> out each parameter separately ...I believe my father said that when I was seven
+> years old I was predicting that one day I would have a marvelous new machine
+> that would make any sound I wanted.[^Oram]
+
+I feel tremendous gratitude that I possess consciousness at a point in time, and
+a place in the world, where The General Purpose Computer is not only a reality
+but readily available in veritable abundance. A friend of mine found a working
+laptop in a tech-trash room four years ago and is still using it to make music
+at the time of writing. If you can, then how about you take five minutes right
+now to see if you can rescue something that has been thrown away. It's a very
+empowering feeling.
 
 **Rooms are resonant bodies**
 
@@ -1439,40 +1511,7 @@ when fawning over science in _The Pleasure of Finding Things Out_:
 
 **Set lists**
 
-```
-Set I:
-01 Fundamental phenomenon               (Woodblock)              01 min 00 sec
-02 An investigation ensues              (Thesis excerpt)         00 min 23 sec
-03 Exploratory narratives               (Bowed glass Bowl)       04 min 13 sec
-04 Why I cite                           (Thesis excerpt)         00 min 54 sec
-05 Heights of abstraction               (Hang drum)              03 min 32 sec
-06 Uncharted territory                  (Thesis excerpt)         01 min 32 sec
-07 Interaction dynamics                 (Clarinet)               03 min 37 sec
-06 Preferences exist                    (Thesis excerpt)         01 min 32 sec
-08 Finite resources                     (Gong)                   01 min 31 sec
-09 Rigorous proof                       (Thesis excerpt)         01 min 41 sec
-10 Artificial scarcity                  (Cristal Baschet)        03 min 34 sec
-11 We are free                          (Thesis excerpt)         02 min 06 sec
-12 Established beliefs                  (Bazantar)               05 min 26 sec
-13 Having a self                        (Thesis excerpt)         01 min 10 sec
-14 Recognizing patterns                 (Metallophone)           04 min 28 sec
-15 Requirements                         (Thesis excerpt)         00 min 27 sec
-16 Abundance                            (Contrabass)             15 min 28 sec
-
-Set II:
-01 Beyond the pleasure principle        (Ensemble)               05 min 04 sec
-02 Thesis excerpt                                                00 min 15 sec
-03 A faint sound in an adjacent room    (Ensemble)               14 min 32 sec
-04 Thesis excerpt                                                00 min 33 sec
-05 Three interpretations                (Ensemble)               09 min 03 sec
-06 Thesis excerpt                                                00 min 33 sec
-07 The old world is lost (reprise)      (Ensemble)               05 min 04 sec
-08 Thesis excerpt                                                00 min 55 sec
-
-Set III
-01 Intersections of traversals          (Orchestra)              40 min 00 sec
-
-```
+![](setLists.png)
 
 **Briefly on the subject of recording sound**
 
@@ -1549,15 +1588,15 @@ changing some of the tools I use. New tools, new capabilites, new _freedoms_. I
 regard nomenclature as an important first step towards transparency. So here's a
 quick recap of what has changed:
 
-- I went from using TidalCycles to using SuperCollider as the language. <br>
-- From using SuperDirt as my sampler to instead using Kontakt.<br> 
-- From using AudioMulch to using Reaper for real time post production.<br> 
+I went from using TidalCycles to using SuperCollider as the language. From
+using SuperDirt as my sampler to instead using Kontakt. From using AudioMulch
+to using Reaper for real time post production.
 
 So some of the names of the tools changed but the functionality broadly speaking
 stayed the same. The modus operandi is still:
 
-- Write code, that triggers samples.
-- Then, apply effects in some kind of DAW-like environment.
+Write code, that triggers samples. Then, apply effects in some kind of DAW-like
+environment.
 
 This is what I do, in order to express my musical ideas. Why should I express my
 musical ideas? Because I want to, and because I can. The possibility exists and
@@ -1654,44 +1693,10 @@ Thank you for reading. That is all.
 \pagebreak
 
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 
 \pagebreak
+
+**A word or two about links**
 
 Below here are some materials I have gathered in an attempt to make things
 easier for the kind of person who is curious about sources. Here's the thing
@@ -1722,36 +1727,38 @@ death](https://www.youtube.com/watch?v=4_aOIA-vyBo) of the universe. I think
 > 
 
 There are other links below. I've done these on a case by case basis where the
-goal has been to keep you safe and shielded from commercial forces in general
+goal has been to keep you safe and shielded, from commercial forces in general,
 and sites that track you in particular. For example, in the instances where I
 have linked to birdSite I have made use of a tool called
 [textise.net](https://www.textise.net/) which transforms any web page into
 exclusively text. A .txt file can not track you and algorithmically tailor ads
 to sell you things you don't need. If you have ever visited birdSite the
-textised version might look a little weird at first but, you get used to it. Most
-importantly, the text that I have quoted is preserved there, in a way that is
-harmless to you. As an added bonus it is significantly less data-intensive and no
-longer a dopamine-fueled candy-land of bright colours and blinking lights
-devouring your soul when you are at your most weak.
+textised version might look a little weird at first but, you get used to it.
+Most importantly, the text that I have quoted is preserved there, in a way that
+is harmless to you. As an added bonus it is significantly less data-intensive,
+and no longer a dopamine-fueled candy-land of bright colours and blinking lights
+devouring your soul at the very moment when you are at your weakest.
 
 At the time of writing I am still researching a way to _perfectly_ implement
 Richard Stallman's vision of all users right to filter their experience on the
-internet. I'll walk you through what I have put together so far.
+internet. Let me walk you through what I have put together so far.
 
 [Brave](https://brave.com/) is an open source browser that is an ok option right
 out of the box for filtering, or put another way, customizing our experience on
 the internet.
 
 Brave allows you to use an extension called 
-[uBlock origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en),
+[uBlock origin](http://www.tiny.cc/qnhd5y),
 which is designed to protect you from ads.
 
 uBlock origin allows you to use a custom list of elements contained within web
 pages to block.
 
-You can download the custom list that I have prepared for you [here](uBlockList.txt).
-This list makes it possible for you to view these sources the way that I would
-prefer that you view them.
+You can download the custom list that I have prepared for you
+[here](uBlockList.txt). This list makes it possible for you to view these
+sources the way that I would prefer that you view them. Let me be the first to
+admit that this approach is experimental. While it might not suit _everyone_, I
+do however like to think that it clearly shows intent, and direction going forward.
 
 \pagebreak
 
@@ -1762,6 +1769,8 @@ prefer that you view them.
 [^Marx]: [Karl Marx - Thesis on Feuerbach](https://www.tiny.cc/war44y)
 
 [^Ervine]: [Leslie Ervine - Even Better Than the Real Thing](https://www.tiny.cc/40q44y)
+
+[^Things]: [All of things search](https://www.tiny.cc/h7sd5y)
 
 [^MIT]: [MIT guide to Lock Picking](https://www.tiny.cc/fyr44y)
 
@@ -1803,41 +1812,8 @@ prefer that you view them.
 
 [^Elbow]: [Peter Elbow - The Believing Game--Methodological Believing](http://www.tiny.cc/sctb5y)
 
+[^Oram]: [Daphne Oram - Wee Have Also Sound-Houses](https://www.tiny.cc/i8pd5y)
+
 \pagebreak
 
 <style class="fallback">body{visibility:hidden;white-space:pre;font-family:monospace}</style><script src="https://casual-effects.com/markdeep/latest/markdeep.min.js" charset="utf-8"></script><script>window.alreadyProcessedMarkdeep||(document.body.style.visibility="visible")</script>
-
-<link href="player/dmk-player.css" rel="stylesheet">
-<script type="text/javascript" src="player/dmk-player.js"></script>
-<script>
-const elements = document.getElementsByClassName('dmk-player');
-const players = Array.from(elements).map(el => {
-  if (el.dataset) {
-    const rootUrl = window.location.origin;
-    const playlist = el.dataset.playlist;
-    const isVideo = !!el.dataset.isVideo;
-    const layout = {
-      title: false,
-      elapsedTime: false,
-    };
-    const options = {
-      playlist,
-      isVideo,
-      rootUrl,
-    };
-    return new DMKPlayer(el, options, layout);
-  }
-});
-
-players.forEach((player, index) => {
-  player.index = index;
-  player.on('play', () => {
-    players.forEach(p => {
-      if (p.index !== player.index && p.isPlaying) {
-	p.stop();
-      }
-    });
-  });
-});
-</script>
-
