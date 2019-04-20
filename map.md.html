@@ -1,36 +1,3 @@
-<script type="text/javascript" src="player/dmk-player.js"></script>
-<script>
-const elements = document.getElementsByClassName('dmk-player');
-const players = Array.from(elements).map(el => {
-  if (el.dataset) {
-    const rootUrl = window.location.origin;
-    const playlist = el.dataset.playlist;
-    const isVideo = !!el.dataset.isVideo;
-    const layout = {
-      title: true,
-      elapsedTime: false,
-    };
-    const options = {
-      playlist,
-      isVideo,
-      rootUrl,
-    };
-    return new DMKPlayer(el, options, layout);
-  }
-});
-
-players.forEach((player, index) => {
-  player.index = index;
-  player.on('play', () => {
-    players.forEach(p => {
-      if (p.index !== player.index && p.isPlaying) {
-	p.stop();
-      }
-    });
-  });
-});
-</script>
-
 <linv rel="stylesheet" href="https://casual-effects.com/markdeep/latest/latex.css?">
 
 <style>.md h1, .md .nonumberh1 {page-break-before:always}
@@ -1063,76 +1030,56 @@ Mark Fisher had this to say in _Capitalist Realism_:
 
 **Workspace and environment**
 
-I borrowed this subheader from my favourite part of [https://www.Trash
-Audio](tiny.cc/vb0g5y), which is a blog that ran a series of interviews under
-this name. My favourite one, is the interview with [Valance
-Drakes](https://www.tiny.cc/n5zg5y), which to me stands out from the rest as an
-instance of the premise of having the series focus in on workspace inadvertantly
-becoming about class. Purchasing power, to my ears, is most times the inverse
-curvature on diagram where the other is creativity.
+I borrowed this subheader from my favourite part of [Trash
+Audio](https://www.tiny.cc/vb0g5y), which is a blog that ran a series of
+interviews under this name. My favourite one, is the interview with [Valance
+Drakes](https://www.tiny.cc/n5zg5y), which to me, stands out from the rest. In
+this interview the series' focus on workspace inadvertently ends up depicting
+class. To my ears, purchasing power usually inversely correlates to creativity.
 
 Here's a picture of my screen depicting one of the pieces I made for this thesis
-project. This is written in a (domain specific) language called TidalCycles.
-This is one of the pieces I wrote earlier in the process. This is the _before
-image_.
+project. This is written in a (domain specific) language called
+[TidalCycles](https://www.tiny.cc/369g5y) (fingers crossed it's still there in
+the future when you read this). I'm running a vim plugin called
+[TidalVim](https://www.tiny.cc/6n9g5y) inside of
+[NeoVim](https://www.tiny.cc/5r9g5y) which is a modal text editor.
+[Kitty](https://www.tiny.cc/ew9g5y) is my terminal emulator. This is one of the
+pieces I wrote earlier in the process of putting together this thesis project.
+
+This is the _before image_:
 
 ![](threeInterpretations.png)
 
-Here's another picture of my screen depicting another piece I made for this
-thesis project. This is written in a language called SuperCollider. This is one
-of the pieces I wrote later in the process. This is the _after image_. 
+Here's another picture of my screen depicting different piece I made for this
+thesis project. This is written in a language called
+[SuperCollider](https://www.tiny.cc/4vah5y) which is mainly an object oriented
+language but you _can_ write functionally in it also, if that is your thing.
+I've previously alluded to my not knowing why anyone would want to do that. This
+is an entirely too strange hill for me to die on. Just let it go! Ok? Try not to
+think about. I'm running a Vim plugin called
+[scnvim](https://www.tiny.cc/a2ah5y) inside of NeoVim which is still the same
+modal text editor as above. Kitty is still the terminal emulator of choice for
+the discerning user or admin.
+
+This is one of the pieces I wrote later in the process. This is the
+_after image_. 
+
+![](exploratoryNarratives.png)
 
 My ~~fitness~~ configuration journey is ongoing - New goals mean continual
 motivation.
 
-```
-s.boot
+They look kind of the same though right? Yes, they do. This is the way I like my
+environments to look. Free from distractions. Reduced, clear and to the point.
+I've spent a great deal of time and energy arriving at this look and fell. It is
+very dear to me, and it makes me very happy to see it. It _inspires_ me.
 
-MIDIClient.init;
-MIDIIn.connectAll;
-~midiOut = MIDIOut.newByName("IAC Driver", "Bus 1");
-
-(
-var degrees = Pstep(Pseq([ 0, 2, 4, 11, 7, 9, 1, 3, 5, 8, 1, 3, 6, 10 ], inf).asStream, 29, inf);
-var currentDegree = 0;
-Pdef(
-    \aPat,
-Pseed(99246, Pbind(
-    \type, \midi,
-    \midiout, ~midiOut,
-    \chan, 0,
-    \scale, Pstutter(1,
-        Pseq([
-            Scale.harmonicMinor,
-            Scale.aeolian,
-            Scale.harmonicMajor,
-            Scale.chromatic
-            ],inf)),
-    \mtranspose, Pstep(Pseq([ 0, 2, -1, -2, 3, 4, 1, -3, -4 ], inf), 9, inf),
-    \octave, Pstep(Pseq([ 3 ], inf), 5, inf),
-    //\octave, Pstutter(4, Pwrand(( 3..5 ), [ 1.75, 2, 1.25 ].normalizeSum,inf)),
-    \sustain, 45,
-    \amp, Pseq([
-        0,
-        Pseg(Pseq([ 0, 1, 0 ]), Pseq([ 26, 27, 28 ]), \sine),
-    ], inf),
-    \degree, Pn(Plazy {|event|
-        if (event.amp == 0) {
-            currentDegree = degrees.next;
-        };
-        currentDegree;
-    }),
-   \dur, Pseg(Pseq([ 1.5, 3, 1, 6, 0.5, 7, 0.25 ], inf),
-   Pseq([ 20, 25, 20, 15, 20, 25, 20 ], inf), \lin),
-))).play(quant: 1);
-CmdPeriod.doOnce {
-    // release any hanging notes
-    ~midiOut.allNotesOff(0);
-};
-// Post.nl; // Posts new line to the postwindow
-)
-
-```
+Here's a
+<ahref="http://danielmkarlsson.com/map-min-mid-max.md.html"target="_blank">link</a>
+to all of the GPLv3 licensed material, including the code, for all of the pieces
+that I made for this thesis project. It would make me very happy if you
+connected it to something you've made and fiddled with the numbers and the words
+to make your own music. Have at it!
 
 <br>
 
@@ -1852,3 +1799,38 @@ do however like to think that it clearly shows intent, and direction going forwa
 \pagebreak
 
 <style class="fallback">body{visibility:hidden;white-space:pre;font-family:monospace}</style><script src="https://casual-effects.com/markdeep/latest/markdeep.min.js" charset="utf-8"></script><script>window.alreadyProcessedMarkdeep||(document.body.style.visibility="visible")</script>
+
+<script type="text/javascript" src="player/dmk-player.js"></script>
+<script>
+const elements = document.getElementsByClassName('dmk-player');
+const players = Array.from(elements).map(el => {
+  if (el.dataset) {
+    const rootUrl = window.location.origin;
+    const playlist = el.dataset.playlist;
+    const isVideo = !!el.dataset.isVideo;
+    const layout = {
+      title: true,
+      elapsedTime: false,
+    };
+    const options = {
+      playlist,
+      isVideo,
+      rootUrl,
+    };
+    return new DMKPlayer(el, options, layout);
+  }
+});
+
+players.forEach((player, index) => {
+  player.index = index;
+  player.on('play', () => {
+    players.forEach(p => {
+      if (p.index !== player.index && p.isPlaying) {
+	p.stop();
+      }
+    });
+  });
+});
+</script>
+
+
