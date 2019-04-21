@@ -72,7 +72,7 @@ This quote taken from a SpitFire Audio manual for a percussion sample library.
 If you decide to keep this then you should find it.
 
 All that can be heard is real. Only imaginings of sounds are unreal. Sonorities
-yet to heard. There are fictions. Narratives exist. We live alongside our lores.
+yet to be heard. There are fictions. Narratives exist. We live alongside our lores.
 There are stories that we tell each other, and that we tell ourselves. Admitting
 the impossibility in knowing even one self. Certainly not each other. Definitely
 not culture. We are all choosing to live with these stories even as as we make
@@ -84,9 +84,6 @@ within Ryōanji from any vantage point to John Cage.
 
 Complexity must not be a goal in itself.   
 Strive to increase utility of information. 
-
-In the notion of the real talk about IRL and conversely AFK and the promise of
-The Public Internet and how the commercial internet is not that Stallman dream.
 
 The task at hand is mainly organising sound. My ambition is to present a number
 of materials, both in thought and in music. In doing so I hope to "tune" the
@@ -342,10 +339,16 @@ The willats image needs an intro.
 Put about about how the sutiudi is graet because from ax to loaf in contrast to
 the spiel about the the conductor scor thing sucks.
 
-Write a spiel about machine to man after Stay. Explain it!
+US Letter at 300dpi:    2550 pixels x 3300 pixels
 
-Fylkingen = National venue for weird music.
+A4 at 300dpi:           2480 pixels x 3508 pixels
 
-Link to Kurzgezagt videos for Dyson and computronium.
+2550 / 440 = 5.79545454545
+2480 / 440 = 5.63636363636
 
-Explain how links work and the thinking behind.
+Mimer was an enrichment plant and not an iron ore mine.
+
+Unions need more feelings!!!
+
+Pagebreaks around the player. Show full playlist.
+
