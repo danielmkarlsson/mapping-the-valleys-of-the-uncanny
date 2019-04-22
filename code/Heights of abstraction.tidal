@@ -1,0 +1,30 @@
+let wchoose weights values = choose $ concatMap (\x -> replicate (fst x) (snd x)) (zip weights values
+
+let rep = discretise
+
+cps (-1)
+
+cps 1
+
+m1 -- The first of two streams.
+$ (445<~) -- The seed from which all stochastic (actually deterministic) operations are derived.
+$ somecyclesBy (15/16) (1<~) -- A 15th out of 16th chance that time will be moved one cycle to the left.
+$ somecyclesBy (7/8) (iter 8) -- A 7th out of 8th chance that one cycle will be iterated on 8 times (shiftRegisteresque).
+$ somecyclesBy (4/9) (spread _slow (replicate 5 1)) -- A 4th out of 9th chance that a cycle will be repeated 5 times.
+$ fast (rep (1/7) $ wchoose [26,25..21] [9,11,13,15,17,19]) -- Every 7 cycles a new weighted choice of playback speed occours.
+$ n ((-17) + (rep (1/16) $ choose [0,5,7,9,10,17,29,31,33])) -- A new pitch every 16 events.
+# velocity (slow 0.1 $ scale 0.05 0.5 $ rand) -- Linearly distributed choice for velocity from the softer end of the value range.
+# cc0 (slow 0.11 $ scalex 0.001 0.2 $ rand) -- The attack time of the envelope in the sampler.
+# nudge (rep (1/8) $ slow 0.12 $ rand) -- A new value for linearly distributed offsets between 0 and 1 second for the onsets.
+
+m2 -- The below parameters are set to the same values as in the stream above so that this other $ n will happen simoultaniusly.
+$ (445<~) -- I would have prefered to not reproduce this whole amorphous blob of code here but it did done got the job done so yay.
+$ somecyclesBy (15/16) (1<~) -- Seriously tho; I extend my sincere apologies for this code reproduction.
+$ somecyclesBy (7/8) (iter 8) -- I tried to get the two values calculated together in an array but they getting added together.
+$ somecyclesBy (4/9) (spread _slow (replicate 5 1)) -- That's when I decided to reproduce code here as long as I apologized profusely.
+$ fast (rep (1/7) $ wchoose [26,25..21] [9,11,13,15,17,19]) -- My main focus is music not computer science I thought.
+$ n ((-20) - choose [0,2,3,4]) -- A new value for the type of iteration with each new note and cc value from above.
+
+15/16 = 0.9375              93.75%
+16/17 = 0.9411764705882353  94.11%
+17/18 = 0.9444444444444444  94.44%

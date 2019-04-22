@@ -1,0 +1,17 @@
+m2
+$ slow 2
+$ (945<~)
+$ degradeBy 0.85
+$ n (0 + wchoose [13,12..1] [17..29])
+# velocity (slow 0.1 $ scalex 0.1 1 $ rand)
+# legato (slow 0.11 $ scale 0.5 2 $ rand)
+
+m3
+$ (493<~)
+$ degradeBy 0.15
+$ n (0 + wchoose [45,44..1] ([-12..0] ++ [4..7] ++ [9..36]))
+# velocity (slow 0.12 $ scalex 0.1 1 $ rand)
+# legato (slow 0.13 $ scale 0.5 3 $ rand)
+# nudge (slow 64 $ scale 0 3 $ sine)
+
+cps (-1)
