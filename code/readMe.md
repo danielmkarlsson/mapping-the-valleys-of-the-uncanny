@@ -1,5 +1,3 @@
-Hey. You found this. Find out what this sounds like [here](http://danielmkarlsson.com).
+Hi. You found this. Find out what this sounds like here:
 
-Peace
-
-D
+[danielmkarlsson.com/map](https://www.danielmkarlsson.com/map)
